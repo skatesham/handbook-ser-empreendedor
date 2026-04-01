@@ -315,6 +315,11 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - Que área sempre tem dificuldade?  
     - Que tipo de problema se repete?  
     - Há problemas que afetam múltiplas áreas?
+    
+    **Exemplo real:**
+    - Limitação de tempo para inovação e experimentação
+    - Planejamento ineficiente para grandes desempenhos
+    - Etsy precisa constantemente de novos produtos e reposição
 
 ??? question "4. Há oportunidades emergentes?"
     **Identifique:**
@@ -323,6 +328,12 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - Alguma área com capacidade ociosa?  
     - Alguma demanda não atendida?  
     - Alguma tendência favorável?
+    
+    **Exemplo real:**
+    - Lixamento poderia ser terceirizado (libera tempo)
+    - Goma laca pode melhorar acabamento e velocidade
+    - Contratar auxiliar de marcenaria (escalar produção)
+    - Vender em atacado (alternativa ao frete de cartas)
 
 ### Como Fazer
 

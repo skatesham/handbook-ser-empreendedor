@@ -105,6 +105,9 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     
     **Exemplo:**
     > "Para pessoas que valorizam produtos únicos, sustentáveis e com história."
+    
+    **Caso real:**
+    > "Para xamânicos, espiritualistas, turistas conscientes e pessoas classe média-alta que buscam peças artesanais autênticas, de alta qualidade e com propósito."
 
 ??? question "3. O que te diferencia?"
     **O que responder:**
@@ -115,6 +118,9 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     
     **Exemplo:**
     > "Cada peça é única, feita à mão com materiais naturais certificados."
+    
+    **Caso real:**
+    > "Inovação constante, combinação de técnicas ancestrais e modernas, materiais sustentáveis, qualidade superior no acabamento, durabilidade e encaixe perfeito — diferente de concorrentes com qualidade inferior."
 
 ??? question "4. Este objetivo ainda faz sentido?"
     **Se for revisão (não primeira vez):**

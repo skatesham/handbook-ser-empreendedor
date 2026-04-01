@@ -154,6 +154,16 @@ Crie uma planilha com:
 - Coluna 4: Tendência (↗️ ↘️ →)
 - Coluna 5: Status (🟢 🟡 🔴)
 
+**Exemplo prático:**
+
+| Indicador | Meta | Atual | Tendência | Status |
+|-----------|------|-------|-----------|--------|
+| Receita Mensal | 20k | 15k | ↗️ | 🟢 |
+| Pedidos Etsy | 50 | 48 | → | 🟢 |
+| Pedidos ML | 20 | 8 | ↘️ | 🔴 |
+| Taxa Qualidade | 95% | 97% | ↗️ | 🟢 |
+| Novos Produtos/Mês | 10 | 6 | ↘️ | 🟡 |
+
 ### Opção 2: Dashboard Visual
 
 Use ferramentas como:
@@ -276,6 +286,8 @@ Quadro branco com:
     2. Use esses valores como baseline
     3. Defina metas de melhoria incremental
     4. Ajuste conforme aprende
+    
+    **Exemplo real:** Empresa estava em 15k/mês sem medição formal. Estabeleceu isso como baseline, definiu meta 1 (manter 15k) e meta 2 (atingir 20k). Agora acompanha mensalmente.
 
 ??? question "Como evitar manipular indicadores?"
     **Foque no aprendizado, não na punição.**

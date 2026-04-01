@@ -43,6 +43,8 @@ A **razão de existir** da sua empresa. Uma frase clara que responde: **"Por que
     ✅ Claro, específico e inspirador  
     ✅ Guia decisões sobre materiais, processos e produtos  
     ✅ Comunica valores para clientes e equipe
+    
+    **Exemplo real:** Empresa de produtos artísticos (Kuripes, esculturas, caixas) que combina técnicas ancestrais e modernas, focada em xamânicos, espiritualistas e turistas conscientes.
 
 === "Objetivo Vago"
     > "Ser a melhor empresa do mercado."
@@ -57,6 +59,11 @@ A **razão de existir** da sua empresa. Uma frase clara que responde: **"Por que
     **Pergunta:** Isso alinha com nosso objetivo?  
     **Resposta:** Não — nosso objetivo fala em "natureza" e "sustentabilidade"  
     **Decisão:** Recusar a oportunidade
+
+!!! example "Situação real: Cliente pede produtos em madeira não-certificada mais barata"
+    **Pergunta:** Isso alinha com sustentabilidade e qualidade?  
+    **Resposta:** Não — sacrificaria pilares essenciais  
+    **Decisão:** Manter materiais responsáveis, explicar diferencial ao cliente
 
 ---
 
@@ -136,13 +143,13 @@ A **organização da empresa** em setores, com papéis e responsabilidades clara
     | **🔨 Operacional** | Execução, atendimento, logística | **Faz acontecer** |
 
 === "Visão por Setores"
-    | Setor | Responsabilidades | Por Que Importa |
-    |-------|-------------------|-----------------|
-    | **🪵 Operações & Produção** | Lotes, materiais, prazos | Garante que produtos sejam feitos |
-    | **🎨 Produto & Catálogo** | Novos modelos, fotos, preços | Mantém oferta atualizada e atrativa |
-    | **🛒 Comercial** | Atendimento, envios, feiras | Gera receita e relacionamento |
-    | **💰 Financeiro** | Entradas, saídas, custos | Mantém empresa saudável |
-    | **❤️ Pessoas & Cultura** | Ritmo, segurança, alinhamento | Cuida de quem faz tudo acontecer |
+    | Setor | Responsabilidades | Exemplo Prático | Por Que Importa |
+    |-------|-------------------|-----------------|-----------------|
+    | **🪵 Operações & Produção** | Lotes, materiais, prazos | Lixamento, acabamento, goma laca | Garante que produtos sejam feitos |
+    | **🎨 Produto & Catálogo** | Novos modelos, fotos, preços | Novos kuripes, caixas, esculturas | Mantém oferta atualizada e atrativa |
+    | **🛒 Comercial** | Atendimento, envios, feiras | Etsy, ML, Feiras, atacado | Gera receita e relacionamento |
+    | **💰 Financeiro** | Entradas, saídas, custos | Metas 15k → 20k/mês | Mantém empresa saudável |
+    | **❤️ Pessoas & Cultura** | Ritmo, segurança, alinhamento | Evitar lesão, contratar auxiliar | Cuida de quem faz tudo acontecer |
 
 ### Organograma Interativo
 
