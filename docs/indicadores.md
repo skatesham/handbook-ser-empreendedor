@@ -33,6 +33,7 @@
 Todo indicador deve **gerar ação** quando sai do esperado.
 
 ❌ **Ruim**: "Número de visitantes no site"  
+
 ✅ **Bom**: "Taxa de conversão de visitantes em clientes"
 
 ### 3. Simples de Medir
@@ -40,6 +41,7 @@ Todo indicador deve **gerar ação** quando sai do esperado.
 Se é difícil medir, você não vai medir.
 
 ❌ **Ruim**: Indicador que precisa de 3 planilhas e 2 horas para calcular  
+
 ✅ **Bom**: Indicador que você vê em 5 minutos
 
 ### 4. Relevante para Decisões

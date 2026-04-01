@@ -246,23 +246,30 @@ Use técnica **5 Whys**:
 
 ## 🎯 Plano de Ação
 
+ 
 ### Imediato (24-48h)
 - [ ] [Ação 1] - Responsável: [Nome] - Prazo: [Data]
 - [ ] [Ação 2] - Responsável: [Nome] - Prazo: [Data]
+ 
 
 ### Curto Prazo (1-2 semanas)
 - [ ] [Ação 1] - Responsável: [Nome] - Prazo: [Data]
+ 
+ 
 - [ ] [Ação 2] - Responsável: [Nome] - Prazo: [Data]
 
 ### Longo Prazo (1-3 meses)
+ 
 - [ ] [Ação 1] - Responsável: [Nome] - Prazo: [Data]
 
+ 
 ---
 
 ## 📊 Indicadores de Ajuste
 
 - [Indicador 1]: [Meta]
 - [Indicador 2]: [Meta]
+ 
 
 ---
 
@@ -270,6 +277,7 @@ Use técnica **5 Whys**:
 
 - [Lição 1]
 - [Lição 2]
+ 
 - [Lição 3]
 
 ---

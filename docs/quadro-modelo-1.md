@@ -351,12 +351,20 @@ Descrição:
 - [Como nos relacionamos]
 
 **Receitas:**
+
+
 - [Como ganhamos dinheiro]
+
+
 
 **Recursos-Chave:**
 - [O que é essencial]
 
+
+
 **Atividades-Chave:**
+
+
 - [O que fazemos]
 
 **Parcerias-Chave:**
@@ -394,6 +402,7 @@ Descrição:
 - ❤️ Pessoas: [Nome]
 
 **Nível Operacional:**
+
 - [Função]: [Nome]
 - [Função]: [Nome]
 
@@ -509,6 +518,8 @@ Descrição:
 
 **O que é:** Registro de decisões estratégicas tomadas
 
+
+
 **Template:**
 ```markdown
 Título: 🎓 Decisões Importantes
@@ -537,9 +548,15 @@ Descrição:
 
 #### 14. 📈 OKRs do Trimestre
 
+
+
 **O que é:** Objectives and Key Results (se usar OKR)
 
+
+
 **Template:**
+
+
 ```markdown
 Título: 📈 OKRs Q[X]/[ANO]
 
@@ -569,14 +586,20 @@ Descrição:
 
 **O que é:** Previsão financeira do trimestre
 
+
+
 **Template:**
 ```markdown
 Título: 💰 Orçamento Q[X]/[ANO]
+
+
 
 Descrição:
 **Receitas Previstas:**
 - Total: R$ [Valor]
 - Por mês: R$ [M1] | R$ [M2] | R$ [M3]
+
+
 
 **Custos Previstos:**
 - Total: R$ [Valor]
@@ -747,6 +770,7 @@ Use **apenas 1 etiqueta colorida** por cartão operacional:
 ### Sinais de Alerta
 
 🚨 **Quadro com problemas:**
+
 - Cartões fixos desatualizados (>30 dias)
 - Cartões operacionais parados >30 dias
 - Muitos bloqueios não resolvidos
@@ -754,6 +778,7 @@ Use **apenas 1 etiqueta colorida** por cartão operacional:
 - Coluna "Ideias" >20 cartões
 
 ✅ **Quadro saudável:**
+
 - Cartões fixos sempre atualizados
 - Fluxo constante de conclusões
 - WIP controlado (3-5/pessoa)

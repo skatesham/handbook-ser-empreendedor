@@ -526,11 +526,13 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - **Descrição:**
       ```
       ## 🎯 Principais da Semana
+      
       - [Indicador 1]: [Valor] → Tendência: [↗️/➡️/↘️]
       - [Indicador 2]: [Valor] → Tendência: [↗️/➡️/↘️]
       - [Indicador 3]: [Valor] → Tendência: [↗️/➡️/↘️]
       
       ## 🚨 Alertas
+      
       - [Indicador com alerta]: [motivo]
       ```
     
