@@ -16,6 +16,7 @@ O **Ritual Semanal** é a ponte entre planejamento e execução diária. É quan
 - 🔼 Escala **problemas relevantes**
 
 !!! tip "Por que semanalmente?"
+    
     - **Curto o suficiente** para manter ritmo e urgência
     - **Longo o suficiente** para ver entregas completas
     - **Ritmo ideal** para coordenar execução sem microgerenciar

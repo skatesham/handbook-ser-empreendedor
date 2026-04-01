@@ -15,6 +15,7 @@
 - 📚 **Documentação** de aprendizados
 
 !!! tip "Por que evolução contínua importa?"
+    
     - **Adaptação**: Empresa se ajusta a mudanças do mercado
     - **Competitividade**: Melhora constante mantém vantagem
     - **Eficiência**: Processos ficam mais enxutos

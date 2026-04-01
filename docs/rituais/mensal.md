@@ -16,6 +16,7 @@ O **Ritual Mensal** é a ponte entre estratégia e execução. É quando você:
 - 📋 Define **prioridades do próximo mês**
 
 !!! tip "Por que mensalmente?"
+    
     - **Frequente o suficiente** para corrigir rota antes de virar crise
     - **Espaçado o suficiente** para ver resultados reais
     - **Ritmo ideal** para ajustes táticos sem microgerenciamento

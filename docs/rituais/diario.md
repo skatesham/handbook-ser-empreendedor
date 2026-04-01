@@ -15,6 +15,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - 📊 **Mantém** fluxo de trabalho
 
 !!! tip "Por que fazer diariamente?"
+    
     - **Visibilidade**: Todos sabem o que está acontecendo
     - **Agilidade**: Problemas são detectados cedo
     - **Coordenação**: Evita trabalho duplicado ou conflitante
@@ -274,6 +275,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 ## 🚨 Regras Importantes
 
 !!! warning "Mantenha Curto"
+    
     - **Máximo 15 minutos**
     - Não resolva problemas complexos aqui
     - Não faça brainstorming

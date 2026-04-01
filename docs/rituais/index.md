@@ -163,15 +163,19 @@ graph TB
 ## 🎯 Princípios dos Rituais
 
 !!! tip "Cada ritual tem seu lugar"
+    
     Não discuta estratégia no daily. Não resolva bloqueios operacionais no trimestral. Cada ritual tem seu foco.
 
 !!! tip "Saídas objetivas sempre"
+    
     Todo ritual deve gerar algo concreto: decisões, prioridades, ações, indicadores. Nunca termine sem saídas.
 
 !!! tip "Repetição cria disciplina"
+    
     A cadência fixa cria hábito e garante que nada seja esquecido. Consistência é fundamental.
 
 !!! tip "Escale quando necessário"
+    
     Se algo não cabe no ritual atual, escale para o próximo nível. Não force discussões longas.
 
 ---

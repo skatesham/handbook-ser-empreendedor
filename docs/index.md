@@ -167,18 +167,23 @@ Este guia está organizado em **3 pilares principais**:
 ## 🎯 Princípios do Método
 
 !!! tip "Ensinar e resolver ao mesmo tempo"
+    
     Cada etapa explica **o que fazer**, **por que fazer** e **como fazer bem**.
 
 !!! tip "Didático sem ser infantil"
+    
     Linguagem simples e objetiva, mas sem subestimar sua inteligência.
 
 !!! tip "Simples sem ser superficial"
+    
     Começa básico, mas permite aprofundamento progressivo.
 
 !!! tip "Ritualizado sem ser engessado"
+    
     Estrutura que guia, não que engessa. Você adapta ao seu contexto.
 
 !!! tip "Foco em pequena empresa"
+    
     Feito para quem tem recursos limitados e precisa de eficiência máxima.
 
 ---

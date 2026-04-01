@@ -9,6 +9,7 @@
 **Indicadores** são métricas que mostram se sua empresa está saudável e evoluindo. São os **sinais vitais** do negócio.
 
 !!! tip "Por que indicadores importam?"
+    
     - **Visibilidade real**: Sai do "achismo" e vai para dados concretos
     - **Alerta precoce**: Detecta problemas antes de virarem crises
     - **Foco no que importa**: Prioriza o que realmente move a empresa

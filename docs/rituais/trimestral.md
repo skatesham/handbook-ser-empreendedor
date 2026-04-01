@@ -16,6 +16,7 @@ O **Ritual Trimestral** é a reunião estratégica mais importante da empresa. �
 - 🎯 Define **prioridades estratégicas** para os próximos 90 dias
 
 !!! tip "Por que a cada 90 dias?"
+    
     - **Curto o suficiente** para manter foco e urgência
     - **Longo o suficiente** para ver resultados reais
     - **Ritmo ideal** para pequenas empresas se adaptarem

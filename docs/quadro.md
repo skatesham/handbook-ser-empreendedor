@@ -15,6 +15,7 @@ O **Quadro Kanban** é o coração operacional do sistema. É onde você:
 - ✅ **Celebra** conquistas
 
 !!! tip "Por que Kanban?"
+    
     - **Visual**: Vê tudo de uma vez
     - **Simples**: Fácil de entender e usar
     - **Flexível**: Adapta ao seu contexto

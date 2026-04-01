@@ -56,6 +56,7 @@ Esta coluna é **especial**. Os cartões aqui são **permanentes** e representam
 
 !!! warning "Regra de Ouro"
     Cartões da coluna **🎯 Decisões Estratégicas**:
+    
     - ❌ Nunca são movidos
     - ❌ Nunca são arquivados
     - ✅ São atualizados nos rituais
