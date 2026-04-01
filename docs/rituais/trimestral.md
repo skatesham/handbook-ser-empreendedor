@@ -153,6 +153,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas" (primeira coluna)
     
     **O que fazer:**
+    
     1. Criar cartão com título: "🎯 Objetivo Principal"
     2. No corpo do cartão, adicionar o texto do objetivo
     3. Marcar como cartão fixo (não move, não arquiva)
@@ -164,6 +165,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico (primeira coluna)
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "🎯 Objetivo Principal"
     3. No corpo do cartão, adicionar o texto do objetivo
@@ -177,6 +179,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Criar cartão com título: "🎯 Objetivo Principal"
     3. No corpo do cartão, adicionar o texto do objetivo
@@ -270,6 +273,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas" (logo após Objetivo Principal)
     
     **O que fazer:**
+    
     1. Criar cartão com título: "🏛️ Pilares da Empresa"
     2. Listar os 3-5 pilares no corpo do cartão
     3. Para cada pilar, adicionar a definição prática
@@ -282,6 +286,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "🏛️ Pilares da Empresa"
     3. Listar os 3-5 pilares com suas definições
@@ -294,6 +299,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Criar cartão com título: "🏛️ Pilares da Empresa"
     3. Listar os 3-5 pilares com suas definições práticas
@@ -385,6 +391,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Criar cartão com título: "🏗️ Estrutura"
     2. Listar setores e responsáveis
     3. Adicionar organograma simples (pode ser texto)
@@ -397,6 +404,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "🏗️ Estrutura"
     3. Listar setores e responsáveis
@@ -409,6 +417,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "🏗️ Estrutura"
     3. Listar setores, níveis e responsáveis
@@ -498,6 +507,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
       ```
     
     **O que fazer:**
+    
     1. Criar cartão com título e template acima
     2. Preencher com nomes e papéis
     3. Marcar como cartão fixo
@@ -513,6 +523,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
     - **Descrição:** Mesma estrutura do Modelo 1
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com template
     3. Marcar como fixo
@@ -543,6 +554,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
       ```
     
     **O que fazer:**
+    
     1. Criar no Quadro Estratégico
     2. Listar pessoas por nível de acesso aos quadros
     3. Marcar como fixo
@@ -679,6 +691,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
       ```
     
     **O que fazer:**
+    
     1. Criar cartão com título e template
     2. Preencher cada seção de forma resumida
     3. Marcar como cartão fixo
@@ -694,6 +707,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - **Descrição:** Mesma estrutura do Modelo 1
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com template
     3. Preencher de forma resumida
@@ -710,6 +724,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - **Descrição:** Mesma estrutura do Modelo 1
     
     **O que fazer:**
+    
     1. Criar no Quadro Estratégico
     2. Preencher cada seção
     3. Marcar como fixo
@@ -811,6 +826,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
       ```
     
     **O que fazer:**
+    
     1. Criar cartão com título e template
     2. Mapear fluxo básico do negócio
     3. Marcar como cartão fixo
@@ -826,6 +842,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - **Descrição:** Mesma estrutura do Modelo 1
     
     **O que fazer:**
+    
     1. Criar no Quadro Estratégico (visão macro) ou Quadro Tático (visão processo)
     2. Mapear fluxo principal
     3. Marcar como fixo
@@ -857,6 +874,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
       ```
     
     **O que fazer:**
+    
     1. Criar no Quadro Tático (gerentes)
     2. Mapear fluxo entre os níveis
     3. Marcar como fixo
@@ -950,6 +968,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Criar cartão com título: "📊 Indicadores Principais"
     2. Listar os 8-12 indicadores principais
     3. Para cada indicador: nome, meta, frequência
@@ -962,6 +981,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "📊 Indicadores Principais"
     3. Listar indicadores com metas e frequência
@@ -974,6 +994,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Criar cartão com título: "📊 Indicadores Principais"
     3. Listar indicadores estratégicos com metas
@@ -1059,6 +1080,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
     2. Listar principais lições do trimestre
     3. Adicionar mudanças propostas
@@ -1071,6 +1093,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
     3. Listar lições aprendidas do trimestre
@@ -1083,6 +1106,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
     3. Listar principais lições estratégicas

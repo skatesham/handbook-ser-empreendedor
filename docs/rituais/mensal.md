@@ -143,6 +143,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Localizar cartão "🏆 Conquistas do Mês [MÊS/ANO]"
     2. Atualizar com entregas concluídas do mês
     3. Adicionar principais vitórias e aprendizados
@@ -155,6 +156,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Localizar cartão "🏆 Conquistas do Mês"
     3. Atualizar com principais entregas e vitórias
@@ -168,6 +170,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Localizar cartão "🏆 Conquistas do Mês"
     3. Atualizar com conquistas estratégicas do mês
@@ -250,6 +253,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Localizar cartão "📈 Status do Trimestre Q[X]/[ANO]"
     2. Atualizar progresso (%) de cada prioridade trimestral
     3. Atualizar status: 🟢 No prazo | 🟡 Atenção | 🔴 Atrasado
@@ -263,6 +267,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - coluna "Frentes Trimestrais"
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Para cada cartão de "Frente Trimestral":
        - Atualizar progresso (%)
@@ -276,6 +281,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Para cada "Frente Trimestral":
        - Atualizar progresso e status
@@ -362,6 +368,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
+    
     1. Localizar cartão "📊 Indicadores Principais"
     2. Atualizar valores de cada indicador com dados do mês
     3. Adicionar comparação: anterior vs atual
@@ -374,6 +381,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico
     2. Localizar cartão "📊 Indicadores Principais"
     3. Atualizar valores mensais de cada indicador
@@ -386,6 +394,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Atualizar indicadores estratégicos
     3. Adicionar valores e tendências
@@ -479,6 +488,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "🚨 Problemas"
     
     **O que fazer:**
+    
     1. Para cada desvio significativo ou gargalo:
        - Criar cartão com título: "🚨 Problema: [Nome]"
        - Adicionar descrição do problema
@@ -492,6 +502,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional (ou Quadro Estratégico se problema grave)
     
     **O que fazer:**
+    
     1. Problemas táticos/operacionais: criar no Quadro Tático
     2. Problemas que afetam estratégia trimestral: criar no Quadro Estratégico
     3. Para cada problema:
@@ -505,6 +516,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Operacional, Tático ou Estratégico (conforme gravidade)
     
     **O que fazer:**
+    
     1. **Problema operacional**: criar no Quadro Operacional
     2. **Problema tático**: criar no Quadro Tático
     3. **Problema estratégico**: criar no Quadro Estratégico
@@ -588,6 +600,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "🚨 Problemas" → Coluna "📋 Prioridades" (se virar ação)
     
     **O que fazer:**
+    
     1. Para problemas já no quadro (da Etapa 4):
        - Adicionar solução definida no corpo do cartão
        - Adicionar causa raiz identificada
@@ -602,6 +615,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional (ou Estratégico se problema estratégico)
     
     **O que fazer:**
+    
     1. Atualizar cartões de "Problema" com:
        - Causa raiz
        - Solução definida
@@ -616,6 +630,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Operacional, Tático ou Estratégico (onde está o problema)
     
     **O que fazer:**
+    
     1. Localizar cartões de "Problema" criados na Etapa 4
     2. Atualizar cada um com solução e responsável
     3. Se solução exige ação:
@@ -824,6 +839,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer:**
+    
     1. Abrir Quadro Tático/Operacional
     2. Para cada prioridade mensal:
        - Criar cartão "📋 Prioridade: [Nome]"
@@ -838,6 +854,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático - Gerentes/Coordenadores
     
     **O que fazer:**
+    
     1. Abrir Quadro Tático (nível gerentes)
     2. Para cada prioridade mensal:
        - Criar cartão "📋 Prioridade: [Nome]"
@@ -947,6 +964,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional - coluna "Ideias"
     
     **O que fazer:**
+    
     1. **Ideias aprovadas**: manter no Quadro Tático com plano de teste
     2. **Ideias de backlog**: manter com etiqueta apropriada
     3. **Ideias rejeitadas**: arquivar com justificativa
@@ -958,6 +976,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático ou Operacional (conforme escopo)
     
     **O que fazer:**
+    
     1. **Ideias operacionais**: gerenciar no Quadro Operacional
     2. **Ideias táticas**: gerenciar no Quadro Tático
     3. **Ideias estratégicas**: escalar para Quadro Estratégico (raro)
