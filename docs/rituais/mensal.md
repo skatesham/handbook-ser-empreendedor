@@ -69,6 +69,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 ## 🔍 Etapa 1: Retrospectiva do Mês Anterior
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 1 de 8</span>
+    <span class="ritual-progress-percentage">0%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 0%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Retrospectiva mensal** garante que você aprende com o que aconteceu e não repete os mesmos erros.
@@ -180,6 +190,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 ---
 
 ## 📊 Etapa 2: Status das Frentes Estratégicas
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 2 de 8</span>
+    <span class="ritual-progress-percentage">12%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 12%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -294,6 +314,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 ## 📈 Etapa 3: Indicadores Táticos
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 3 de 8</span>
+    <span class="ritual-progress-percentage">25%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 25%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Indicadores táticos** mostram se o negócio está saudável e evoluindo no curto prazo.
@@ -403,6 +433,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 ---
 
 ## 🔍 Etapa 4: Desvios, Gargalos e Oportunidades
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 4 de 8</span>
+    <span class="ritual-progress-percentage">50%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 50%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -526,6 +566,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 ## 🚨 Etapa 5: Resolução de Problemas Relevantes
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 5 de 8</span>
+    <span class="ritual-progress-percentage">62.5%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 62.5%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Resolver problemas táticos** evita que pequenos problemas virem grandes crises.
@@ -641,6 +691,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 ## 🎯 Etapa 6: Decisões Táticas
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 6 de 8</span>
+    <span class="ritual-progress-percentage">62.5%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 62.5%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Decisões táticas** ajustam o plano para manter alinhamento com a estratégia trimestral.
@@ -751,6 +811,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 ---
 
 ## 📋 Etapa 7: Prioridades do Próximo Mês
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 7 de 8</span>
+    <span class="ritual-progress-percentage">75%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 75%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -866,6 +936,16 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 ---
 
 ## 💡 Etapa 8: Triagem de Ideias
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 8 de 8</span>
+    <span class="ritual-progress-percentage">87%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 87%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -1042,6 +1122,85 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Ajuste** o que não está funcionando
 3. **Escale** problemas que não se resolvem na semana
 4. **Prepare-se** para próximo ritual mensal
+
+---
+
+## 🎉 Parabéns por Concluir o Ritual Mensal!
+
+<div class="ritual-celebration">
+  <div class="ritual-celebration-header">
+    <div class="ritual-celebration-title">🏆 Ritual Mensal Concluído!</div>
+    <div class="ritual-celebration-subtitle">Você manteve a maturidade tática da sua empresa</div>
+  </div>
+  
+  <div class="ritual-celebration-content">
+    <div class="ritual-celebration-section-title">
+      ✨ Maturidade Conquistada
+    </div>
+    
+    <ul class="ritual-celebration-list">
+      <li>
+        <span class="ritual-celebration-icon">🔍</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Retrospectiva Mensal Completa</div>
+          <div class="ritual-celebration-description">Aprendizados do mês documentados garantem evolução contínua e evitam repetição de erros</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📊</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Acompanhamento Estratégico Atualizado</div>
+          <div class="ritual-celebration-description">Status das frentes trimestrais revisado mantém a empresa no caminho certo</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📈</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Indicadores Táticos Monitorados</div>
+          <div class="ritual-celebration-description">Métricas mensais atualizadas revelam tendências e alertas precoces</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🚨</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Problemas Identificados e Resolvidos</div>
+          <div class="ritual-celebration-description">Gargalos mapeados com soluções claras evitam que pequenos problemas virem crises</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🎯</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Decisões Táticas Documentadas</div>
+          <div class="ritual-celebration-description">Escolhas importantes registradas mantêm alinhamento com a estratégia trimestral</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📋</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Prioridades do Mês Definidas</div>
+          <div class="ritual-celebration-description">Foco claro para os próximos 30 dias traduz estratégia em execução</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">💡</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Ideias Triadas e Organizadas</div>
+          <div class="ritual-celebration-description">Inovação controlada captura oportunidades sem dispersar foco</div>
+        </div>
+      </li>
+    </ul>
+    
+    <div class="ritual-celebration-footer">
+      ⭐ Continue com os rituais semanais para manter o ritmo de execução!
+    </div>
+  </div>
+</div>
 
 ---
 

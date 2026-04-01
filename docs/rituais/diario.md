@@ -40,7 +40,17 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 ## 📋 Estrutura do Ritual
 
-### 1. Foco do Dia (3 min)
+### 1. 🎯 Foco do Dia
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Seção 1 de 4</span>
+    <span class="ritual-progress-percentage">0%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 0%"></div>
+  </div>
+</div>
 
 **O que fazer:**
 
@@ -84,7 +94,17 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 ---
 
-### 2. Estado das Ações (5 min)
+### 2. 🔄 Estado das Ações
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Seção 2 de 4</span>
+    <span class="ritual-progress-percentage">25%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 25%"></div>
+  </div>
+</div>
 
 **O que fazer:**
 
@@ -132,7 +152,17 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 ---
 
-### 3. Bloqueios Imediatos (5 min)
+### 3. 🚨 Bloqueios Imediatos
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Seção 3 de 4</span>
+    <span class="ritual-progress-percentage">50%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 50%"></div>
+  </div>
+</div>
 
 **O que fazer:**
 
@@ -182,7 +212,17 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 ---
 
-### 4. Ajustes Finos (2 min)
+### 4. ⚙️ Ajustes Finos
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Seção 4 de 4</span>
+    <span class="ritual-progress-percentage">75%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 75%"></div>
+  </div>
+</div>
 
 **O que fazer:**
 
@@ -300,6 +340,61 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - Atualização assíncrona pela manhã
 - Call rápida (5-10 min) só para bloqueios
 - Quadro atualizado por todos
+
+---
+
+## 🎉 Parabéns por Concluir o Ritual Diário!
+
+<div class="ritual-celebration">
+  <div class="ritual-celebration-header">
+    <div class="ritual-celebration-title">🏆 Ritual Diário Concluído!</div>
+    <div class="ritual-celebration-subtitle">Você manteve a coordenação diária da sua equipe</div>
+  </div>
+  
+  <div class="ritual-celebration-content">
+    <div class="ritual-celebration-section-title">
+      ✨ Maturidade Conquistada
+    </div>
+    
+    <ul class="ritual-celebration-list">
+      <li>
+        <span class="ritual-celebration-icon">🎯</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Foco Diário Alinhado</div>
+          <div class="ritual-celebration-description">Equipe sabe exatamente quais são as 1-3 prioridades críticas do dia</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🔄</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Status em Tempo Real</div>
+          <div class="ritual-celebration-description">Visibilidade instantânea do que foi feito, o que está em andamento e o que está travado</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🚨</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Bloqueios Removidos Imediatamente</div>
+          <div class="ritual-celebration-description">Impedimentos resolvidos ou escalados rapidamente mantêm execução fluindo</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">⚙️</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Coordenação Ágil</div>
+          <div class="ritual-celebration-description">Ajustes finos e redistribuição de esforço garantem que o dia termine produtivo</div>
+        </div>
+      </li>
+    </ul>
+    
+    <div class="ritual-celebration-footer">
+      ⭐ Ritual mais curto, mas essencial para manter o ritmo diário!
+    </div>
+  </div>
+</div>
 
 ---
 

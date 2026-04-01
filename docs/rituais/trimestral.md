@@ -71,6 +71,16 @@ O ritual tem **10 etapas sequenciais**. Cada uma gera materiais importantes para
 
 ## 🎯 Etapa 1: Objetivo Principal
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 1 de 10</span>
+    <span class="ritual-progress-percentage">0%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 0%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 O **objetivo principal** é a razão de existir da empresa. Sem ele, você não tem critério para decidir o que fazer ou deixar de fazer.
@@ -192,6 +202,16 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
 
 ## 🏛️ Etapa 2: Pilares da Empresa
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 2 de 10</span>
+    <span class="ritual-progress-percentage">10%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 10%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Pilares** são os valores e princípios não-negociáveis. Eles guiam decisões quando o objetivo não é específico o suficiente.
@@ -310,6 +330,16 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
 
 ## 🏗️ Etapa 3: Estrutura e Responsáveis
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 3 de 10</span>
+    <span class="ritual-progress-percentage">20%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 20%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Estrutura clara** evita confusão sobre quem faz o quê. Mesmo empresas pequenas precisam de papéis definidos.
@@ -427,6 +457,16 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
 ---
 
 ## 👥 Etapa 4: Participantes e Papéis
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 4 de 10</span>
+    <span class="ritual-progress-percentage">30%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 30%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -563,6 +603,16 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
 ---
 
 ## 📊 Etapa 5: Canvas Simplificado
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 5 de 10</span>
+    <span class="ritual-progress-percentage">40%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 40%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -734,6 +784,16 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ## 🏛️ Etapa 6: Arquitetura Operacional
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 6 de 10</span>
+    <span class="ritual-progress-percentage">50%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 50%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Arquitetura operacional** mostra como o trabalho realmente flui na empresa, do pedido à entrega.
@@ -884,6 +944,16 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ## 📈 Etapa 7: Indicadores Principais
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 7 de 10</span>
+    <span class="ritual-progress-percentage">60%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 60%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Indicadores** mostram se a empresa está saudável. Sem métricas, você navega no escuro.
@@ -1005,6 +1075,16 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ## 🔍 Etapa 8: Aprendizados do Trimestre
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 8 de 10</span>
+    <span class="ritual-progress-percentage">70%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 70%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Retrospectiva** garante que você aprende com erros e acertos. Sem isso, você repete os mesmos problemas.
@@ -1116,6 +1196,16 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 ---
 
 ## 🎯 Etapa 9: Decisões Estratégicas
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 9 de 10</span>
+    <span class="ritual-progress-percentage">80%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 80%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -1229,6 +1319,16 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 ---
 
 ## 🚀 Etapa 10: Prioridades do Próximo Trimestre
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 10 de 10</span>
+    <span class="ritual-progress-percentage">90%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 90%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -1422,6 +1522,77 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Ajuste** o que não está funcionando
 3. **Celebre** conquistas intermediárias
 4. **Prepare-se** para próximo ritual trimestral
+
+---
+
+## 🎉 Parabéns por Concluir o Ritual Trimestral!
+
+<div class="ritual-celebration">
+  <div class="ritual-celebration-header">
+    <div class="ritual-celebration-title">🏆 Ritual Trimestral Concluído!</div>
+    <div class="ritual-celebration-subtitle">Você elevou a maturidade da sua empresa</div>
+  </div>
+  
+  <div class="ritual-celebration-content">
+    <div class="ritual-celebration-section-title">
+      ✨ Maturidade Conquistada
+    </div>
+    
+    <ul class="ritual-celebration-list">
+      <li>
+        <span class="ritual-celebration-icon">🎯</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Direção Estratégica Clara</div>
+          <div class="ritual-celebration-description">Sua empresa agora tem um objetivo principal documentado e pilares bem definidos que guiam todas as decisões importantes</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🏗️</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Estrutura Organizacional Definida</div>
+          <div class="ritual-celebration-description">Responsabilidades claras e setores organizados eliminam confusão sobre quem faz o quê</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📊</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Gestão Baseada em Dados</div>
+          <div class="ritual-celebration-description">Indicadores principais definidos permitem tomar decisões com base em fatos, não achismos</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📚</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Aprendizado Contínuo</div>
+          <div class="ritual-celebration-description">Retrospectiva documentada garante que sua empresa aprende com erros e acertos</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🚀</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Foco em Execução</div>
+          <div class="ritual-celebration-description">3-5 prioridades trimestrais claras concentram energia no que realmente importa</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🎨</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Modelo de Negócio Documentado</div>
+          <div class="ritual-celebration-description">Canvas e arquitetura operacional mapeados trazem clareza sobre como o negócio funciona</div>
+        </div>
+      </li>
+    </ul>
+    
+    <div class="ritual-celebration-footer">
+      ⭐ Continue executando os rituais mensais para manter esse nível de maturidade e crescer ainda mais!
+    </div>
+  </div>
+</div>
 
 ---
 

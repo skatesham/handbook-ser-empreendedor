@@ -67,6 +67,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 ## 🔍 Etapa 1: Fechamento da Semana Anterior
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 1 de 6</span>
+    <span class="ritual-progress-percentage">0%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 0%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Fechamento semanal** garante visibilidade do que foi feito e do que ficou pendente.
@@ -178,6 +188,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 ---
 
 ## 🎯 Etapa 2: Prioridades da Semana
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 2 de 6</span>
+    <span class="ritual-progress-percentage">17%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 17%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -294,6 +314,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 ## 🚨 Etapa 3: Problemas e Bloqueios
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 3 de 6</span>
+    <span class="ritual-progress-percentage">33%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 33%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Identificar bloqueios** cedo evita que pequenos impedimentos virem grandes atrasos.
@@ -406,6 +436,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 ---
 
 ## 📊 Etapa 4: Indicadores Operacionais
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 4 de 6</span>
+    <span class="ritual-progress-percentage">50%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 50%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -525,6 +565,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 ## ⚡ Etapa 5: Decisões Rápidas
 
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 5 de 6</span>
+    <span class="ritual-progress-percentage">67%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 67%"></div>
+  </div>
+</div>
+
 ### Por Que Esta Etapa Existe?
 
 **Decisões rápidas** mantêm a execução fluindo sem esperar rituais maiores.
@@ -630,6 +680,16 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 ---
 
 ## 💡 Etapa 6: Ideias Emergentes
+
+<div class="ritual-progress">
+  <div class="ritual-progress-header">
+    <span class="ritual-progress-label">Etapa 6 de 6</span>
+    <span class="ritual-progress-percentage">83%</span>
+  </div>
+  <div class="ritual-progress-bar-container">
+    <div class="ritual-progress-bar-fill" style="width: 83%"></div>
+  </div>
+</div>
 
 ### Por Que Esta Etapa Existe?
 
@@ -799,6 +859,77 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Consolide** indicadores operacionais
 3. **Liste** novos bloqueios
 4. **Capture** ideias emergentes
+
+---
+
+## 🎉 Parabéns por Concluir o Ritual Semanal!
+
+<div class="ritual-celebration">
+  <div class="ritual-celebration-header">
+    <div class="ritual-celebration-title">🏆 Ritual Semanal Concluído!</div>
+    <div class="ritual-celebration-subtitle">Você manteve o ritmo de execução da sua empresa</div>
+  </div>
+  
+  <div class="ritual-celebration-content">
+    <div class="ritual-celebration-section-title">
+      ✨ Maturidade Conquistada
+    </div>
+    
+    <ul class="ritual-celebration-list">
+      <li>
+        <span class="ritual-celebration-icon">📊</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Visibilidade Semanal Clara</div>
+          <div class="ritual-celebration-description">Fechamento da semana anterior dá clareza sobre progresso real e conquistas</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🎯</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Foco Semanal Definido</div>
+          <div class="ritual-celebration-description">5-10 prioridades claras para a semana mantêm a equipe alinhada e produtiva</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">🚨</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Bloqueios Removidos Rapidamente</div>
+          <div class="ritual-celebration-description">Problemas identificados e resolvidos antes de virar grandes atrasos</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">📈</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Indicadores Operacionais Acompanhados</div>
+          <div class="ritual-celebration-description">Sinais rápidos da execução permitem ajustes antes de virar problema</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">⚡</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Decisões Rápidas Tomadas</div>
+          <div class="ritual-celebration-description">Escolhas operacionais feitas no nível certo mantêm execução fluindo</div>
+        </div>
+      </li>
+      
+      <li>
+        <span class="ritual-celebration-icon">💡</span>
+        <div class="ritual-celebration-text">
+          <div class="ritual-celebration-label">Ideias da Operação Capturadas</div>
+          <div class="ritual-celebration-description">Melhorias identificadas na execução garantem evolução contínua</div>
+        </div>
+      </li>
+    </ul>
+    
+    <div class="ritual-celebration-footer">
+      ⭐ Continue com os rituais diários para manter a coordenação da equipe!
+    </div>
+  </div>
+</div>
 
 ---
 
