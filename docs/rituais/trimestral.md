@@ -145,6 +145,46 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - [ ] Aprovado por todos os participantes
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar ou atualizar cartão fixo "🎯 Objetivo Principal"
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas" (primeira coluna)
+    
+    **O que fazer:**
+    1. Criar cartão com título: "🎯 Objetivo Principal"
+    2. No corpo do cartão, adicionar o texto do objetivo
+    3. Marcar como cartão fixo (não move, não arquiva)
+    4. Posicionar no topo da coluna fixa
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar ou atualizar cartão fixo "🎯 Objetivo Principal"
+    
+    **Onde:** Quadro Estratégico (primeira coluna)
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "🎯 Objetivo Principal"
+    3. No corpo do cartão, adicionar o texto do objetivo
+    4. Marcar como cartão fixo
+    5. Posicionar no topo do quadro
+    6. **Nota:** Cartões fixos estratégicos existem APENAS no Quadro Estratégico, não no Quadro Tático/Operacional
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar ou atualizar cartão fixo "🎯 Objetivo Principal"
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Criar cartão com título: "🎯 Objetivo Principal"
+    3. No corpo do cartão, adicionar o texto do objetivo
+    4. Marcar como cartão fixo
+    5. Posicionar no topo do quadro
+    6. **Nota:** Este cartão só fica visível no nível estratégico
+    7. **Importante:** Cartões fixos estratégicos existem APENAS no Quadro Estratégico
+
 ---
 
 ## 🏛️ Etapa 2: Pilares da Empresa
@@ -221,6 +261,44 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - [ ] Cada pilar tem definição prática (1-2 frases)
     - [ ] Exemplos de como cada pilar afeta decisões
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar ou atualizar cartão fixo "🏛️ Pilares da Empresa"
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas" (logo após Objetivo Principal)
+    
+    **O que fazer:**
+    1. Criar cartão com título: "🏛️ Pilares da Empresa"
+    2. Listar os 3-5 pilares no corpo do cartão
+    3. Para cada pilar, adicionar a definição prática
+    4. Marcar como cartão fixo
+    5. Posicionar após o cartão "Objetivo Principal"
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar ou atualizar cartão fixo "🏛️ Pilares da Empresa"
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "🏛️ Pilares da Empresa"
+    3. Listar os 3-5 pilares com suas definições
+    4. Marcar como cartão fixo
+    5. Posicionar após o cartão "Objetivo Principal"
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar ou atualizar cartão fixo "🏛️ Pilares da Empresa"
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Criar cartão com título: "🏛️ Pilares da Empresa"
+    3. Listar os 3-5 pilares com suas definições práticas
+    4. Marcar como cartão fixo
+    5. Posicionar após o cartão "Objetivo Principal"
 
 ---
 
@@ -299,6 +377,44 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - [ ] Níveis de decisão claros
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartão fixo "🏗️ Estrutura" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Criar cartão com título: "🏗️ Estrutura"
+    2. Listar setores e responsáveis
+    3. Adicionar organograma simples (pode ser texto)
+    4. Marcar como cartão fixo
+    5. **Nota:** Este cartão é opcional - pode ficar só no Painel
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "🏗️ Estrutura" (opcional)
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "🏗️ Estrutura"
+    3. Listar setores e responsáveis
+    4. Marcar como cartão fixo
+    5. **Nota:** Opcional - estrutura pode ficar só no Painel
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "🏗️ Estrutura" (opcional)
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "🏗️ Estrutura"
+    3. Listar setores, níveis e responsáveis
+    4. Marcar como cartão fixo
+    5. **Nota:** Útil para lembrar quem acessa qual quadro
+
 ---
 
 ## 👥 Etapa 4: Participantes e Papéis
@@ -359,6 +475,78 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
     - [ ] Participação em rituais definida
     - [ ] Nível de autoridade claro
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartão fixo "👥 Participantes e Papéis" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **Template do Cartão:**
+    - **Título:** "👥 Participantes e Papéis"
+    - **Descrição:** 
+      ```
+      ## Equipe Principal
+      - [Nome] - [Papel/Função] - [Responsabilidades principais]
+      - [Nome] - [Papel/Função] - [Responsabilidades principais]
+      
+      ## Papéis no Sistema
+      - Quem conduz rituais trimestrais: [Nome]
+      - Quem conduz rituais mensais: [Nome]
+      - Quem atualiza indicadores: [Nome]
+      ```
+    
+    **O que fazer:**
+    1. Criar cartão com título e template acima
+    2. Preencher com nomes e papéis
+    3. Marcar como cartão fixo
+    4. **Nota:** Opcional - pode ficar só no Painel se preferir
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "👥 Participantes e Papéis" (opcional)
+    
+    **Onde:** Quadro Estratégico
+    
+    **Template do Cartão:**
+    - **Título:** "👥 Participantes e Papéis"
+    - **Descrição:** Mesma estrutura do Modelo 1
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com template
+    3. Marcar como fixo
+    4. **Nota:** Opcional - útil para ter visão completa no quadro
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "👥 Participantes e Papéis" (opcional)
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **Template do Cartão:**
+    - **Título:** "👥 Estrutura de Pessoas"
+    - **Descrição:**
+      ```
+      ## Nível Estratégico
+      - [Nome] - CEO/Fundador - Acessa Quadro Estratégico
+      
+      ## Nível Tático
+      - [Nome] - Gerente/Coordenador - Acessa Quadro Tático
+      
+      ## Nível Operacional
+      - [Nome] - Executor - Acessa Quadro Operacional
+      
+      ## Responsáveis por Rituais
+      - Trimestral: [Nome]
+      - Mensal: [Nome]
+      - Semanal: [Nome]
+      ```
+    
+    **O que fazer:**
+    1. Criar no Quadro Estratégico
+    2. Listar pessoas por nível de acesso aos quadros
+    3. Marcar como fixo
+    4. **Nota:** Especialmente útil para saber quem acessa qual quadro
 
 ---
 
@@ -460,6 +648,73 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Custos principais mapeados
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartão fixo "🎨 Canvas do Negócio" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **Template do Cartão:**
+    - **Título:** "🎨 Canvas do Negócio"
+    - **Descrição:**
+      ```
+      ## 👥 Para Quem
+      [Segmento de clientes]
+      
+      ## 💎 Proposta de Valor
+      [O que entregamos de único]
+      
+      ## 📦 O Que Entregamos
+      [Produtos/serviços principais]
+      
+      ## 💰 Como Ganhamos
+      [Fontes de receita]
+      
+      ## 🔑 Recursos Principais
+      [O que é essencial para operar]
+      
+      ## 🤝 Parceiros Chave
+      [Quem nos ajuda a entregar]
+      ```
+    
+    **O que fazer:**
+    1. Criar cartão com título e template
+    2. Preencher cada seção de forma resumida
+    3. Marcar como cartão fixo
+    4. **Nota:** Opcional - útil para ter modelo de negócio sempre visível
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "🎨 Canvas do Negócio" (opcional)
+    
+    **Onde:** Quadro Estratégico
+    
+    **Template do Cartão:**
+    - **Título:** "🎨 Canvas do Negócio"
+    - **Descrição:** Mesma estrutura do Modelo 1
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com template
+    3. Preencher de forma resumida
+    4. Marcar como fixo
+    5. **Nota:** Opcional - pode ficar só no Painel
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "🎨 Canvas do Negócio" (opcional)
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **Template do Cartão:**
+    - **Título:** "🎨 Modelo de Negócio"
+    - **Descrição:** Mesma estrutura do Modelo 1
+    
+    **O que fazer:**
+    1. Criar no Quadro Estratégico
+    2. Preencher cada seção
+    3. Marcar como fixo
+    4. **Nota:** Útil para manter modelo de negócio sempre visível no nível estratégico
+
 ---
 
 ## 🏛️ Etapa 6: Arquitetura Operacional
@@ -527,6 +782,85 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Gargalos conhecidos
     - [ ] Oportunidades de melhoria listadas
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartão fixo "🏛️ Arquitetura Operacional" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **Template do Cartão:**
+    - **Título:** "🏛️ Fluxo Operacional"
+    - **Descrição:**
+      ```
+      ## 📥 Entrada (Pedido/Demanda)
+      [Como cliente chega até nós]
+      
+      ## ⚙️ Processo Principal
+      1. [Primeira etapa do processo]
+      2. [Segunda etapa]
+      3. [Terceira etapa]
+      
+      ## 📤 Saída (Entrega)
+      [Como entregamos para o cliente]
+      
+      ## 🔑 Pontos Críticos
+      - [Gargalo ou ponto de atenção 1]
+      - [Gargalo ou ponto de atenção 2]
+      ```
+    
+    **O que fazer:**
+    1. Criar cartão com título e template
+    2. Mapear fluxo básico do negócio
+    3. Marcar como cartão fixo
+    4. **Nota:** Opcional - útil para ter processo sempre visível
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "🏛️ Arquitetura Operacional" (opcional)
+    
+    **Onde:** Quadro Estratégico ou Quadro Tático
+    
+    **Template do Cartão:**
+    - **Título:** "🏛️ Fluxo Operacional"
+    - **Descrição:** Mesma estrutura do Modelo 1
+    
+    **O que fazer:**
+    1. Criar no Quadro Estratégico (visão macro) ou Quadro Tático (visão processo)
+    2. Mapear fluxo principal
+    3. Marcar como fixo
+    4. **Nota:** Pode criar versão resumida no Estratégico e detalhada no Tático/Operacional
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "🏛️ Arquitetura Operacional" (opcional)
+    
+    **Onde:** Quadro Tático/Operacional (mais adequado que Estratégico)
+    
+    **Template do Cartão:**
+    - **Título:** "🏛️ Fluxo de Processos"
+    - **Descrição:**
+      ```
+      ## 📥 Entrada
+      [Como demanda chega]
+      
+      ## ⚙️ Nível Tático
+      [Planejamento e coordenação]
+      
+      ## 🔧 Nível Operacional
+      [Execução do processo]
+      
+      ## 📤 Entrega
+      [Como sai para o cliente]
+      
+      ## 🔗 Integração entre Níveis
+      [Como Estratégico → Tático → Operacional se conectam]
+      ```
+    
+    **O que fazer:**
+    1. Criar no Quadro Tático (gerentes)
+    2. Mapear fluxo entre os níveis
+    3. Marcar como fixo
+    4. **Nota:** Útil para gerentes entenderem integração entre quadros
 
 ---
 
@@ -608,6 +942,44 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Forma de coleta definida
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar ou atualizar cartão fixo "📊 Indicadores Principais"
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Criar cartão com título: "📊 Indicadores Principais"
+    2. Listar os 8-12 indicadores principais
+    3. Para cada indicador: nome, meta, frequência
+    4. Marcar como cartão fixo
+    5. **Importante:** Este cartão será atualizado mensalmente com valores reais
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar ou atualizar cartão fixo "📊 Indicadores Principais"
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "📊 Indicadores Principais"
+    3. Listar indicadores com metas e frequência
+    4. Marcar como cartão fixo
+    5. **Importante:** Será atualizado mensalmente no Ritual Mensal
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar ou atualizar cartão fixo "📊 Indicadores Principais"
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Criar cartão com título: "📊 Indicadores Principais"
+    3. Listar indicadores estratégicos com metas
+    4. Marcar como cartão fixo
+    5. **Nota:** Indicadores táticos/operacionais podem ter cartões próprios em outros quadros
+
 ---
 
 ## 🔍 Etapa 8: Aprendizados do Trimestre
@@ -678,6 +1050,44 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Lições aprendidas (3-5 insights)
     - [ ] Mudanças propostas para próximo trimestre
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartão fixo "📚 Aprendizados" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
+    2. Listar principais lições do trimestre
+    3. Adicionar mudanças propostas
+    4. Marcar como cartão fixo
+    5. **Nota:** Este cartão é opcional - pode ficar só no Painel
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "📚 Aprendizados" (opcional)
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
+    3. Listar lições aprendidas do trimestre
+    4. Marcar como cartão fixo
+    5. **Nota:** Opcional - ajuda lembrar o que não repetir
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "📚 Aprendizados" (opcional)
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "📚 Aprendizados Q[X]/[ANO]"
+    3. Listar principais lições estratégicas
+    4. Marcar como cartão fixo
+    5. **Nota:** Mantém memória organizacional visível
 
 ---
 
@@ -751,6 +1161,47 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Critério de sucesso definido
     - [ ] Registrado como cartões de Decisão
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões móveis de "Decisão" para cada decisão estratégica
+    
+    **Onde:** Pode ir em coluna própria "Decisões" ou na coluna fixa (se não houver coluna de Decisões)
+    
+    **O que fazer para cada decisão:**
+    1. Criar cartão com título: "Decisão: [Nome da decisão]"
+    2. No corpo: contexto, justificativa, opções avaliadas
+    3. Adicionar responsável e prazo
+    4. Adicionar critério de sucesso
+    5. **NÃO marcar como fixo** - decisões são cartões móveis
+    6. Adicionar etiqueta de área (Produção, Comercial, etc.)
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartões de "Decisão" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico (coluna de decisões ou área apropriada)
+    
+    **O que fazer para cada decisão:**
+    1. Abrir Quadro Estratégico
+    2. Criar cartão com título: "Decisão: [Nome]"
+    3. Adicionar contexto, justificativa e critério de sucesso
+    4. Definir responsável e prazo
+    5. Adicionar etiqueta/tag apropriada
+    6. **Nota:** Decisões estratégicas ficam no Quadro Estratégico, não no Tático
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartões de "Decisão" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer para cada decisão:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Criar cartão com título: "Decisão: [Nome]"
+    3. Adicionar todo o contexto da decisão
+    4. Definir responsável (geralmente CEO/fundador)
+    5. Se a decisão gerar ações táticas, criar cartões derivados no Quadro Tático
+    6. **Importante:** Decisão fica no Estratégico, execução vai para Tático
+
 ---
 
 ## 🚀 Etapa 10: Prioridades do Próximo Trimestre
@@ -823,6 +1274,70 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - [ ] Prazo definido
     - [ ] Registrado como cartões de Prioridade
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Prioridade" para cada prioridade trimestral + atualizar cartão fixo "🎯 Meta Trimestral"
+    
+    **Onde:** Coluna "📋 Prioridades" + Coluna fixa para a meta
+    
+    **O que fazer:**
+    
+    **1. Criar cartão fixo da Meta:**
+    - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
+    - Adicionar objetivo principal do trimestre
+    - Listar as 3-5 prioridades estratégicas
+    - Marcar como fixo na coluna "🎯 Decisões Estratégicas"
+    
+    **2. Criar cartões de Prioridade (para cada uma):**
+    - Criar cartão com título: "📋 Prioridade: [Nome]"
+    - Adicionar justificativa e critério de conclusão
+    - Definir responsável e prazo (fim do trimestre)
+    - Colocar na coluna "📋 Prioridades"
+    - Adicionar etiqueta de área
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartão fixo "🎯 Meta Trimestral" + criar "Frentes Trimestrais"
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    
+    **1. Criar cartão fixo da Meta:**
+    - Abrir Quadro Estratégico
+    - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
+    - Adicionar objetivo e listar prioridades
+    - Marcar como fixo
+    
+    **2. Criar Frentes Trimestrais:**
+    - Criar coluna "Frentes Trimestrais" no Quadro Estratégico (se não houver)
+    - Para cada prioridade, criar cartão de "Frente"
+    - Adicionar justificativa, critério e responsável
+    - **Nota:** Essas frentes serão desdobradas em ações no Quadro Tático
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartão fixo "🎯 Meta Trimestral" + criar "Frentes Trimestrais" que desdobram em níveis
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    
+    **1. Criar cartão fixo da Meta (Estratégico):**
+    - Abrir Quadro Estratégico (nível CEO)
+    - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
+    - Adicionar objetivo e listar as 3-5 prioridades
+    - Marcar como fixo
+    
+    **2. Criar Frentes Trimestrais (Estratégico):**
+    - Para cada prioridade, criar cartão de "Frente Trimestral"
+    - Adicionar contexto estratégico completo
+    - Definir responsável (geralmente nível tático)
+    
+    **3. Desdobrar para Quadro Tático:**
+    - Cada Frente Trimestral gera planos mensais no Quadro Tático
+    - Gerentes/coordenadores criam ações derivadas
+    - **Importante:** Estratégico define O QUÊ, Tático define COMO
+
 ---
 
 ## ✅ Checklist Final do Ritual
@@ -883,6 +1398,85 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Ajuste** o que não está funcionando
 3. **Celebre** conquistas intermediárias
 4. **Prepare-se** para próximo ritual trimestral
+
+---
+
+## 📋 Integrando o Ritual com o Quadro
+
+??? tip "🔄 Como Adicionar os Dados Gerados no Quadro"
+    **Cada etapa do Ritual Trimestral gera informações que devem ser refletidas no quadro.** Veja como integrar:
+
+    ### 📊 Mapeamento Etapa → Quadro
+
+    | Etapa do Ritual | O Que Gera | Onde Vai no Quadro | Modelo |
+    |-----------------|------------|-------------------|--------|
+    | **1️⃣ Objetivo Principal** | Propósito da empresa | Cartão fixo "🎯 Objetivo Principal" | Todos |
+    | **2️⃣ Pilares** | 3-5 valores fundamentais | Cartão fixo "🏛️ Pilares da Empresa" | Todos |
+    | **3️⃣ Estrutura** | Setores e responsáveis | Cartão fixo "🏗️ Estrutura" (opcional) | Todos |
+    | **4️⃣ Participantes** | Papéis e responsabilidades | Não vai pro quadro (fica no Painel) | - |
+    | **5️⃣ Canvas** | Modelo de negócio | Não vai pro quadro (fica no Painel) | - |
+    | **6️⃣ Arquitetura** | Fluxo operacional | Não vai pro quadro (fica no Painel) | - |
+    | **7️⃣ Indicadores** | Métricas prioritárias | Cartão fixo "📊 Indicadores Principais" | Todos |
+    | **8️⃣ Aprendizados** | Lições do trimestre | Cartão fixo "📚 Aprendizados" (opcional) | Todos |
+    | **9️⃣ Decisões** | Escolhas estratégicas | Coluna "Decisões" (cartões móveis) | Todos |
+    | **🔟 Prioridades** | Foco dos 90 dias | Cartão fixo "🎯 Meta Trimestral" | Todos |
+
+    ---
+
+    ### 🎯 Como Usar em Cada Modelo
+
+    **Modelo 1: Quadro Único**
+    
+    - **Cartões fixos:** Vão na primeira coluna "🎯 Decisões Estratégicas"
+    - **Decisões estratégicas:** Vão como cartões móveis na coluna "Decisões"
+    - **Prioridades:** Viram cartões na coluna "Prioridades"
+
+    **Modelo 2: Separação Tática**
+    
+    - **Cartões fixos:** Vão no Quadro Estratégico
+    - **Decisões estratégicas:** Viram cartões no Quadro Estratégico
+    - **Prioridades:** Viram "Frentes Trimestrais" no Quadro Estratégico
+
+    **Modelo 3: Multi-Quadros**
+    
+    - **Cartões fixos:** Vão no Quadro Estratégico (CEO/Fundadores)
+    - **Decisões estratégicas:** Viram cartões no Quadro Estratégico
+    - **Prioridades:** Viram "Frentes Trimestrais" que desdobram em Quadro Tático
+
+    ---
+
+    ### ✅ Checklist Pós-Ritual
+
+    Após concluir o Ritual Trimestral, faça:
+
+    - [ ] Atualizar cartão fixo "🎯 Meta Trimestral" com objetivo dos 90 dias
+    - [ ] Atualizar cartão fixo "🏛️ Pilares da Empresa" (se mudou)
+    - [ ] Atualizar cartão fixo "📊 Indicadores Principais" com métricas prioritárias
+    - [ ] Criar cartões de Decisão para cada decisão estratégica tomada
+    - [ ] Criar cartões de Prioridade para cada frente trimestral definida
+    - [ ] Arquivar cartões do trimestre anterior que foram concluídos
+    - [ ] Revisar e atualizar datas nos cartões fixos
+
+    ---
+
+    ### 💡 Exemplo Prático
+
+    **Ritual Trimestral Q2/2026 gerou:**
+
+    1. **Meta:** "Estruturar operação e crescer de 15k para 20k/mês"
+       - ➡️ Atualizou cartão fixo "🎯 Meta Trimestral Q2/2026"
+
+    2. **Indicadores:** Receita, Pedidos Etsy, Pedidos ML, Novos Produtos
+       - ➡️ Atualizou cartão fixo "📊 Indicadores Principais"
+
+    3. **Decisão:** "Adotar Goma Laca em todos os produtos de madeira"
+       - ➡️ Criou cartão móvel "Decisão: Adotar Goma Laca"
+
+    4. **Prioridade:** "Estruturar processo de produção com controle de estoque"
+       - ➡️ Criou cartão "Prioridade: Estruturar Produção"
+
+    5. **Prioridade:** "Crescer Instagram de 0 para 200 seguidores"
+       - ➡️ Criou cartão "Prioridade: Crescer Instagram"
 
 ---
 

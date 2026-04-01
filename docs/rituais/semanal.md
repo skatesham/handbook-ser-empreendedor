@@ -133,6 +133,45 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Itens para replanejar
     - [ ] Atualizado no Quadro
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Mover cartões concluídos para "✅ Concluído" e revisar pendentes
+    
+    **Onde:** Colunas "🔄 Em Andamento", "📋 Prioridades" e "✅ Concluído"
+    
+    **O que fazer:**
+    1. **Ações concluídas:**
+       - Mover cartões finalizados → coluna "✅ Concluído (7 dias)"
+       - Adicionar comentário com resultado/entrega
+    2. **Ações atrasadas:**
+       - Manter em "🔄 Em Andamento" ou "📋 Prioridades"
+       - Adicionar comentário com causa do atraso
+       - Atualizar prazo se necessário
+    3. **Ações para cancelar:**
+       - Arquivar com justificativa
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar status no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional (onde as ações semanais estão)
+    
+    **O que fazer:**
+    1. Mover cartões concluídos para coluna "✅ Concluído"
+    2. Revisar cartões pendentes e atualizar status
+    3. Adicionar comentários sobre atrasos
+    4. Atualizar prazos conforme necessário
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar status no Quadro Operacional
+    
+    **Onde:** Quadro Operacional (execução semanal)
+    
+    **O que fazer:**
+    1. Mover concluídos para "Concluído" no Quadro Operacional
+    2. Revisar pendentes e atualizar
+    3. Se houver impacto em prioridades mensais, atualizar Quadro Tático também
+
 ---
 
 ## 🎯 Etapa 2: Prioridades da Semana
@@ -202,6 +241,48 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Dependências visíveis
     - [ ] Responsável e prazo para cada ação
     - [ ] Registrado no Quadro
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar/reorganizar cartões de prioridade para a semana
+    
+    **Onde:** Coluna "📋 Prioridades"
+    
+    **O que fazer:**
+    1. **Criar prioridades semanais:**
+       - Para cada ação prioritária (5-10), criar cartão "📋 Prioridade: [Nome]"
+       - Adicionar descrição e entrega esperada
+       - Definir responsável e prazo (dia específico da semana)
+       - Adicionar etiqueta de área
+    2. **Reorganizar:**
+       - Reordenar prioridades por urgência/importância
+       - Limitar WIP (Work In Progress) a 3-5 por pessoa
+    3. **NÃO mexer em cartões fixos:** Não move, não arquiva, não atualiza valores (atualização só no mensal). Apenas consulta.
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar prioridades semanais no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Abrir Quadro Tático/Operacional
+    2. Criar cartões de "Prioridade" para a semana
+    3. Vincular cada prioridade à prioridade mensal correspondente
+    4. Definir responsável e prazo específico
+    5. Organizar por urgência
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar prioridades semanais no Quadro Operacional
+    
+    **Onde:** Quadro Operacional
+    
+    **O que fazer:**
+    1. Abrir Quadro Operacional (execução semanal)
+    2. Criar cartões de "Prioridade" para cada ação da semana
+    3. Vincular às prioridades mensais do Quadro Tático
+    4. Definir responsável e dia específico da semana
+    5. Limitar WIP por pessoa
 
 ---
 
@@ -273,6 +354,46 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Problemas escalados para ritual mensal
     - [ ] Registrado como cartões de Problema
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Problema" ou marcar cartões bloqueados
+    
+    **Onde:** Coluna "🚨 Problemas" ou marcar em "🔄 Em Andamento"
+    
+    **O que fazer:**
+    1. **Para bloqueios em ações existentes:**
+       - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
+       - Adicionar comentário descrevendo o bloqueio
+    2. **Para problemas novos:**
+       - Criar cartão "🚨 Problema: [Nome]" na coluna Problemas
+       - Adicionar descrição e responsável
+       - Definir prazo para resolver
+    3. **Problemas que não resolvem na semana:**
+       - Marcar para escalar no ritual mensal
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar/marcar problemas no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional (onde está o bloqueio)
+    
+    **O que fazer:**
+    1. Criar cartões de "Problema" no quadro apropriado
+    2. Marcar cartões bloqueados com tag
+    3. Problemas que afetam plano mensal: escalar para Quadro Tático
+    4. Problemas graves: marcar para discussão no ritual mensal
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar problemas no Quadro Operacional
+    
+    **Onde:** Quadro Operacional (execução semanal)
+    
+    **O que fazer:**
+    1. Criar cartões de "Problema" no Quadro Operacional
+    2. Marcar cartões bloqueados
+    3. Definir responsável e prazo
+    4. Se bloqueio persiste ou afeta nível tático: escalar para Quadro Tático
+
 ---
 
 ## 📊 Etapa 4: Indicadores Operacionais
@@ -343,6 +464,51 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Ações para cada alerta
     - [ ] Atualizado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Atualizar cartão fixo "📊 Indicadores da Semana" (opcional)
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **Template do Cartão:**
+    - **Título:** "📊 Indicadores da Semana"
+    - **Descrição:**
+      ```
+      ## 🎯 Principais da Semana
+      - [Indicador 1]: [Valor] → Tendência: [↗️/➡️/↘️]
+      - [Indicador 2]: [Valor] → Tendência: [↗️/➡️/↘️]
+      - [Indicador 3]: [Valor] → Tendência: [↗️/➡️/↘️]
+      
+      ## 🚨 Alertas
+      - [Indicador com alerta]: [motivo]
+      ```
+    
+    **O que fazer:**
+    1. Criar ou localizar cartão fixo
+    2. Atualizar valores semanalmente (apenas resumo verbal)
+    3. Marcar alertas se houver
+    4. **Nota:** Opcional - indicadores geralmente ficam no Painel
+    5. **Atualização formal:** Só no Ritual Mensal
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar cartão fixo "📊 Indicadores da Semana" (opcional)
+    
+    **Onde:** Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Opcional: criar cartão fixo com indicadores semanais
+    2. Acompanhamento geralmente é verbal no ritual semanal
+    3. **Atualização formal:** Ritual Mensal
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Indicadores ficam no Painel (verbal no semanal)
+    
+    **O que fazer:**
+    1. Acompanhamento semanal é geralmente verbal
+    2. **Exceção:** Se indicador revelar problema grave → criar cartão "🚨 Problema"
+    3. **Atualização formal:** Ritual Mensal atualiza cartões fixos
+
 ---
 
 ## ⚡ Etapa 5: Decisões Rápidas
@@ -411,6 +577,40 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Responsável pela implementação
     - [ ] Prazo para implementar
     - [ ] Registrado como cartões de Decisão
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Decisão" para decisões operacionais relevantes
+    
+    **Onde:** Coluna "Decisões" (se houver) ou na coluna apropriada
+    
+    **O que fazer:**
+    1. **Apenas decisões relevantes** que precisam ser rastreadas
+    2. Criar cartão "Decisão: [Nome]"
+    3. Adicionar contexto breve e responsável
+    4. **Nota:** Decisões muito pequenas podem ser apenas verbais
+    5. Se decisão não couber na semana: marcar para ritual mensal
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartões de "Decisão" no Quadro Tático/Operacional (se relevante)
+    
+    **Onde:** Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Decisões operacionais: criar no Quadro Operacional
+    2. Apenas registrar as que precisam rastreamento
+    3. Decisões que afetam plano mensal: escalar para ritual mensal
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartões de "Decisão" no Quadro Operacional
+    
+    **Onde:** Quadro Operacional
+    
+    **O que fazer:**
+    1. Criar cartões para decisões operacionais relevantes
+    2. Decisões muito pequenas: apenas verbal, não criar cartão
+    3. Decisões que afetam nível tático: escalar para Quadro Tático
 
 ---
 
@@ -481,6 +681,47 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     - [ ] Ideias escaladas para ritual mensal
     - [ ] Registrado como cartões de Ideia
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar/atualizar cartões de "Ideia" conforme classificação
+    
+    **Onde:** Coluna "💡 Ideias"
+    
+    **O que fazer:**
+    1. **Melhorias para implementar agora:**
+       - Criar cartão "💡 Ideia: [Nome]" ou transformar em prioridade
+       - Se simples, pode virar ação direta
+    2. **Ideias para subir ao ritual mensal:**
+       - Criar/manter na coluna "💡 Ideias"
+       - Adicionar tag "Avaliar no Mensal"
+    3. **Ideias para registrar:**
+       - Criar na coluna "💡 Ideias" com tag "Backlog"
+    4. **Ideias descartadas:**
+       - Não criar cartão ou arquivar se já existe
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Gerenciar ideias no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional - coluna "Ideias"
+    
+    **O que fazer:**
+    1. Ideias operacionais: criar no Quadro Operacional
+    2. Ideias que precisam avaliação: marcar para ritual mensal
+    3. Ideias aprovadas para teste: transformar em ação/prioridade
+    4. Ideias descartadas: não criar cartão
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Gerenciar ideias no Quadro Operacional
+    
+    **Onde:** Quadro Operacional
+    
+    **O que fazer:**
+    1. Criar cartões de "Ideia" no Quadro Operacional
+    2. Ideias para implementar: transformar em prioridade
+    3. Ideias para subir: marcar para ritual mensal (avaliação no Quadro Tático)
+    4. Aplicar lógica: implementar, escalar ou arquivar
+
 ---
 
 ## ✅ Checklist Final do Ritual
@@ -540,6 +781,100 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Consolide** indicadores operacionais
 3. **Liste** novos bloqueios
 4. **Capture** ideias emergentes
+
+---
+
+## 📋 Integrando o Ritual com o Quadro
+
+??? tip "🔄 Como Adicionar os Dados Gerados no Quadro"
+    **Cada etapa do Ritual Semanal gera informações que devem ser refletidas no quadro.** Veja como integrar:
+
+    ### 📊 Mapeamento Etapa → Quadro
+
+    | Etapa do Ritual | O Que Gera | Onde Vai no Quadro | Ação |
+    |-----------------|------------|-------------------|------|
+    | **1️⃣ Fechamento** | Ações concluídas | Coluna "✅ Concluído" | Mover cartões finalizados |
+    | **1️⃣ Fechamento** | Ações atrasadas | Mantém em "Em Andamento" ou "Prioridades" | Revisar responsável/prazo |
+    | **2️⃣ Prioridades da Semana** | Foco dos 7 dias | Coluna "📋 Prioridades" | Criar/priorizar cartões |
+    | **3️⃣ Problemas e Bloqueios** | Impedimentos | Coluna "🚨 Problemas" | Criar cartão de Problema |
+    | **3️⃣ Problemas e Bloqueios** | Bloqueios em ações | Marcar cartão como bloqueado | Adicionar tag/label |
+    | **4️⃣ Indicadores** | Sinais operacionais | Não vai pro quadro | Acompanhamento verbal |
+    | **5️⃣ Decisões Rápidas** | Ajustes operacionais | Coluna "Decisões" (se relevante) | Criar cartão de Decisão |
+    | **6️⃣ Ideias Emergentes** | Melhorias operacionais | Coluna "💡 Ideias" | Criar cartão de Ideia |
+
+    ---
+
+    ### 🎯 Como Usar em Cada Modelo
+
+    **Modelo 1: Quadro Único**
+    
+    - **Concluídos:** Move para coluna "✅ Concluído (7 dias)"
+    - **Prioridades da semana:** Cria/reorganiza na coluna "📋 Prioridades"
+    - **Em andamento:** Move prioridades sendo executadas para "🔄 Em Andamento"
+    - **Problemas/Bloqueios:** Cria cartões na coluna "🚨 Problemas"
+    - **Ideias:** Adiciona na coluna "💡 Ideias"
+    - **Atualiza cartões fixos:** Não mexe (atualiza só no mensal)
+
+    **Modelo 2: Separação Tática**
+    
+    - **Quadro Tático/Operacional:** Todas as movimentações semanais acontecem aqui
+    - **Concluídos:** Move para "Concluído"
+    - **Prioridades:** Organiza no Quadro Tático/Operacional
+    - **Problemas graves:** Escala para Quadro Estratégico (se impacta trimestre)
+    - **Ideias operacionais:** Adiciona no Quadro Tático/Operacional
+    - **Quadro Estratégico:** Não mexe (só consulta)
+
+    **Modelo 3: Multi-Quadros**
+    
+    - **Quadro Operacional:** Todas as movimentações semanais acontecem aqui
+    - **Concluídos:** Move para "✅ Concluído" no Operacional
+    - **Prioridades semanais:** Organiza no Quadro Operacional
+    - **Problemas operacionais:** Cria no Quadro Operacional
+    - **Escala para Tático:** Problemas que afetam plano mensal
+    - **Escala para Estratégico:** Raramente (apenas crises graves)
+    - **Ideias:** Adiciona no Quadro Operacional
+
+    ---
+
+    ### ✅ Checklist Pós-Ritual
+
+    Após concluir o Ritual Semanal, faça:
+
+    - [ ] Mover cartões concluídos para coluna "✅ Concluído"
+    - [ ] Criar cartões de Prioridade para foco da próxima semana
+    - [ ] Mover prioridades em execução para "🔄 Em Andamento"
+    - [ ] Criar cartões de Problema para bloqueios identificados
+    - [ ] Marcar cartões bloqueados com etiqueta/tag apropriada
+    - [ ] Criar cartões de Ideia para melhorias sugeridas
+    - [ ] Atualizar responsáveis e prazos dos cartões
+    - [ ] Revisar WIP (Work In Progress) - máximo 3-5 por pessoa
+
+    ---
+
+    ### 💡 Exemplo Prático
+
+    **Ritual Semanal de Segunda 07/04/2026 gerou:**
+
+    1. **Concluído:** "Criar conta Instagram @kuripes_artesanais"
+       - ➡️ Moveu cartão para coluna "✅ Concluído"
+
+    2. **Atrasado:** "Definir linha editorial Instagram" ficou parado
+       - ➡️ Manteve em "📋 Prioridades", atualizou responsável
+
+    3. **Prioridade da semana:** "Postar 3 fotos de produtos no Instagram"
+       - ➡️ Criou cartão "📋 Postar 3 Fotos Instagram"
+
+    4. **Prioridade da semana:** "Testar goma laca em 5 peças"
+       - ➡️ Criou cartão "📋 Testar Goma Laca 5 Peças"
+
+    5. **Bloqueio:** "Falta verniz para acabamento, chegará só quinta"
+       - ➡️ Criou cartão "🚨 Problema: Falta Verniz" + marcou ações bloqueadas
+
+    6. **Ideia:** "Criar vídeos curtos do processo de produção"
+       - ➡️ Criou cartão "💡 Ideia: Vídeos do Processo"
+
+    7. **Movimentação:** Iniciou execução de "Organizar bancada"
+       - ➡️ Moveu cartão de "Prioridades" → "🔄 Em Andamento"
 
 ---
 

@@ -52,6 +52,33 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 - Lista clara do que PRECISA acontecer hoje
 
+#### 📋 Como Usar o Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Revisar coluna "🔄 Em Andamento" e identificar foco do dia
+    
+    **O que fazer:**
+    1. Abrir quadro visível para todos
+    2. Revisar cartões em "🔄 Em Andamento"
+    3. Identificar 1-3 prioridades críticas do dia
+    4. Verificar se há cartões bloqueados (🔴)
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Revisar Quadro Operacional
+    
+    **O que fazer:**
+    1. Abrir Quadro Tático/Operacional (onde estão as ações do dia)
+    2. Revisar cartões em andamento
+    3. Identificar prioridades do dia
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Revisar Quadro Operacional
+    
+    **O que fazer:**
+    1. Abrir Quadro Operacional (nível equipe)
+    2. Revisar cartões em andamento
+    3. Identificar foco diário
+
 ---
 
 ### 2. Estado das Ações (5 min)
@@ -68,6 +95,35 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - Atualização do quadro
 - Cartões movidos para colunas corretas
 
+#### 📋 Como Usar o Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Mover cartões conforme progresso
+    
+    **O que fazer:**
+    1. **Concluídos ontem:** Mover para coluna "✅ Concluído (7 dias)"
+    2. **Em andamento hoje:** Manter/mover para "🔄 Em Andamento"
+    3. **Travados:** Marcar com tag "🔴 Bloqueado"
+    4. **Não iniciados:** Manter em "📋 Prioridades"
+    5. **IMPORTANTE:** Mover cartões em tempo real durante o ritual
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar status no Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Mover concluídos para "✅ Concluído"
+    2. Atualizar status dos em andamento
+    3. Marcar bloqueados
+    4. Atualizar responsáveis se necessário
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar Quadro Operacional
+    
+    **O que fazer:**
+    1. Mover cartões conforme progresso no Quadro Operacional
+    2. Atualizar status em tempo real
+    3. Marcar bloqueios
+
 ---
 
 ### 3. Bloqueios Imediatos (5 min)
@@ -83,6 +139,38 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - Bloqueios resolvidos ou escalados
 - Cartões marcados como "Bloqueado"
 
+#### 📋 Como Usar o Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Marcar cartões bloqueados e criar ações de desbloqueio
+    
+    **O que fazer:**
+    1. **Bloqueios identificados:**
+       - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
+       - Adicionar comentário breve descrevendo o bloqueio
+    2. **Bloqueios resolvidos rapidamente:**
+       - Remover tag de bloqueio
+       - Adicionar comentário com a solução
+    3. **Bloqueios que precisam ser escalados:**
+       - Manter tag "🔴 Bloqueado"
+       - Marcar para discussão no ritual semanal
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Marcar bloqueios no Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Marcar cartões bloqueados com tag
+    2. Adicionar comentário descrevendo bloqueio
+    3. Se bloqueio não resolve hoje: escalar para ritual semanal
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Marcar bloqueios no Quadro Operacional
+    
+    **O que fazer:**
+    1. Marcar cartões bloqueados no Quadro Operacional
+    2. Adicionar descrição do bloqueio
+    3. Se bloqueio persiste: escalar para nível superior
+
 ---
 
 ### 4. Ajustes Finos (2 min)
@@ -96,6 +184,38 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 **Saída:**
 
 - Coordenação clara para o dia
+
+#### 📋 Como Usar o Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Reorganizar prioridades e responsáveis se necessário
+    
+    **O que fazer:**
+    1. **Se houver sobrecarga:**
+       - Redistribuir cartões entre pessoas
+       - Atualizar responsáveis nos cartões
+    2. **Se houver mudança de prioridade:**
+       - Reordenar cartões na coluna
+       - Mover cartões entre colunas se necessário
+    3. **Se houver ajudas rápidas:**
+       - Adicionar comentário no cartão indicando quem vai ajudar
+    4. **IMPORTANTE:** Mudanças mínimas - foco é coordenação, não replanejamento
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Ajustar Quadro Tático/Operacional conforme necessidade do dia
+    
+    **O que fazer:**
+    1. Redistribuir responsáveis se necessário
+    2. Reordenar prioridades
+    3. Adicionar comentários sobre ajudas combinadas
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Ajustar Quadro Operacional
+    
+    **O que fazer:**
+    1. Reorganizar cartões no Quadro Operacional
+    2. Redistribuir responsáveis
+    3. Marcar colaborações no cartão
 
 ---
 
@@ -168,6 +288,103 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - Atualização assíncrona pela manhã
 - Call rápida (5-10 min) só para bloqueios
 - Quadro atualizado por todos
+
+---
+
+## 📋 Integrando o Ritual com o Quadro
+
+??? tip "🔄 Como Adicionar os Dados Gerados no Quadro"
+    **O Ritual Diário é o mais simples e direto - foca em atualizar status, não criar materiais novos.** Veja como integrar:
+
+    ### 📊 Mapeamento Etapa → Quadro
+
+    | Etapa do Ritual | O Que Gera | Onde Vai no Quadro | Ação |
+    |-----------------|------------|-------------------|------|
+    | **1️⃣ Foco do Dia** | Lista do dia | Visualizar "Em Andamento" | Apenas revisar visualmente |
+    | **2️⃣ Estado das Ações** | Atualizações de status | Movimentar cartões | Mover entre colunas |
+    | **2️⃣ Estado das Ações** | Conclusões | Coluna "✅ Concluído" | Mover cartões finalizados |
+    | **3️⃣ Bloqueios** | Impedimentos imediatos | Marcar cartão bloqueado | Tag/etiqueta de bloqueio |
+    | **3️⃣ Bloqueios** | Escalonamento | Criar Problema (se não resolver) | Criar cartão no semanal |
+    | **4️⃣ Ajustes Finos** | Redistribuição | Trocar responsável temporariamente | Atualizar campo |
+
+    ---
+
+    ### 🎯 Como Usar em Cada Modelo
+
+    **Modelo 1: Quadro Único**
+    
+    - **Concluiu ontem:** Move cartão → "✅ Concluído"
+    - **Está fazendo hoje:** Move cartão → "🔄 Em Andamento"
+    - **Bloqueou:** Adiciona tag "🔴 Bloqueado" no cartão
+    - **Resolveu bloqueio:** Remove tag, continua em "Em Andamento"
+    - **NÃO cria cartões novos:** Daily só movimenta, não cria
+    - **NÃO mexe em cartões fixos:** Não move, não arquiva, não atualiza valores (atualização só no mensal). Apenas consulta.
+
+    **Modelo 2: Separação Tática**
+    
+    - **Quadro Tático/Operacional:** Todas as atualizações diárias acontecem aqui
+    - **Movimentações:** Igual ao Modelo 1, dentro do Quadro Tático/Operacional
+    - **Bloqueios:** Marca no Quadro Tático/Operacional
+    - **Escalonamento:** Se bloqueio grave, marca para discutir no semanal
+    - **Quadro Estratégico:** Nunca mexe no daily
+
+    **Modelo 3: Multi-Quadros**
+    
+    - **Quadro Operacional:** Todas as atualizações diárias acontecem aqui
+    - **Movimentações:** Prioridades → Em Andamento → Concluído
+    - **Bloqueios:** Marca no Quadro Operacional
+    - **Escalonamento:** Se bloqueio persiste, leva para Quadro Tático no semanal
+    - **Quadros Tático/Estratégico:** Nunca mexe no daily
+
+    ---
+
+    ### ✅ Checklist Pós-Ritual (Diário)
+
+    **O daily é RÁPIDO - apenas:**
+
+    - [ ] Mover cartões concluídos ontem para "✅ Concluído"
+    - [ ] Mover cartões em execução hoje para "🔄 Em Andamento"
+    - [ ] Adicionar tag "🔴 Bloqueado" em cartões travados
+    - [ ] Remover tag de bloqueio em cartões desbloqueados
+    - [ ] Atualizar responsável se houve ajuda/redistribuição
+
+    **NÃO FAÇA no daily:**
+    
+    - ❌ Criar cartões novos (faça no semanal)
+    - ❌ Atualizar cartões fixos (faça no mensal)
+    - ❌ Mudar prioridades (faça no semanal)
+    - ❌ Resolver discussões longas (marque para depois)
+
+    ---
+
+    ### 💡 Exemplo Prático
+
+    **Ritual Diário de Terça 08/04/2026:**
+
+    **Pessoa 1 (João):**
+    - ✅ Ontem: Finalizou "Organizar bancada"
+      - ➡️ Moveu cartão → "✅ Concluído"
+    - 🔄 Hoje: Vai trabalhar em "Testar goma laca 5 peças"
+      - ➡️ Moveu cartão "Prioridades" → "🔄 Em Andamento"
+    - ⏸️ Bloqueio: Verniz não chegou ainda
+      - ➡️ Adicionou tag "🔴 Bloqueado" no cartão
+
+    **Pessoa 2 (Maria):**
+    - ✅ Ontem: Postou 1 foto no Instagram
+      - ➡️ Não move cartão (ainda falta postar 2)
+    - 🔄 Hoje: Vai postar mais 1 foto
+      - ➡️ Cartão já está em "Em Andamento", continua lá
+    - ⏸️ Sem bloqueios
+      - ➡️ Nada a fazer
+
+    **Ajuste:**
+    - João vai ajudar Maria com edição de foto
+      - ➡️ Adicionou comentário no cartão "Maria + João"
+
+    **Total de tempo:** 8 minutos  
+    **Cartões criados:** 0 (zero)  
+    **Cartões movidos:** 2  
+    **Tags adicionadas:** 1
 
 ---
 

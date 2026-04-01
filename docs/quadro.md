@@ -84,6 +84,7 @@ Um **único quadro** que unifica Painel + Gestão Operacional. Possui uma coluna
 ### Quando Usar
 
 **Use Modelo 1 se:**
+
 - ✅ Empresa tem 1-10 pessoas
 - ✅ Está começando com o sistema
 - ✅ Operação é simples
@@ -91,6 +92,7 @@ Um **único quadro** que unifica Painel + Gestão Operacional. Possui uma coluna
 - ✅ Quer resultado rápido
 
 **NÃO use Modelo 1 se:**
+
 - ❌ Empresa já tem 15+ pessoas
 - ❌ Múltiplas áreas independentes
 - ❌ Operação muito complexa
@@ -99,6 +101,7 @@ Um **único quadro** que unifica Painel + Gestão Operacional. Possui uma coluna
 ### Quando Evoluir?
 
 Migre para Modelo 2 quando:
+
 - Quadro tiver **mais de 30 cartões operacionais** (além dos fixos)
 - Sentir que **mistura demais** estratégia com operação
 - Equipe crescer para **6+ pessoas**
@@ -138,6 +141,7 @@ Migre para Modelo 2 quando:
 ### Quando Usar
 
 **Use Modelo 2 se:**
+
 - ✅ Empresa tem 6-15 pessoas
 - ✅ Modelo 1 está poluído (>30 cartões)
 - ✅ Já domina o Modelo 1
@@ -145,6 +149,7 @@ Migre para Modelo 2 quando:
 - ✅ Equipe consegue manter disciplina
 
 **NÃO use Modelo 2 se:**
+
 - ❌ Empresa tem menos de 6 pessoas (use Modelo 1)
 - ❌ Não consegue manter dois quadros atualizados
 - ❌ Operação é muito simples (Modelo 1 basta)
@@ -152,6 +157,7 @@ Migre para Modelo 2 quando:
 ### Quando Evoluir?
 
 Migre para Modelo 3 quando:
+
 - Empresa tiver **15+ pessoas**
 - Múltiplas áreas/departamentos **independentes**
 - Operação **muito complexa**
@@ -193,6 +199,7 @@ Migre para Modelo 3 quando:
 ### Quando Usar
 
 **Use Modelo 3 se:**
+
 - ✅ Empresa tem 15+ pessoas
 - ✅ Já domina Modelo 2
 - ✅ Múltiplas áreas independentes
@@ -201,6 +208,7 @@ Migre para Modelo 3 quando:
 - ✅ Precisa de autonomia por nível
 
 **NÃO use Modelo 3 se:**
+
 - ❌ Empresa tem menos de 15 pessoas
 - ❌ Não domina Modelo 2 ainda
 - ❌ Não consegue manter 3 quadros sincronizados
@@ -209,6 +217,7 @@ Migre para Modelo 3 quando:
 ### Quando Evoluir?
 
 Modelo 3 é o **nível máximo**. Não há evolução além dele. Se a empresa crescer ainda mais, você:
+
 - Replica o modelo por unidade de negócio
 - Cria quadros táticos por departamento
 - Mantém a mesma estrutura de 3 camadas

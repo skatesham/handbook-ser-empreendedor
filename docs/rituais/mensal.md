@@ -135,6 +135,45 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Lições aprendidas (3-5 insights)
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Atualizar cartão fixo "🏆 Conquistas do Mês"
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Localizar cartão "🏆 Conquistas do Mês [MÊS/ANO]"
+    2. Atualizar com entregas concluídas do mês
+    3. Adicionar principais vitórias e aprendizados
+    4. Celebrar pessoas que se destacaram
+    5. Manter como cartão fixo (não move)
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar cartão fixo "🏆 Conquistas do Mês" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Localizar cartão "🏆 Conquistas do Mês"
+    3. Atualizar com principais entregas e vitórias
+    4. Adicionar lições aprendidas relevantes
+    5. Manter como cartão fixo
+    6. **Nota:** Cartões fixos estratégicos existem APENAS no Quadro Estratégico, não no Quadro Tático/Operacional
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar cartão fixo "🏆 Conquistas do Mês" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Localizar cartão "🏆 Conquistas do Mês"
+    3. Atualizar com conquistas estratégicas do mês
+    4. **Nota:** Conquistas táticas/operacionais podem ficar em outros quadros
+    5. **Importante:** Cartões fixos estratégicos existem APENAS no Quadro Estratégico
+
 ---
 
 ## 📊 Etapa 2: Status das Frentes Estratégicas
@@ -202,6 +241,48 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Dependências críticas mapeadas
     - [ ] Ajustes necessários definidos
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Atualizar cartão fixo "📈 Status do Trimestre"
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Localizar cartão "📈 Status do Trimestre Q[X]/[ANO]"
+    2. Atualizar progresso (%) de cada prioridade trimestral
+    3. Atualizar status: 🟢 No prazo | 🟡 Atenção | 🔴 Atrasado
+    4. Adicionar principais destaques do mês
+    5. Adicionar pontos de atenção/riscos
+    6. Manter como cartão fixo
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar Frentes Trimestrais no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico - coluna "Frentes Trimestrais"
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Para cada cartão de "Frente Trimestral":
+       - Atualizar progresso (%)
+       - Atualizar status visual (🟢🟡🔴)
+       - Adicionar comentário com destaques do mês
+    3. Também atualizar cartão fixo "📈 Status do Trimestre"
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar Frentes Trimestrais no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Para cada "Frente Trimestral":
+       - Atualizar progresso e status
+       - Adicionar comentário mensal
+       - Marcar riscos identificados
+    3. Atualizar cartão fixo "📈 Status do Trimestre"
+    4. **Nota:** Se houver problemas graves, escalar para discussão
 
 ---
 
@@ -272,6 +353,43 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Hipóteses para os desvios
     - [ ] Tendências identificadas
     - [ ] Documentado no Painel
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Atualizar cartão fixo "📊 Indicadores Principais" com valores do mês
+    
+    **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer:**
+    1. Localizar cartão "📊 Indicadores Principais"
+    2. Atualizar valores de cada indicador com dados do mês
+    3. Adicionar comparação: anterior vs atual
+    4. Marcar indicadores fora da meta (🔴 ou 🟡)
+    5. Manter como cartão fixo
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar cartão fixo "📊 Indicadores Principais" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico
+    2. Localizar cartão "📊 Indicadores Principais"
+    3. Atualizar valores mensais de cada indicador
+    4. Adicionar tendência: ↗️ Subindo | ➡️ Estável | ↘️ Caindo
+    5. Manter como cartão fixo
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar cartão fixo "📊 Indicadores Principais" no Quadro Estratégico
+    
+    **Onde:** Quadro Estratégico - CEO/Fundadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Estratégico (nível CEO)
+    2. Atualizar indicadores estratégicos
+    3. Adicionar valores e tendências
+    4. **Nota:** Indicadores táticos/operacionais podem ter cartões próprios em outros quadros
 
 ---
 
@@ -353,6 +471,45 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Oportunidades emergentes (1-3 itens)
     - [ ] Documentado no Painel
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Problema" para desvios e gargalos identificados
+    
+    **Onde:** Coluna "🚨 Problemas"
+    
+    **O que fazer:**
+    1. Para cada desvio significativo ou gargalo:
+       - Criar cartão com título: "🚨 Problema: [Nome]"
+       - Adicionar descrição do problema
+       - Adicionar impacto e urgência
+       - Adicionar responsável para análise
+    2. Oportunidades podem virar cartões de "Ideia" na coluna "💡 Ideias"
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartões de "Problema" no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional (ou Quadro Estratégico se problema grave)
+    
+    **O que fazer:**
+    1. Problemas táticos/operacionais: criar no Quadro Tático
+    2. Problemas que afetam estratégia trimestral: criar no Quadro Estratégico
+    3. Para cada problema:
+       - Criar cartão "🚨 Problema: [Nome]"
+       - Adicionar descrição e impacto
+       - Definir responsável
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartões de "Problema" no quadro apropriado por nível
+    
+    **Onde:** Quadro Operacional, Tático ou Estratégico (conforme gravidade)
+    
+    **O que fazer:**
+    1. **Problema operacional**: criar no Quadro Operacional
+    2. **Problema tático**: criar no Quadro Tático
+    3. **Problema estratégico**: criar no Quadro Estratégico
+    4. Adicionar descrição, impacto e responsável em cada cartão
+
 ---
 
 ## 🚨 Etapa 5: Resolução de Problemas Relevantes
@@ -422,6 +579,48 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Responsável atribuído
     - [ ] Prazo estabelecido
     - [ ] Registrado como cartões de Problema
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Atualizar cartões de "Problema" existentes ou transformar em "Prioridade"
+    
+    **Onde:** Coluna "🚨 Problemas" → Coluna "📋 Prioridades" (se virar ação)
+    
+    **O que fazer:**
+    1. Para problemas já no quadro (da Etapa 4):
+       - Adicionar solução definida no corpo do cartão
+       - Adicionar causa raiz identificada
+       - Definir responsável e prazo
+    2. Se a solução exige ação imediata:
+       - Criar cartão "📋 Prioridade: [Solução]" na coluna Prioridades
+       - Manter problema original para rastreabilidade
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Atualizar problemas no Quadro Tático/Operacional ou criar ações
+    
+    **Onde:** Quadro Tático/Operacional (ou Estratégico se problema estratégico)
+    
+    **O que fazer:**
+    1. Atualizar cartões de "Problema" com:
+       - Causa raiz
+       - Solução definida
+       - Responsável e prazo
+    2. Se solução exige implementação:
+       - Criar cartão de "Prioridade" derivado
+       - Vincular ao problema original
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Atualizar problemas no quadro apropriado
+    
+    **Onde:** Quadro Operacional, Tático ou Estratégico (onde está o problema)
+    
+    **O que fazer:**
+    1. Localizar cartões de "Problema" criados na Etapa 4
+    2. Atualizar cada um com solução e responsável
+    3. Se solução exige ação:
+       - Criar prioridade no mesmo quadro
+       - Ou desdobrar para quadro de nível inferior
 
 ---
 
@@ -495,6 +694,45 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Critério de sucesso
     - [ ] Registrado como cartões de Decisão
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Decisão" para cada decisão tática
+    
+    **Onde:** Coluna "Decisões" (se houver) ou coluna fixa "🎯 Decisões Estratégicas"
+    
+    **O que fazer para cada decisão:**
+    1. Criar cartão com título: "Decisão: [Nome da decisão tática]"
+    2. Adicionar contexto e justificativa no corpo
+    3. Adicionar opções avaliadas e escolha feita
+    4. Definir responsável e prazo
+    5. Adicionar critério de sucesso
+    6. Adicionar etiqueta indicando área afetada
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartões de "Decisão" no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional
+    
+    **O que fazer para cada decisão:**
+    1. Abrir Quadro Tático/Operacional
+    2. Criar cartão com título: "Decisão: [Nome]"
+    3. Adicionar contexto, justificativa e critério de sucesso
+    4. Definir responsável e prazo
+    5. **Nota:** Decisões táticas ficam no Quadro Tático/Operacional, não no Estratégico
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartões de "Decisão" no Quadro Tático
+    
+    **Onde:** Quadro Tático - Gerentes/Coordenadores
+    
+    **O que fazer para cada decisão:**
+    1. Abrir Quadro Tático (nível gerentes)
+    2. Criar cartão com título: "Decisão: [Nome]"
+    3. Adicionar todo o contexto da decisão
+    4. Definir responsável e prazo
+    5. Se a decisão gerar ações operacionais, criar cartões derivados no Quadro Operacional
+
 ---
 
 ## 📋 Etapa 7: Prioridades do Próximo Mês
@@ -564,6 +802,49 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Responsável e prazo para cada ação
     - [ ] Lista do que NÃO será feito
     - [ ] Registrado como cartões de Prioridade
+
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Criar cartões de "Prioridade" para cada ação prioritária do mês
+    
+    **Onde:** Coluna "📋 Prioridades"
+    
+    **O que fazer para cada prioridade:**
+    1. Criar cartão com título: "📋 Prioridade: [Nome da ação]"
+    2. Adicionar descrição e entrega esperada
+    3. Adicionar justificativa (qual frente trimestral avança)
+    4. Definir responsável e prazo (fim do mês)
+    5. Adicionar etiqueta de área/setor
+    6. **Importante:** Limitar a 5-10 cartões de prioridade ativos
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Criar cartões de "Prioridade" no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional
+    
+    **O que fazer:**
+    1. Abrir Quadro Tático/Operacional
+    2. Para cada prioridade mensal:
+       - Criar cartão "📋 Prioridade: [Nome]"
+       - Vincular à Frente Trimestral correspondente
+       - Definir responsável e prazo
+    3. **Importante:** Prioridades mensais ficam no Quadro Tático/Operacional
+    4. Serão desdobradas em ações semanais posteriormente
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Criar cartões de "Prioridade" no Quadro Tático
+    
+    **Onde:** Quadro Tático - Gerentes/Coordenadores
+    
+    **O que fazer:**
+    1. Abrir Quadro Tático (nível gerentes)
+    2. Para cada prioridade mensal:
+       - Criar cartão "📋 Prioridade: [Nome]"
+       - Vincular à Frente Trimestral do Quadro Estratégico
+       - Definir responsável (gerente/coordenador)
+    3. Durante o mês, gerentes desdobram prioridades em ações operacionais
+    4. Ações operacionais vão para Quadro Operacional
 
 ---
 
@@ -636,6 +917,52 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - [ ] Plano de experimento para cada teste
     - [ ] Registrado como cartões de Ideia
 
+### 📋 Como Adicionar no Quadro
+
+??? abstract "Quadro Modelo 1: Quadro Único"
+    **Ação:** Mover/criar cartões de "Ideia" conforme classificação
+    
+    **Onde:** Coluna "💡 Ideias" ou Arquivo
+    
+    **O que fazer para cada ideia:**
+    
+    **1. Ideias aprovadas para teste:**
+    - Manter/criar na coluna "💡 Ideias"
+    - Adicionar classificação: "Testar este mês"
+    - Adicionar plano de experimento
+    - Definir responsável e prazo
+    
+    **2. Ideias para backlog:**
+    - Manter na coluna "💡 Ideias"
+    - Adicionar etiqueta "Backlog"
+    - Adicionar motivo de adiamento
+    
+    **3. Ideias rejeitadas:**
+    - Arquivar cartão
+    - Adicionar motivo da rejeição antes de arquivar
+
+??? abstract "Quadro Modelo 2: Separação Tática"
+    **Ação:** Gerenciar ideias no Quadro Tático/Operacional
+    
+    **Onde:** Quadro Tático/Operacional - coluna "Ideias"
+    
+    **O que fazer:**
+    1. **Ideias aprovadas**: manter no Quadro Tático com plano de teste
+    2. **Ideias de backlog**: manter com etiqueta apropriada
+    3. **Ideias rejeitadas**: arquivar com justificativa
+    4. **Nota:** Ideias táticas ficam no Quadro Tático/Operacional
+
+??? abstract "Quadro Modelo 3: Multi-Quadros"
+    **Ação:** Gerenciar ideias no quadro apropriado por nível
+    
+    **Onde:** Quadro Tático ou Operacional (conforme escopo)
+    
+    **O que fazer:**
+    1. **Ideias operacionais**: gerenciar no Quadro Operacional
+    2. **Ideias táticas**: gerenciar no Quadro Tático
+    3. **Ideias estratégicas**: escalar para Quadro Estratégico (raro)
+    4. Aplicar mesma lógica: aprovar, backlog ou arquivar
+
 ---
 
 ## ✅ Checklist Final do Ritual
@@ -696,6 +1023,95 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 2. **Ajuste** o que não está funcionando
 3. **Escale** problemas que não se resolvem na semana
 4. **Prepare-se** para próximo ritual mensal
+
+---
+
+## 📋 Integrando o Ritual com o Quadro
+
+??? tip "🔄 Como Adicionar os Dados Gerados no Quadro"
+    **Cada etapa do Ritual Mensal gera informações que devem ser refletidas no quadro.** Veja como integrar:
+
+    ### 📊 Mapeamento Etapa → Quadro
+
+    | Etapa do Ritual | O Que Gera | Onde Vai no Quadro | Modelo |
+    |-----------------|------------|-------------------|--------|
+    | **1️⃣ Retrospectiva** | Aprendizados do mês | Cartão fixo "🏆 Conquistas do Mês" | Todos |
+    | **2️⃣ Status das Frentes** | Progresso trimestral | Cartão fixo "📈 Status do Trimestre" | Todos |
+    | **3️⃣ Indicadores** | Métricas do mês | Cartão fixo "📊 Indicadores Principais" (atualiza valores) | Todos |
+    | **4️⃣ Desvios e Gargalos** | Problemas identificados | Coluna "Problemas" (cartões móveis) | Todos |
+    | **5️⃣ Problemas Relevantes** | Soluções definidas | Coluna "Prioridades" (se vira ação) | Todos |
+    | **6️⃣ Decisões Táticas** | Ajustes de plano | Coluna "Decisões" (cartões móveis) | Todos |
+    | **7️⃣ Prioridades do Mês** | Foco dos 30 dias | Coluna "Prioridades" (cartões móveis) | Todos |
+    | **8️⃣ Triagem de Ideias** | Ideias avaliadas | Coluna "Ideias" (aprovadas) ou Arquivo (rejeitadas) | Todos |
+
+    ---
+
+    ### 🎯 Como Usar em Cada Modelo
+
+    **Modelo 1: Quadro Único**
+    
+    - **Cartões fixos:** Atualiza na primeira coluna "🎯 Decisões Estratégicas"
+    - **Problemas:** Cria cartões na coluna "🚨 Problemas"
+    - **Decisões:** Cria cartões na coluna "Decisões" (se houver)
+    - **Prioridades:** Cria cartões na coluna "📋 Prioridades"
+    - **Ideias:** Mantém/adiciona na coluna "💡 Ideias"
+
+    **Modelo 2: Separação Tática**
+    
+    - **Cartões fixos estratégicos:** Atualiza no Quadro Estratégico
+    - **Status das Frentes:** Atualiza Frentes Trimestrais no Quadro Estratégico
+    - **Prioridades mensais:** Cria cartões no Quadro Tático/Operacional
+    - **Problemas:** Cria cartões no Quadro Tático (ou escala para Estratégico se grave)
+    - **Decisões táticas:** Cria cartões no Quadro Tático
+
+    **Modelo 3: Multi-Quadros**
+    
+    - **Cartões fixos estratégicos:** Atualiza no Quadro Estratégico
+    - **Status das Frentes:** Atualiza Frentes no Quadro Estratégico
+    - **Prioridades mensais:** Cria no Quadro Tático (gerentes/coordenadores)
+    - **Problemas operacionais:** Cria no Quadro Operacional
+    - **Problemas táticos:** Cria no Quadro Tático
+    - **Escala para Estratégico:** Apenas problemas/decisões críticas
+
+    ---
+
+    ### ✅ Checklist Pós-Ritual
+
+    Após concluir o Ritual Mensal, faça:
+
+    - [ ] Atualizar cartão fixo "📈 Status do Trimestre" com progresso
+    - [ ] Atualizar cartão fixo "📊 Indicadores Principais" com valores do mês
+    - [ ] Atualizar cartão fixo "🏆 Conquistas do Mês" com vitórias recentes
+    - [ ] Atualizar cartão fixo "⚠️ Riscos Monitorados" (se houver mudanças)
+    - [ ] Criar cartões de Problema para cada desvio/gargalo identificado
+    - [ ] Criar cartões de Decisão para ajustes táticos importantes
+    - [ ] Criar cartões de Prioridade para foco do próximo mês
+    - [ ] Mover ideias aprovadas da triagem para coluna Ideias
+    - [ ] Arquivar ideias rejeitadas
+
+    ---
+
+    ### 💡 Exemplo Prático
+
+    **Ritual Mensal de Abril/2026 gerou:**
+
+    1. **Retrospectiva:** "ML cresceu 125%, Goma Laca funcionou bem"
+       - ➡️ Atualizou cartão fixo "🏆 Conquistas do Mês"
+
+    2. **Status:** Prioridade 1 (Produção) em 45%, Prioridade 2 (Instagram) em 30%
+       - ➡️ Atualizou cartão fixo "📈 Status do Trimestre"
+
+    3. **Indicador:** Receita: 18.500 (meta: 20.000)
+       - ➡️ Atualizou valores no cartão fixo "📊 Indicadores"
+
+    4. **Problema:** "Perdendo 15% dos materiais por falta de controle"
+       - ➡️ Criou cartão "🚨 Problema: Desperdício de Material"
+
+    5. **Decisão:** "Contratar auxiliar de produção"
+       - ➡️ Criou cartão "Decisão: Contratar Auxiliar"
+
+    6. **Prioridade:** "Implementar controle de estoque básico em 30 dias"
+       - ➡️ Criou cartão "📋 Prioridade: Controle de Estoque"
 
 ---
 
