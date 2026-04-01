@@ -1,20 +1,23 @@
 # 🚀 Ser Empreendedor — Aprenda Gestão Organizando Sua Empresa
 
-> **Um sistema que ensina enquanto organiza**: estruture sua empresa com rituais guiados que geram documentação, decisões e execução.
+> *"A gestão é fazer as coisas certas; a liderança é fazer as coisas certas."*  
+> — **Peter Drucker**
+
+**Um handbook prático de gestão**: aprenda fundamentos de empreendedorismo aplicando rituais estruturados e ferramentas simples (como Kanban) na sua realidade.
 
 ---
 
-## 💡 O Que É Este Sistema?
+## 💡 O Que É Este Handbook?
 
-O **Ser Empreendedor** não é apenas mais um sistema de gestão. É um **método didático e prático** que:
+O **Ser Empreendedor** é um **guia prático de gestão** para pequenas empresas que precisam de estrutura sem burocracia. Este handbook:
 
-- ✅ **Ensina** fundamentos de empreendedorismo no contexto real da sua operação
-- ✅ **Centraliza** documentos e informações essenciais da empresa
-- ✅ **Conduz** você por rituais estruturados (trimestral, mensal, semanal, diário)
-- ✅ **Organiza** problemas, ideias, decisões e prioridades
-- ✅ **Explica** o motivo de cada etapa e seus benefícios práticos
+- ✅ **Ensina** fundamentos de gestão empresarial aplicados à sua realidade
+- ✅ **Propõe** rituais estruturados (trimestral, mensal, semanal, diário) para criar disciplina
+- ✅ **Orienta** uso de ferramentas simples como **quadros Kanban** para organizar o trabalho
+- ✅ **Explica** o motivo de cada prática e como adaptar ao seu contexto
+- ✅ **Centraliza** conhecimento sobre os fundamentos que toda empresa precisa ter claros
 
-**A diferença?** Você não apenas executa tarefas — você **entende por que cada etapa existe** e como ela contribui para a maturidade do negócio.
+**A diferença?** Não é software que resolve no clique — é **conhecimento que você aplica** e adapta às suas ferramentas (papel, planilhas, Trello, Notion, etc.).
 
 ---
 
@@ -25,20 +28,20 @@ O **Ser Empreendedor** não é apenas mais um sistema de gestão. É um **métod
 | Benefício | Como Funciona |
 |-----------|---------------|
 | **📚 Aprende fazendo** | Cada ritual ensina conceitos de gestão aplicados à sua realidade |
-| **🧠 Reduz sobrecarga mental** | Informações centralizadas, sem depender de memória informal |
-| **🎯 Foco e clareza** | Sabe exatamente o que é prioridade em cada nível (estratégico → operacional) |
-| **📈 Melhoria contínua** | Retrospectivas e revisões garantem evolução constante |
-| **⚡ Decisões mais rápidas** | Contexto organizado facilita escolhas informadas |
+| **🧠 Reduz sobrecarga mental** | Método para documentar decisões e estrutura essencial |
+| **🎯 Foco e clareza** | Aprende a separar o estratégico do operacional |
+| **📈 Melhoria contínua** | Hábito de retrospectiva cria aprendizado constante |
+| **🛠️ Ferramentas acessíveis** | Usa quadros Kanban simples (físicos ou digitais) |
 
 ### Para Sua Empresa
 
 | Benefício | Como Funciona |
 |-----------|---------------|
-| **🏗️ Base estruturada** | Pilares, objetivos, indicadores e processos documentados |
-| **🔄 Rituais produtivos** | Reuniões com saídas objetivas (não apenas "conversas") |
-| **📊 Visibilidade operacional** | Quadro visual de ideias, problemas, decisões e prioridades |
-| **🚨 Gestão de crises** | Fluxo estruturado para tratar problemas críticos |
-| **📐 Padrão de mercado** | Opera com disciplina e clareza profissional |
+| **🏗️ Base estruturada** | Define e documenta objetivo, pilares e responsabilidades |
+| **🔄 Rituais produtivos** | Transforma reuniões em momentos com saídas objetivas |
+| **📊 Visibilidade operacional** | Quadro Kanban organiza ideias, problemas, decisões e prioridades |
+| **🚨 Gestão de crises** | Método para tratar problemas críticos com estrutura |
+| **📐 Disciplina operacional** | Cria hábitos de gestão que empresas maduras já têm |
 
 ---
 
@@ -59,8 +62,8 @@ graph LR
 **O que você vai fazer:**
 
 1. **[Primeiro Ritual Trimestral](rituais/trimestral.md)** — Defina objetivo, pilares e estrutura
-2. **[Monte Seu Painel](painel.md)** — Visualize os fundamentos da empresa
-3. **[Entenda os Rituais](rituais/index.md)** — Aprenda o sistema de gestão
+2. **[Entenda os Rituais](rituais/index.md)** — Aprenda o sistema de gestão
+3. **[Configure Seu Quadro](quadro.md)** — Monte um Kanban simples para organizar o trabalho
 
 **O que você vai aprender:**
 
@@ -81,10 +84,10 @@ graph LR
 
 **O que você vai fazer:**
 
-1. **[Quadro de Gestão](quadro.md)** — Organize ideias, problemas, decisões e prioridades
+1. **[Quadro Kanban](quadro.md)** — Use quadros para gestão visual simples e eficaz
 2. **[Ritual Mensal](rituais/mensal.md)** — Traduza estratégia em ação tática
-3. **[Ritual Semanal](rituais/semanal.md)** — Defina foco de execução
-4. **[Ritual Diário](rituais/diario.md)** — Mantenha ritmo e visibilidade
+3. **[Ritual Semanal](rituais/semanal.md)** — Defina foco de execução semanal
+4. **[Ritual Diário](rituais/diario.md)** — Mantenha ritmo com check-ins rápidos
 
 **O que você vai aprender:**
 
@@ -120,50 +123,44 @@ graph LR
 
 ---
 
-## 🧭 Estrutura do Sistema
+## 🧭 Estrutura do Handbook
 
-O sistema está organizado em **4 áreas principais**:
+Este guia está organizado em **3 pilares principais**:
 
-=== "📊 Painel"
-    **Visão consolidada da empresa**
+=== "� Rituais de Gestão"
+    **O coração do método**
     
-    - Objetivo principal e pilares
-    - Estrutura e responsáveis
-    - Indicadores principais
-    - Retrospectivas recentes
-    - Gatilhos para iniciar rituais
-    
-    → [Entenda o Painel](painel.md)
-
-=== "🔄 Rituais"
-    **Gestão guiada por cadência**
-    
-    - **Trimestral**: Revisão estratégica
-    - **Mensal**: Acompanhamento tático
-    - **Semanal**: Foco de execução
-    - **Diário**: Visibilidade operacional
+    - **Trimestral**: Revisão estratégica e definição de fundamentos
+    - **Mensal**: Acompanhamento tático e ajustes de rota
+    - **Semanal**: Foco de execução e priorização
+    - **Diário**: Check-in rápido e visibilidade do dia
     
     → [Conheça os Rituais](rituais/index.md)
 
-=== "📋 Quadro"
-    **Gestão visual de cartões**
+=== "📋 Quadro Kanban"
+    **Ferramenta principal de organização**
     
-    - Ideias → Decisões
-    - Problemas → Prioridades
-    - Ações em andamento
-    - Concluídos recentes
+    Aprenda a usar quadros visuais (físicos ou digitais) para:
     
-    → [Use o Quadro](quadro.md)
+    - Transformar ideias em decisões
+    - Converter problemas em prioridades
+    - Acompanhar ações em andamento
+    - Visualizar o que foi concluído
+    
+    → [Use Quadros Kanban](quadro.md)
 
-=== "🚨 Crises"
-    **Tratamento estruturado de problemas críticos**
+=== "🚨 Gestão de Crises"
+    **Método para problemas críticos**
     
     - Identificação de causa raiz
-    - Contenção e contorno
-    - Decisões e prioridades
-    - Indicadores de ajuste
+    - Contenção e contorno estruturado
+    - Registro de decisões
+    - Criação de prioridades de ajuste
     
-    → [Gerencie Crises](crises.md)
+    → [Trate Crises com Método](crises.md)
+
+!!! info "Sobre o Painel"
+    O **[Painel](painel.md)** é uma referência conceitual de como organizar a visão consolidada da empresa. Você pode implementá-lo em qualquer ferramenta (papel, planilha, Notion, etc.) ou simplesmente usar como guia mental.
 
 ---
 
@@ -186,41 +183,45 @@ O sistema está organizado em **4 áreas principais**:
 
 ---
 
-## 🚀 Comece Agora
+## 🚀 Por Onde Começar
 
-### Passo 1: Faça Seu Primeiro Ritual
-🔄 Inicie o **[Ritual Trimestral](rituais/trimestral.md)** para definir os fundamentos da empresa.
+### Passo 1: Faça Seu Primeiro Ritual Trimestral
+🔄 Leia e aplique o **[Ritual Trimestral](rituais/trimestral.md)** para definir objetivo, pilares e estrutura da empresa.
 
-### Passo 2: Monte Seu Painel
-📊 Configure o **[Painel](painel.md)** com objetivo, pilares e estrutura.
+### Passo 2: Configure Seu Quadro Kanban
+� Monte um **[Quadro visual](quadro.md)** (físico ou digital) com as colunas: Ideias | Decisões | Problemas | Prioridades | Fazendo | Concluído.
 
-### Passo 3: Configure o Quadro
-📋 Organize ideias, problemas e prioridades no **[Quadro Kanban](quadro.md)**.
+### Passo 3: Estabeleça os Rituais
+📅 Incorpore os **[Rituais Mensais, Semanais e Diários](rituais/index.md)** na rotina da empresa.
 
-### Passo 4: Entre no Ritmo
-📅 Estabeleça os **[Rituais Mensais e Semanais](rituais/index.md)** para manter continuidade.
+### Passo 4: Documente os Fundamentos
+📝 Use a estrutura do **[Painel](painel.md)** como guia para documentar as informações essenciais (onde quiser: papel, planilha, wiki, etc.).
 
 ---
 
 ## ❓ Perguntas Frequentes
 
 ??? question "Preciso ter conhecimento prévio de gestão?"
-    **Não!** O sistema foi criado justamente para ensinar gestão enquanto você organiza sua empresa. Cada etapa explica os conceitos necessários.
+    **Não!** Este handbook foi criado justamente para ensinar fundamentos de gestão de forma prática. Cada seção explica os conceitos necessários no contexto real de aplicação.
 
-??? question "Quanto tempo leva para implementar?"
-    - **Primeiro Painel**: 2-4 horas (ritual trimestral inicial)
+??? question "Quanto tempo leva para aplicar?"
+    - **Primeiro Ritual Trimestral**: 2-4 horas (definir fundamentos)
     - **Ritual Mensal**: 1-2 horas
     - **Ritual Semanal**: 30-60 minutos
     - **Ritual Diário**: 10-15 minutos
+    - **Montar Quadro Kanban**: 30 minutos (físico) ou 1-2 horas (digital)
 
 ??? question "Funciona para qualquer tipo de empresa?"
-    O sistema é otimizado para **pequenas empresas** (até 20 pessoas). Funciona especialmente bem para negócios que precisam de estrutura mas não podem ter burocracia pesada.
+    Este método é otimizado para **pequenas empresas** (até 20 pessoas). Funciona especialmente bem para negócios que precisam de estrutura mas não podem ter burocracia pesada ou sistemas complexos.
+
+??? question "Preciso de software específico?"
+    **Não!** Você pode aplicar tudo com papel, post-its, planilhas, Trello, Notion, ou qualquer ferramenta que já use. O handbook ensina o **método**, não depende de tecnologia específica.
 
 ??? question "E se eu pular um ritual?"
-    O sistema foi desenhado para **continuidade**. Se pular, os itens pendentes voltam a aparecer no próximo ritual. Mas consistência é fundamental para criar disciplina.
+    Tente manter consistência — a disciplina é o que cria estrutura. Mas se pular, simplesmente retome no próximo ciclo. O importante é manter o hábito a longo prazo.
 
 ??? question "Posso adaptar os rituais?"
-    **Sim!** Os rituais são um guia, não uma camisa de força. Adapte ao seu contexto, mas mantenha a essência: **revisão**, **decisão** e **saídas objetivas**.
+    **Sim!** Os rituais são um guia, não uma regra rígida. Adapte ao seu contexto, mas mantenha a essência: **revisão periódica**, **decisões conscientes** e **saídas objetivas**.
 
 ---
 
@@ -228,9 +229,9 @@ O sistema está organizado em **4 áreas principais**:
 
 | Seção | Conteúdo |
 |-------|----------|
-| **[ Painel](painel.md)** | Visão consolidada da empresa |
 | **[🔄 Rituais](rituais/index.md)** | Trimestral, mensal, semanal, diário |
-| **[📋 Quadro](quadro.md)** | Gestão visual de cartões |
+| **[📋 Quadro Kanban](quadro.md)** | Gestão visual com quadros |
+| **[📊 Painel](painel.md)** | Estrutura de visão consolidada (referência) |
 | **[📈 Indicadores](indicadores.md)** | Métricas que importam |
 | **[🔍 Retrospectivas](retrospectivas.md)** | Aprendizado contínuo |
 | **[🚨 Crises](crises.md)** | Gestão estruturada de problemas |
