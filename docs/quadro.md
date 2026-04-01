@@ -1,6 +1,6 @@
 # 📋 Quadro Kanban — Gestão Visual
 
-> **Gestão visual simples e eficaz**: acompanhe ideias, problemas, decisões e prioridades em um sistema que funciona.
+> **Gestão visual que evolui com sua empresa**: comece simples, evolua conforme amadurece.
 
 ---
 
@@ -11,7 +11,7 @@ O **Quadro Kanban** é o coração operacional do sistema. É onde você:
 - 👁️ **Visualiza** tudo que está acontecendo
 - 🔄 **Acompanha** o fluxo de trabalho
 - 🎯 **Prioriza** o que importa
-- 📊 **Gerencia** ideias, problemas, decisões e ações
+- 📊 **Gerencia** estratégia + operação
 - ✅ **Celebra** conquistas
 
 !!! tip "Por que Kanban?"
@@ -22,667 +22,411 @@ O **Quadro Kanban** é o coração operacional do sistema. É onde você:
 
 ---
 
-## 🎯 Duas Abordagens de Gestão
+## 🎯 3 Modelos Evolutivos
 
-Você pode escolher entre duas abordagens, dependendo do tamanho e complexidade da sua empresa.
+Este sistema oferece **3 modelos de Quadro Kanban** que evoluem com sua empresa:
 
-### Abordagem 1: Quadro Único Centralizado
+| Modelo | Nome | Para Quem |
+|--------|------|-----------|
+| **[Modelo 1](quadro-modelo-1.md)** | Quadro Único Unificado | Empresas 1-10 pessoas |
+| **[Modelo 2](quadro-modelo-2.md)** | Separação Tática | Empresas 6-15 pessoas |
+| **[Modelo 3](quadro-modelo-3.md)** | Multi-Quadros por Camada | Empresas 15+ pessoas |
 
-**Para quem:** Empresas pequenas (1-10 pessoas) ou iniciantes
-
-**Vantagens:**
-
-- ✅ Tudo em um só lugar  
-- ✅ Visão completa da empresa  
-- ✅ Simples de manter  
-- ✅ Fácil de entender
-
-**Desvantagens:**
-
-- ⚠️ Pode ficar poluído com muitos cartões  
-- ⚠️ Dificulta filtros específicos  
-- ⚠️ Mistura níveis diferentes
-
-### Abordagem 2: Quadros por Camada
-
-**Para quem:** Empresas maiores (10+ pessoas) ou com operação complexa
-
-**Vantagens:**
-
-- ✅ Foco por nível (estratégico, tático, operacional)  
-- ✅ Menos poluição visual  
-- ✅ Filtros naturais por contexto  
-- ✅ Escalável
-
-**Desvantagens:**
-
-- ⚠️ Precisa manter múltiplos quadros  
-- ⚠️ Pode perder visão do todo  
-- ⚠️ Requer mais disciplina
+!!! warning "Comece sempre pelo Modelo 1"
+    **Não pule etapas!** Mesmo empresas grandes devem começar pelo Modelo 1 para entender a lógica antes de evoluir.
 
 ---
 
-## 📊 Abordagem 1: Quadro Único Centralizado
+## 📊 Comparação Completa dos Modelos
 
-### Estrutura do Quadro
+### Visão Geral
 
-Um único quadro com todas as colunas necessárias para gerenciar toda a empresa.
+| Aspecto | Modelo 1 | Modelo 2 | Modelo 3 |
+|---------|----------|----------|----------|
+| **Quantidade de quadros** | 1 único | 2 quadros | 3 quadros |
+| **Pessoas recomendadas** | 1-10 | 6-15 | 15+ |
+| **Complexidade** | Baixa | Média | Alta |
+| **Tempo para implementar** | 2-3 horas | 1 dia | 2-3 dias |
+| **Disciplina exigida** | Baixa | Média | Alta |
+| **Precisa de Painel separado?** | ❌ Não | ❌ Não | ❌ Não |
+| **Cartões fixos estratégicos** | No quadro único | No quadro estratégico | No quadro estratégico |
+| **Autonomia por nível** | Nenhuma (tudo junto) | Parcial | Total |
 
-| Coluna | O Que Entra | Quando Move |
-|--------|-------------|-------------|
-| **💡 Ideias** | Sugestões, oportunidades, melhorias | Quando vira decisão ou é descartada |
-| **❓ Em Análise** | Ideias sendo avaliadas | Quando vira decisão ou volta para ideias |
-| **🎯 Decisões** | Escolhas aprovadas | Quando vira ação ou é arquivada |
-| **🚨 Problemas** | Falhas, riscos, bloqueios | Quando vira prioridade ou é resolvido |
-| **📋 Prioridades** | O que PRECISA ser feito | Quando entra em execução |
-| **🔄 Em Andamento** | Ações sendo executadas | Quando é concluída ou bloqueada |
-| **⏸️ Bloqueado** | Ações travadas | Quando bloqueio é removido |
-| **✅ Concluído** | Itens finalizados (últimos 7 dias) | Após 7 dias, arquiva |
-| **📦 Arquivo** | Histórico de longo prazo | Permanece para consulta |
+---
 
-### Fluxo de Cartões
+## ✅ Modelo 1: Quadro Único Unificado
+
+### O Que É?
+
+Um **único quadro** que unifica Painel + Gestão Operacional. Possui uma coluna fixa com cartões estratégicos e colunas de fluxo para execução.
+
+### Estrutura
+
+- **1 coluna fixa** → 🎯 Decisões Estratégicas (cartões fixos)
+- **5 colunas de fluxo** → Ideias, Problemas, Prioridades, Em Andamento, Concluído
+
+### Vantagens ✅
+
+- ✅ **Tudo em um lugar** — Não precisa alternar entre Painel e Quadro
+- ✅ **Simples de implementar** — 2-3 horas e está funcionando
+- ✅ **Fácil de manter** — Um único lugar para atualizar
+- ✅ **Estratégia sempre visível** — Cartões fixos lembram fundamentos
+- ✅ **Não precisa de Painel separado** — Economiza tempo
+- ✅ **Ideal para começar** — Aprende o sistema sem complexidade
+
+### Desvantagens ⚠️
+
+- ⚠️ **Pode poluir** — Com muitos cartões operacionais (>30)
+- ⚠️ **Mistura níveis** — Estratégia e operação no mesmo lugar
+- ⚠️ **Dificulta filtros** — Não separa por horizonte temporal
+- ⚠️ **Limitado para equipes grandes** — Acima de 10 pessoas fica confuso
+
+### Quando Usar
+
+**Use Modelo 1 se:**
+- ✅ Empresa tem 1-10 pessoas
+- ✅ Está começando com o sistema
+- ✅ Operação é simples
+- ✅ Prefere simplicidade acima de tudo
+- ✅ Quer resultado rápido
+
+**NÃO use Modelo 1 se:**
+- ❌ Empresa já tem 15+ pessoas
+- ❌ Múltiplas áreas independentes
+- ❌ Operação muito complexa
+- ❌ Precisa de autonomia por nível
+
+### Quando Evoluir?
+
+Migre para Modelo 2 quando:
+- Quadro tiver **mais de 30 cartões operacionais** (além dos fixos)
+- Sentir que **mistura demais** estratégia com operação
+- Equipe crescer para **6+ pessoas**
+- Dificuldade em **encontrar** o que precisa
+
+**[→ Ver detalhes do Modelo 1](quadro-modelo-1.md)**
+
+---
+
+## 📊 Modelo 2: Separação Tática
+
+### O Que É?
+
+**Dois quadros separados**: um Estratégico (fundamentos + frentes trimestrais) e outro Tático/Operacional (execução).
+
+### Estrutura
+
+- **Quadro 1: Estratégico** → Cartões fixos + Frentes trimestrais
+- **Quadro 2: Tático/Operacional** → Prioridades + Execução
+
+### Vantagens ✅
+
+- ✅ **Menos poluição visual** — Cada quadro tem foco específico
+- ✅ **Estratégia isolada** — Fundamentos não se perdem
+- ✅ **Operação mais fluída** — Quadro tático fica limpo
+- ✅ **Fácil de filtrar** — Sabe onde procurar cada coisa
+- ✅ **Escalável** — Funciona até 15 pessoas
+- ✅ **Mantém visibilidade** — Estratégia acessível quando precisa
+
+### Desvantagens ⚠️
+
+- ⚠️ **Dois lugares** — Precisa manter dois quadros sincronizados
+- ⚠️ **Risco de desconexão** — Operação pode esquecer estratégia
+- ⚠️ **Mais disciplina** — Exige ritual mensal para sincronizar
+- ⚠️ **Escalonamento** — Precisa definir quando subir problemas
+
+### Quando Usar
+
+**Use Modelo 2 se:**
+- ✅ Empresa tem 6-15 pessoas
+- ✅ Modelo 1 está poluído (>30 cartões)
+- ✅ Já domina o Modelo 1
+- ✅ Precisa separar estratégia de operação
+- ✅ Equipe consegue manter disciplina
+
+**NÃO use Modelo 2 se:**
+- ❌ Empresa tem menos de 6 pessoas (use Modelo 1)
+- ❌ Não consegue manter dois quadros atualizados
+- ❌ Operação é muito simples (Modelo 1 basta)
+
+### Quando Evoluir?
+
+Migre para Modelo 3 quando:
+- Empresa tiver **15+ pessoas**
+- Múltiplas áreas/departamentos **independentes**
+- Operação **muito complexa**
+- Time tático precisa de **autonomia total**
+
+**[→ Ver detalhes do Modelo 2](quadro-modelo-2.md)**
+
+---
+
+## 🚀 Modelo 3: Multi-Quadros por Camada
+
+### O Que É?
+
+**Três quadros independentes** por nível de gestão: Estratégico (trimestral), Tático (mensal) e Operacional (semanal/diário).
+
+### Estrutura
+
+- **Quadro 1: Estratégico** → CEO, fundadores (trimestral)
+- **Quadro 2: Tático** → Coordenadores, gerentes (mensal)
+- **Quadro 3: Operacional** → Equipe executiva (semanal/diário)
+
+### Vantagens ✅
+
+- ✅ **Máxima autonomia** — Cada nível opera independentemente
+- ✅ **Foco total** — Operação não se distrai com estratégia
+- ✅ **Altamente escalável** — Funciona para 50+ pessoas
+- ✅ **Padrão profissional** — Modelo usado por empresas maduras
+- ✅ **Clareza de papéis** — Cada quadro tem dono e responsável
+- ✅ **Filtros naturais** — Informação certa para pessoa certa
+
+### Desvantagens ⚠️
+
+- ⚠️ **Complexo** — Exige disciplina para manter 3 quadros
+- ⚠️ **Pode desconectar** — Risco de silos entre níveis
+- ⚠️ **Mais trabalho** — Sincronização entre quadros dá trabalho
+- ⚠️ **Curva de aprendizado** — Demora para equipe dominar
+- ⚠️ **Escalonamento crítico** — Precisa de regras claras
+
+### Quando Usar
+
+**Use Modelo 3 se:**
+- ✅ Empresa tem 15+ pessoas
+- ✅ Já domina Modelo 2
+- ✅ Múltiplas áreas independentes
+- ✅ Operação muito complexa
+- ✅ Equipe consegue manter alta disciplina
+- ✅ Precisa de autonomia por nível
+
+**NÃO use Modelo 3 se:**
+- ❌ Empresa tem menos de 15 pessoas
+- ❌ Não domina Modelo 2 ainda
+- ❌ Não consegue manter 3 quadros sincronizados
+- ❌ Operação é relativamente simples
+
+### Quando Evoluir?
+
+Modelo 3 é o **nível máximo**. Não há evolução além dele. Se a empresa crescer ainda mais, você:
+- Replica o modelo por unidade de negócio
+- Cria quadros táticos por departamento
+- Mantém a mesma estrutura de 3 camadas
+
+**[→ Ver detalhes do Modelo 3](quadro-modelo-3.md)**
+
+---
+
+## 🎯 Qual Modelo Escolher?
+
+### Árvore de Decisão
 
 ```mermaid
-graph LR
-    A[💡 Ideias] --> B[❓ Em Análise]
-    B --> C[🎯 Decisões]
-    B --> A
-    C --> D[📋 Prioridades]
-    E[🚨 Problemas] --> D
-    D --> F[🔄 Em Andamento]
-    F --> G[⏸️ Bloqueado]
-    G --> F
-    F --> H[✅ Concluído]
-    H --> I[📦 Arquivo]
+graph TD
+    A[Quantas pessoas na empresa?]
+    A -->|1-5 pessoas| B[Modelo 1]
+    A -->|6-15 pessoas| C{Já usa Modelo 1?}
+    A -->|15+ pessoas| D{Já usa Modelo 2?}
     
-    style A fill:#81c784,stroke:#4caf50,stroke-width:2px,color:#000
-    style B fill:#fff59d,stroke:#fbc02d,stroke-width:2px,color:#000
-    style C fill:#64b5f6,stroke:#1976d2,stroke-width:2px,color:#fff
-    style D fill:#f57c00,stroke:#e65100,stroke-width:2px,color:#fff
-    style E fill:#e57373,stroke:#c62828,stroke-width:2px,color:#fff
-    style F fill:#9575cd,stroke:#5e35b1,stroke-width:2px,color:#fff
-    style G fill:#90a4ae,stroke:#546e7a,stroke-width:2px,color:#fff
-    style H fill:#4caf50,stroke:#2e7d32,stroke-width:2px,color:#fff
-    style I fill:#bdbdbd,stroke:#757575,stroke-width:2px,color:#000
+    C -->|Não| E[Comece com Modelo 1]
+    C -->|Sim, está poluído| F[Migre para Modelo 2]
+    
+    D -->|Não| G[Comece com Modelo 1<br/>depois Modelo 2]
+    D -->|Sim, precisa autonomia| H[Migre para Modelo 3]
+    
+    style B fill:#81c784,stroke:#4caf50,stroke-width:3px,color:#000
+    style F fill:#64b5f6,stroke:#1976d2,stroke-width:3px,color:#fff
+    style H fill:#f57c00,stroke:#e65100,stroke-width:3px,color:#fff
 ```
+
+### Recomendação por Tamanho
+
+| Tamanho | Modelo Recomendado | Por Que |
+|---------|-------------------|---------|
+| **1-5 pessoas** | Modelo 1 | Simplicidade essencial, tudo em um lugar |
+| **6-10 pessoas** | Modelo 1 → Modelo 2 | Comece simples, evolua se poluir |
+| **11-15 pessoas** | Modelo 2 | Separação necessária, ainda gerenciável |
+| **16-30 pessoas** | Modelo 2 → Modelo 3 | Precisa autonomia, mas comece pelo 2 |
+| **30+ pessoas** | Modelo 3 | Autonomia por camada é essencial |
+
+---
+
+## 🚀 Como Migrar Entre Modelos
+
+### De Modelo 1 → Modelo 2
+
+**Esforço:** 1 dia de trabalho + 1 semana de adaptação
+
+**Passos:**
+1. Crie Quadro Estratégico separado
+2. Mova os cartões fixos para lá
+3. Adicione coluna "Frentes Trimestrais"
+4. Renomeie quadro original para "Tático/Operacional"
+5. Treine equipe na nova estrutura
+
+**[→ Ver guia completo de migração 1→2](quadro-modelo-2.md#migrando-do-modelo-1)**
+
+---
+
+### De Modelo 2 → Modelo 3
+
+**Esforço:** 2-3 dias de trabalho + 2 semanas de adaptação
+
+**Passos:**
+1. Crie Quadro Operacional separado
+2. Mova ações semanais/diárias para lá
+3. Mantenha plano mensal no Quadro Tático
+4. Defina regras de escalonamento claras
+5. Treine cada nível separadamente
+
+**[→ Ver guia completo de migração 2→3](quadro-modelo-3.md#migrando-do-modelo-2)**
+
+---
+
+## 📝 Elementos Comuns aos 3 Modelos
+
+### Cartões Fixos Estratégicos
+
+Todos os modelos usam **cartões fixos** que contêm fundamentos da empresa. A diferença é **onde** eles ficam:
+
+- **Modelo 1:** No quadro único (primeira coluna)
+- **Modelo 2:** No Quadro Estratégico
+- **Modelo 3:** No Quadro Estratégico
+
+**Cartões fixos essenciais:**
+- 🎯 Meta Trimestral
+- 📊 Indicadores Principais
+- 🏛️ Pilares da Empresa
+- 📈 Status do Trimestre
+- ⚠️ Riscos Monitorados
+- 🏆 Conquistas do Mês
 
 ### Etiquetas (Labels)
 
-Use etiquetas coloridas para organizar cartões. **Máximo 6-8 etiquetas** para manter simples.
-
-#### Sistema Recomendado (6 etiquetas)
-
-**Por Área/Setor** (use cores):
-
-- 🟦 **Azul** = Produção/Operações  
-- 🟩 **Verde** = Comercial/Vendas  
-- 🟨 **Amarelo** = Financeiro  
-- 🟧 **Laranja** = Produto/Desenvolvimento  
-- 🟪 **Roxo** = Pessoas/Cultura  
-- 🟥 **Vermelho** = URGENTE (use com moderação!)
-
-!!! tip "Como usar etiquetas"
-    - **1 cor por cartão** = Área responsável
-    - **Vermelho** = Só para urgências reais
-    - **Sem etiqueta** = Geral/Múltiplas áreas
-    
-    Exemplo: Cartão de "Contratar vendedor" = 🟩 Verde (Comercial)
-
-#### Sistema Alternativo (Prioridade)
-
-Se preferir priorizar por urgência:
-
-- 🟥 **Vermelho** = Urgente (fazer hoje/amanhã)  
-- 🟧 **Laranja** = Alta (fazer esta semana)  
-- 🟨 **Amarelo** = Média (fazer este mês)  
-- 🟩 **Verde** = Baixa (quando possível)
-
-!!! warning "Não misture sistemas"
-    Escolha **UM** sistema de etiquetas e use consistentemente:
-    
-    - **OU** etiquetas por área  
-    - **OU** etiquetas por prioridade
-    
-    Misturar os dois gera confusão!
-
-### Como Usar no Dia a Dia
-
-#### Ritual Diário (10-15 min)
-
-1. **Revise** coluna "Em Andamento"  
-2. **Atualize** status dos cartões  
-3. **Identifique** bloqueios → Move para "Bloqueado"  
-4. **Inicie** novas ações → Move de "Prioridades" para "Em Andamento"  
-5. **Conclua** ações → Move para "Concluído"
-
-#### Ritual Semanal (30-60 min)
-
-1. **Revise** coluna "Concluído" → Celebre conquistas  
-2. **Revise** coluna "Bloqueado" → Resolva ou escale  
-3. **Revise** coluna "Prioridades" → Ajuste ordem  
-4. **Adicione** novas prioridades da semana  
-5. **Arquive** concluídos com mais de 7 dias
-
-#### Ritual Mensal (1-2h)
-
-1. **Revise** todas as colunas  
-2. **Triagem** de "Ideias" → Move para "Em Análise" ou descarta  
-3. **Avalie** "Em Análise" → Vira "Decisões" ou volta  
-4. **Revise** "Problemas" → Vira "Prioridades" ou resolve  
-5. **Limpe** quadro → Arquive o que não é mais relevante
-
-#### Ritual Trimestral (2-4h)
-
-1. **Revisão completa** do quadro  
-2. **Arquive** tudo que não é mais relevante  
-3. **Crie** cartões das prioridades trimestrais  
-4. **Reorganize** etiquetas se necessário  
-5. **Limpe** arquivo antigo (>90 dias)
-
-### Regras do Quadro Único
-
-!!! warning "Regras Importantes"
-    1. **Limite WIP**: Máximo 5-7 cartões "Em Andamento" por pessoa  
-    2. **Bloqueios visíveis**: Sempre marque e comunique  
-    3. **Atualização diária**: Mova cartões conforme progresso  
-    4. **Limpeza semanal**: Arquive concluídos antigos  
-    5. **Triagem mensal**: Não deixe ideias acumularem
-
----
-
-## 📊 Abordagem 2: Quadros por Camada
-
-### Estrutura Multi-Quadro
-
-Três quadros separados por nível de gestão:
-
-#### Quadro 1: Estratégico (Trimestral)
-
-**Quem usa:** CEO, fundadores, lideranças estratégicas
-
-**Colunas:**
-
-| Coluna | O Que Entra |
-|--------|-------------|
-| **🎯 Objetivos Trimestrais** | Metas do trimestre |
-| **🏛️ Frentes Estratégicas** | Grandes iniciativas |
-| **💡 Ideias Estratégicas** | Inovações, apostas |
-| **🚨 Problemas Sistêmicos** | Problemas estruturais |
-| **🎯 Decisões Estratégicas** | Escolhas de alto impacto |
-| **✅ Concluído (Trimestre)** | Entregas do trimestre |
-
-**Etiquetas:**
-
-- Por pilar da empresa  
-- Por frente estratégica  
-- Por trimestre
-
-**Quando revisar:**
-
-- **Trimestral**: Revisão completa  
-- **Mensal**: Acompanhamento de progresso  
-- **Semanal**: Não revisa (só se houver urgência)
-
----
-
-#### Quadro 2: Tático (Mensal)
-
-**Quem usa:** Coordenadores de área, gerentes
-
-**Colunas:**
-
-| Coluna | O Que Entra |
-|--------|-------------|
-| **📋 Plano do Mês** | Entregas mensais |
-| **💡 Ideias Táticas** | Melhorias de processo |
-| **🚨 Problemas Relevantes** | Problemas recorrentes |
-| **🎯 Decisões Táticas** | Ajustes de plano |
-| **🔄 Em Execução** | Ações do mês |
-| **⏸️ Bloqueado** | Travado |
-| **✅ Concluído (Mês)** | Entregas do mês |
-
-**Etiquetas:**
-
-- Por área/setor  
-- Por frente estratégica  
-- Por mês
-
-**Quando revisar:**
-
-- **Mensal**: Revisão completa  
-- **Semanal**: Acompanhamento de progresso  
-- **Diário**: Não revisa (só se houver urgência)
-
----
-
-#### Quadro 3: Operacional (Semanal/Diário)
-
-**Quem usa:** Equipe executiva, operacional
-
-**Colunas:**
-
-| Coluna | O Que Entra |
-|--------|-------------|
-| **📋 Prioridades da Semana** | Ações prioritárias |
-| **☀️ Hoje** | Foco do dia |
-| **🔄 Em Andamento** | Executando agora |
-| **⏸️ Bloqueado** | Impedimentos |
-| **💡 Ideias Operacionais** | Melhorias pequenas |
-| **✅ Concluído (Semana)** | Entregas da semana |
-
-**Etiquetas:**
-
-- Por responsável  
-- Por área  
-- Por dia da semana
-
-**Quando revisar:**
-
-- **Diário**: Revisão completa  
-- **Semanal**: Planejamento e fechamento  
-- **Mensal**: Não revisa (só consolida)
-
----
-
-### Fluxo Entre Quadros
-
-```mermaid
-graph TB
-    A[Quadro Estratégico] -->|Desdobra em| B[Quadro Tático]
-    B -->|Desdobra em| C[Quadro Operacional]
-    C -->|Escala problemas| B
-    B -->|Escala problemas| A
-    
-    style A fill:#1976d2,stroke:#0d47a1,stroke-width:3px,color:#fff
-    style B fill:#f57c00,stroke:#e65100,stroke-width:3px,color:#fff
-    style C fill:#2e7d32,stroke:#1b5e20,stroke-width:3px,color:#fff
-```
-
-### Regras de Escalonamento
-
-#### Do Operacional para o Tático
-
-**Quando escalar:**
-
-- Problema recorrente (3+ vezes)  
-- Afeta múltiplas pessoas/áreas  
-- Exige decisão de coordenação  
-- Não resolve em 1 semana
-
-**Como escalar:**
-
-- Cria cartão no Quadro Tático  
-- Marca origem: "Escalado do Operacional"  
-- Vincula ao cartão original
-
-#### Do Tático para o Estratégico
-
-**Quando escalar:**
-
-- Problema sistêmico/estrutural  
-- Exige mudança de prioridade trimestral  
-- Exige investimento significativo  
-- Invalida hipóteses estratégicas
-
-**Como escalar:**
-
-- Cria cartão no Quadro Estratégico  
-- Marca origem: "Escalado do Tático"  
-- Vincula ao cartão original
-
----
-
-## 🏷️ Sistema de Etiquetas Simplificado
-
-### Realidade do Trello/Kanban
-
-A maioria das ferramentas Kanban (Trello, Notion, etc.) oferece **etiquetas coloridas simples**. Não há múltiplas camadas ou tipos complexos.
-
-!!! info "Limitação prática"
-    Ferramentas como Trello oferecem:
-    
-    - 10 cores de etiquetas  
-    - 1 nome por etiqueta  
-    - Sem hierarquia ou tipos
-    
-    Por isso, **escolha UM critério** e use consistentemente.
-
-### Opção 1: Etiquetas por Área (Recomendado)
-
-**Melhor para:** Empresas com múltiplas áreas/setores
-
-| Cor | Área | Quando Usar |
-|-----|------|-------------|
-| 🟦 Azul | Produção | Cartões de operações, fabricação |
-| 🟩 Verde | Comercial | Cartões de vendas, atendimento |
-| 🟨 Amarelo | Financeiro | Cartões de finanças, custos |
-| 🟧 Laranja | Produto | Cartões de desenvolvimento |
-| 🟪 Roxo | Pessoas | Cartões de RH, cultura |
-| 🟥 Vermelho | URGENTE | Só para crises reais |
-
-**Como usar:**
-
-- Cada cartão recebe **1 cor** = área responsável  
-- Vermelho = reservado para urgências  
-- Sem cor = geral ou múltiplas áreas
-
-### Opção 2: Etiquetas por Prioridade
-
-**Melhor para:** Empresas pequenas ou foco em urgência
-
-| Cor | Prioridade | Prazo |
-|-----|------------|-------|
-| 🟥 Vermelho | Crítico | Hoje/Amanhã |
-| 🟧 Laranja | Alta | Esta semana |
-| 🟨 Amarelo | Média | Este mês |
-| 🟩 Verde | Baixa | Quando possível |
-| 🟦 Azul | Backlog | Futuro |
-
-**Como usar:**
-
-- Cada cartão recebe **1 cor** = urgência  
-- Mude a cor conforme prazo se aproxima  
-- Evite ter muitos "vermelhos" (perde significado)
-
-### Opção 3: Etiquetas por Tipo de Cartão
-
-**Melhor para:** Empresas que querem separar ideias, problemas e ações
-
-| Cor | Tipo | Descrição |
-|-----|------|-----------|
-| 🟢 Verde | Ideia | Sugestões, oportunidades |
-| 🟥 Vermelho | Problema | Falhas, riscos, bloqueios |
-| 🟦 Azul | Decisão | Escolhas aprovadas |
-| 🟨 Amarelo | Ação | Tarefas executáveis |
-| 🟪 Roxo | Experimento | Testes, validações |
-
-**Como usar:**
-
-- Cada cartão recebe **1 cor** = tipo  
-- Facilita filtrar por categoria  
-- Útil para triagem
-
-### Qual Opção Escolher?
-
-!!! tip "Recomendação"
-    **Comece com Opção 1 (Por Área)**
-    
-    É a mais prática porque:
-    
-    - Mostra quem é responsável  
-    - Facilita distribuição de trabalho  
-    - Funciona em qualquer ritual  
-    - Escala bem
-    
-    **Use Opção 2** se sua empresa é muito pequena (1-3 pessoas) e prioridade é mais importante que área.
-    
-    **Use Opção 3** se você quer separar claramente ideias de problemas de ações.
-
-### Regras de Uso
-
-1. **Escolha UM sistema** e use consistentemente  
-2. **Não misture** sistemas diferentes  
-3. **Máximo 1-2 etiquetas** por cartão  
-4. **Evite criar muitas etiquetas** (máximo 6-8)  
-5. **Revise etiquetas** trimestralmente
-
----
-
-## 📝 Anatomia de um Cartão
-
-### Estrutura Mínima
-
-Todo cartão deve ter:
+**Sistema recomendado (todas os modelos):**
+
+| Cor | Área |
+|-----|------|
+| 🟦 Azul | Produção/Operações |
+| 🟩 Verde | Comercial/Vendas |
+| 🟨 Amarelo | Financeiro |
+| 🟧 Laranja | Produto/Desenvolvimento |
+| 🟪 Roxo | Pessoas/Cultura |
+| 🟥 Vermelho | URGENTE (use com moderação) |
+
+### Anatomia de um Cartão
+
+**Estrutura mínima (vale para todos):**
 
 ```
-Título: [Verbo] + [Objeto] + [Resultado esperado]
-Exemplo: "Implementar controle de estoque para reduzir perdas"
+Título: [Verbo] + [Objeto] + [Resultado]
 
 Descrição:
-- Contexto: Por que isso é necessário?  
-- Objetivo: O que queremos alcançar?  
-- Critério de sucesso: Como saber que está pronto?
+- Por que? (Contexto)
+- O que? (Objetivo)
+- Como saber que está pronto? (Critério)
 
-Responsável: Nome da pessoa
-Prazo: Data limite
-Etiqueta: [1 cor conforme sistema escolhido]
+Responsável: Nome
+Prazo: Data
+Etiqueta: 1 cor
 ```
 
-### Exemplo de Cartão Bem Feito
-
-!!! example "Cartão: Implementar controle de estoque"
-    **Etiqueta:** 🟦 Azul (Produção)
-    
-    **Contexto:**  
-    Estamos perdendo 15% dos materiais por falta de controle. Isso impacta margem de lucro.
-    
-    **Objetivo:**  
-    Criar sistema simples de entrada/saída de materiais para reduzir perdas para <5%.
-    
-    **Critério de sucesso:**  
-    - [ ] Planilha de controle criada  
-    - [ ] Processo de registro definido  
-    - [ ] Equipe treinada  
-    - [ ] Perdas medidas por 1 mês
-    
-    **Responsável:** João (Produção)  
-    **Prazo:** 30/04/2026  
-    **Coluna:** Prioridades
-
 ---
 
-## 🔄 Ciclo de Vida dos Cartões
-
-### 1. Criação
-
-**Quando criar:**
-
-- Durante rituais (principal)  
-- Quando surge urgência  
-- Quando identifica oportunidade
-
-**Como criar:**
-
-- Título claro e objetivo  
-- Descrição com contexto  
-- Etiqueta correta (1 cor)  
-- Responsável definido
-
-### 2. Priorização
-
-**Critérios:**
-
-- Impacto no objetivo trimestral  
-- Urgência real (não aparente)  
-- Esforço necessário  
-- Dependências
-
-**Técnica:** Matriz Impacto x Esforço
-
-| Impacto | Esforço Baixo | Esforço Alto |
-|---------|---------------|--------------|
-| **Alto** | 🎉 Faça JÁ | 🎯 Planeje bem |
-| **Baixo** | 🟢 Se sobrar tempo | 🚫 Não faça |
-
-### 3. Execução
-
-**Boas práticas:**
-
-- Atualiza status diariamente  
-- Comunica bloqueios imediatamente  
-- Pede ajuda quando necessário  
-- Documenta decisões tomadas
-
-### 4. Conclusão
-
-**Antes de marcar como concluído:**
-
-- [ ] Critérios de sucesso atingidos?  
-- [ ] Resultado documentado?  
-- [ ] Aprendizados registrados?  
-- [ ] Próximos passos definidos (se houver)?
-
-### 5. Arquivo
-
-**Quando arquivar:**
-
-- Concluído há mais de 7 dias  
-- Cancelado/descartado  
-- Não é mais relevante
-
-**Como arquivar:**
-
-- Move para coluna "Arquivo"  
-- Adiciona nota de fechamento  
-- Mantém para histórico
-
----
-
-## 📊 Métricas do Quadro
-
-### Indicadores de Saúde
-
-Acompanhe mensalmente:
+## 📊 Métricas de Saúde (Todos os Modelos)
 
 | Métrica | Como Calcular | Meta |
 |---------|---------------|------|
 | **Taxa de Conclusão** | Concluídos / Planejados | >80% |
-| **Tempo Médio** | Dias entre criação e conclusão | <14 dias |
-| **Taxa de Bloqueio** | Bloqueados / Em Andamento | <20% |
+| **Tempo Médio** | Dias criação → conclusão | <14 dias |
 | **WIP por Pessoa** | Em Andamento / Pessoas | 3-5 |
-| **Taxa de Escalonamento** | Escalados / Total | <10% |
-
-### Sinais de Alerta
-
-🚨 **Quadro com problemas:**
-
-- Muitos cartões "Em Andamento" (>10 por pessoa)  
-- Cartões parados há muito tempo (>30 dias)  
-- Muitos bloqueios não resolvidos  
-- Coluna "Ideias" muito cheia (>20 cartões)  
-- Nada sendo concluído
-
-✅ **Quadro saudável:**
-
-- Fluxo constante de conclusões  
-- WIP controlado (3-5 por pessoa)  
-- Bloqueios resolvidos rapidamente  
-- Ideias sendo triadas regularmente  
-- Prioridades claras
-
----
-
-## 🎯 Qual Abordagem Escolher?
-
-### Use Quadro Único se:
-
-- ✅ Empresa tem 1-10 pessoas  
-- ✅ Operação é simples  
-- ✅ Está começando com Kanban  
-- ✅ Prefere simplicidade
-
-### Use Quadros por Camada se:
-
-- ✅ Empresa tem 10+ pessoas  
-- ✅ Operação é complexa  
-- ✅ Já domina Kanban básico  
-- ✅ Precisa de foco por nível
-
-### Pode Migrar?
-
-**Sim!** Comece com Quadro Único e migre quando:
-
-- Quadro ficar muito poluído (>50 cartões)  
-- Dificuldade em filtrar por nível  
-- Equipe crescer (>10 pessoas)  
-- Operação ficar mais complexa
+| **Taxa de Bloqueio** | Bloqueados / Total | <20% |
 
 ---
 
 ## ❓ Perguntas Frequentes
 
-??? question "Quantos cartões posso ter 'Em Andamento'?"
-    **Regra geral:** 3-5 por pessoa
+??? question "Posso pular direto para o Modelo 2 ou 3?"
+    **Não recomendado.**
     
-    - Menos que 3 = Pode estar subutilizado  
-    - Mais que 5 = Está disperso demais  
-    - Ideal = 3-4 cartões focados
+    Mesmo empresas grandes devem começar pelo Modelo 1 para:
+    - Entender a lógica dos cartões fixos
+    - Criar o hábito de atualização
+    - Validar que o sistema funciona
+    - Treinar a equipe gradualmente
+    
+    Depois de 1-2 meses, migre para o modelo adequado.
 
-??? question "O que fazer com ideias que não vão ser feitas?"
-    **Não deixe acumular!**
+??? question "Como sei quando é hora de evoluir?"
+    **Sinais claros:**
     
-    - Avalie mensalmente  
-    - Descarte o que não faz sentido  
-    - Arquive o que pode ser útil no futuro  
-    - Mantenha só o que tem potencial real
+    **Modelo 1 → 2:**
+    - Quadro tem >30 cartões operacionais
+    - Difícil encontrar informações
+    - Equipe reclama de poluição
+    - Estratégia se perde no operacional
+    
+    **Modelo 2 → 3:**
+    - Empresa >15 pessoas
+    - Áreas querem autonomia
+    - Difícil sincronizar tático com operacional
+    - Reuniões diárias misturam níveis
 
-??? question "Como lidar com urgências?"
-    **Crie cartão e priorize:**
+??? question "Posso voltar para um modelo mais simples?"
+    **Sim! E não há problema nisso.**
     
-    1. Cria cartão com etiqueta 🟥 Vermelho (Urgente)  
-    2. Move direto para "Em Andamento"  
-    3. Pausa outros cartões se necessário  
-    4. Resolve a urgência  
-    5. Volta ao fluxo normal
+    Se migrou para Modelo 2 ou 3 e não funcionou:
+    - Volte para o modelo anterior
+    - Consolide os quadros
+    - Mantenha os cartões fixos
+    - Nenhuma vergonha em simplificar
 
 ??? question "Preciso de ferramenta digital?"
     **Não necessariamente!**
     
-    - **Físico**: Post-its em quadro branco (simples, visual)  
-    - **Digital**: Trello, Notion, Asana (flexível, remoto)  
-    - **Híbrido**: Quadro físico + foto diária
+    - **Físico:** Post-its em quadro branco (visual, simples)
+    - **Digital:** Trello, Notion, Asana (flexível, remoto)
+    - **Híbrido:** Quadro físico + foto diária
     
-    Escolha o que funciona para sua equipe.
-
-??? question "Como evitar que o quadro fique bagunçado?"
-    **Disciplina e rituais:**
-    
-    - Atualização diária obrigatória  
-    - Limpeza semanal  
-    - Triagem mensal  
-    - Revisão trimestral  
-    - Limite de WIP  
-    - Arquivamento regular
-
-??? question "E se ninguém atualizar o quadro?"
-    **Crie o hábito:**
-    
-    - Inclua nos rituais diários  
-    - Responsabilize cada pessoa  
-    - Mostre benefícios (visibilidade, reconhecimento)  
-    - Lidere pelo exemplo  
-    - Celebre quem mantém atualizado
+    Todos os modelos funcionam em qualquer ferramenta.
 
 ---
 
-## 🚀 Primeiros Passos
+## 🚀 Por Onde Começar
 
-### Para Começar com Quadro Único
+### Passo a Passo
 
-1. **Crie as colunas** (físico ou digital)  
-2. **Defina etiquetas** básicas (escolha 1 sistema)  
-3. **Migre cartões** do ritual trimestral  
-4. **Treine equipe** em 30 minutos  
-5. **Comece a usar** nos rituais diários
+1. **Leia sobre o Modelo 1** → [quadro-modelo-1.md](quadro-modelo-1.md)
+2. **Implemente o Modelo 1** → 2-3 horas
+3. **Use por 1-2 meses** → Aprenda o sistema
+4. **Avalie se precisa evoluir** → Use sinais de evolução
+5. **Migre se necessário** → Modelo 2 ou 3
 
-### Para Começar com Quadros por Camada
+### Tempo Esperado
 
-1. **Crie os 3 quadros** separados  
-2. **Defina etiquetas** por quadro (mesmo sistema em todos)  
-3. **Distribua cartões** por nível  
-4. **Defina responsáveis** por quadro  
-5. **Estabeleça regras** de escalonamento
+| Ação | Tempo |
+|------|-------|
+| Ler documentação | 1-2 horas |
+| Implementar Modelo 1 | 2-3 horas |
+| Aprender a usar | 1-2 semanas |
+| Migrar para Modelo 2 | 1 dia + 1 semana |
+| Migrar para Modelo 3 | 2-3 dias + 2 semanas |
 
 ---
 
-## 📚 Recursos Adicionais
+## 📚 Documentação Completa
 
-- **[Rituais](rituais/trimestral.md)** — Como usar o quadro em cada ritual
-- **[Painel](painel.md)** — Visão consolidada da empresa
-- **[Indicadores](indicadores.md)** — Métricas para acompanhar
+- **[Modelo 1: Quadro Único Unificado](quadro-modelo-1.md)** — Comece aqui
+- **[Modelo 2: Separação Tática](quadro-modelo-2.md)** — Próxima evolução
+- **[Modelo 3: Multi-Quadros](quadro-modelo-3.md)** — Nível avançado
+
+**Recursos relacionados:**
+- **[Rituais](rituais/index.md)** — Como usar o quadro em cada ritual
+- **[Painel](painel.md)** — Entenda os fundamentos estratégicos
+- **[Indicadores](indicadores.md)** — Métricas para cartões fixos
 
 ---
 
 <p align="center">
-  <strong>Quadro Kanban</strong> — Gestão visual que funciona 📋
+  <strong>Quadro Kanban</strong> — Gestão visual que evolui com sua empresa 📋
 </p>

@@ -62,7 +62,11 @@ nav:
     - 📅 Mensal: rituais/mensal.md
     - 📆 Semanal: rituais/semanal.md
     - ☀️ Diário: rituais/diario.md
-  - 📋 Quadro: quadro.md
+  - 📋 Quadro:
+    - 📋 Visão Geral: quadro.md
+    - 📋 Modelo 1: quadro-modelo-1.md
+    - 📊 Modelo 2: quadro-modelo-2.md
+    - 🚀 Modelo 3: quadro-modelo-3.md
   - 📈 Gestão:
     - 📊 Indicadores: indicadores.md
     - 🔍 Retrospectivas: retrospectivas.md
