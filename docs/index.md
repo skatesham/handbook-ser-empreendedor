@@ -1,4 +1,4 @@
-# � Ser Empreendedor — Aprenda Gestão Organizando Sua Empresa
+# 🚀 Ser Empreendedor — Aprenda Gestão Organizando Sua Empresa
 
 > **Um sistema que ensina enquanto organiza**: estruture sua empresa com rituais guiados que geram documentação, decisões e execução.
 
