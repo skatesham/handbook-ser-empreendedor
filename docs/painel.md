@@ -98,13 +98,6 @@ graph TB
     P3 --> D3[Inovação com propósito]
     P4 --> D4[Prometemos menos, entregamos mais]
     P5 --> D5[Processos simples e repetíveis]
-    
-    style OBJ fill:#1976d2,stroke:#0d47a1,stroke-width:3px,color:#fff
-    style P1 fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style P2 fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style P3 fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style P4 fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style P5 fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
 ```
 
 ### Como Usar no Dia a Dia
@@ -168,13 +161,6 @@ graph TB
     COM --> VEND[💬 Vendas]
     FIN --> CONT[📋 Controle]
     PESS --> ROTI[🌱 Rotina]
-    
-    style CEO fill:#1976d2,stroke:#0d47a1,stroke-width:3px,color:#fff
-    style PROD fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style PRODUTO fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style COM fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style FIN fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
-    style PESS fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#fff
 ```
 
 ### Como Usar no Dia a Dia
