@@ -164,3 +164,51 @@
         padding: 1.25em;
     }
 }
+
+/* Assinatura de Benefícios - Header Verde com Folhas */
+.benefits-header {
+    position: relative;
+    display: inline-block;
+    margin: 0.5em 0 0.75em 0;
+    padding: 0.75em 2em 0.75em 1.5em;
+    background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+    overflow: visible;
+}
+
+/* Decoração de folha no canto superior direito */
+.benefits-header::before {
+    content: "🌿";
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    font-size: 1.8em;
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+/* Decoração de folha no canto inferior esquerdo */
+.benefits-header::after {
+    content: "🍃";
+    position: absolute;
+    bottom: -8px;
+    left: -8px;
+    font-size: 1.8em;
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+/* Responsividade para Benefits Header */
+@media (max-width: 768px) {
+    .benefits-header {
+        font-size: 1.2em;
+        padding: 0.6em 1.5em 0.6em 1.2em;
+    }
+    
+    .benefits-header::before,
+    .benefits-header::after {
+        font-size: 1.4em;
+    }
+}
