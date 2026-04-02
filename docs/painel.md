@@ -2,6 +2,12 @@
 
 > **O coração do sistema**: centralize os fundamentos da sua empresa e tenha visibilidade completa do que importa.
 
+<div style="text-align: center; margin: 1.5rem 0;">
+  <a href="../painel-demo/" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.875rem 2rem; background: linear-gradient(135deg, #009688, #00796b); color: white; border-radius: 10px; font-size: 1.1rem; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(0,150,136,0.3); transition: all 0.3s ease;">
+    🖥️ Ver Demo Interativo do Painel
+  </a>
+</div>
+
 ---
 
 ## 💡 O Que É o Painel?

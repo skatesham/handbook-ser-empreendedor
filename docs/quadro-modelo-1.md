@@ -119,19 +119,59 @@ Título: 📊 Indicadores Principais
 Descrição:
 **Atualizado em:** [Data]
 
-| Indicador | Meta | Atual | Tendência | Status |
-|-----------|------|-------|-----------|--------|
-| [Nome do indicador 1] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 2] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 3] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 4] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 5] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
+Indicador 1: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
 
-**Legenda:**
-- 🟢 Saudável (meta atingida)
-- 🟡 Atenção (próximo da meta)
-- 🔴 Crítico (abaixo da meta)
-- ↗️ Subindo | → Estável | ↘️ Caindo
+Indicador 2: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 3: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 4: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 5: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+---
+Legenda:
+
+🟢 Saudável (meta atingida ou superada)
+🟡 Atenção (próximo da meta, precisa acompanhar)
+🔴 Crítico (abaixo da meta, exige ação)
+
+Tendência:
+↗️ Subindo = melhorando com o tempo
+→ Estável = sem variação significativa
+↘️ Caindo = piorando, investigar causa
+
+Como preencher:
+- Meta = onde você quer chegar
+- Atual = onde está agora
+- Se Atual ≥ Meta → 🟢
+- Se Atual está perto da Meta (80-99%) → 🟡
+- Se Atual está longe da Meta (<80%) → 🔴
+
+Indicadores que mudaram de status este mês:
+[Liste aqui se houver mudança de 🟢→🟡, 🟡→🔴, etc.]
+
+Próxima atualização: [Data do próximo Ritual Mensal]
 ```
 
 **Atualizado em:** Ritual Mensal  
@@ -230,24 +270,65 @@ Título: ⚠️ Riscos Monitorados
 Descrição:
 **Atualizado em:** [Data]
 
-| Risco | Probabilidade | Impacto | Status | Plano |
-|-------|---------------|---------|--------|-------|
-| [Risco 1] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 2] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 3] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 4] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 5] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
+Risco 1: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-**Legenda:**
-- 🔴 Crítico (alta prioridade)
-- 🟡 Monitorar (atenção)
-- 🟢 Controlado (baixo risco)
+Risco 2: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-**Riscos que se concretizaram este mês:**
-- [Se houver, liste aqui]
+Risco 3: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-**Novos riscos identificados:**
-- [Se houver, liste aqui]
+Risco 4: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
+
+Risco 5: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
+
+---
+Legenda:
+
+🔴 Crítico (alta prioridade, exige ação imediata)
+🟡 Monitorar (atenção, acompanhar de perto)
+🟢 Controlado (baixo risco, sem ação urgente)
+
+Probabilidade:
+Alta = muito provável de acontecer
+Média = pode acontecer, depende de fatores
+Baixa = improvável, mas possível
+
+Impacto:
+Alto = atrasa ou trava algo importante
+Médio = incomoda, mas dá para contornar
+Baixo = efeito pequeno, sem grande dano
+
+Como definir o Status:
+- Probabilidade Alta + Impacto Alto → 🔴
+- Probabilidade ou Impacto Médio → 🟡
+- Ambos Baixos → 🟢
+
+Riscos que se concretizaram este mês:
+[Se houver, liste aqui com o que foi feito]
+
+Novos riscos identificados:
+[Se houver, liste aqui]
+
+Próxima revisão: [Data do próximo Ritual Mensal]
 ```
 
 **Atualizado em:** Ritual Mensal (revisão) + Ritual Trimestral (definição inicial)  
