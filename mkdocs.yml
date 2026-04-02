@@ -70,7 +70,7 @@ markdown_extensions:
 
 nav:
   - 🏠 Início: index.md
-  - � Introdução: introducao.md
+  - ☀️ Introdução: introducao.md
   - 📊 Painel: painel.md
   - 🔄 Rituais:
     - rituais/index.md
