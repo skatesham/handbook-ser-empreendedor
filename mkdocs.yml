@@ -31,11 +31,20 @@ theme:
     repo: fontawesome/brands/github
   language: pt-BR
 
+  footer:
+    copyright: "© 2026 Ser Empreendedor Handbook"
+    nav:
+      - "GitHub": https://github.com/skatesham/handbook-ser-empreendedor
+
 plugins:
   - search
 
+extra:
+  generator: false
+
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/landing.css
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -61,6 +70,7 @@ markdown_extensions:
 
 nav:
   - 🏠 Início: index.md
+  - � Introdução: introducao.md
   - 📊 Painel: painel.md
   - 🔄 Rituais:
     - rituais/index.md
