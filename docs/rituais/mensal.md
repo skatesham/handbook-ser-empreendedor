@@ -23,7 +23,7 @@ O **Ritual Mensal** é a ponte entre estratégia e execução. É quando você:
 
 ---
 
-## 🎁 Benefícios do Ritual Mensal
+<div class="benefits-header">🎁 Benefícios do Ritual Mensal</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -83,7 +83,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Retrospectiva mensal** garante que você aprende com o que aconteceu e não repete os mesmos erros.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -205,7 +205,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Acompanhar frentes** mostra se você está transformando a estratégia trimestral em execução real.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -334,7 +334,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Indicadores táticos** mostram se o negócio está saudável e evoluindo no curto prazo.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -454,7 +454,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Diagnóstico tático** identifica o que precisa de atenção e o que pode ser aproveitado.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -592,7 +592,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Resolver problemas táticos** evita que pequenos problemas virem grandes crises.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -732,7 +732,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Decisões táticas** ajustam o plano para manter alinhamento com a estratégia trimestral.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -853,7 +853,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Prioridades mensais** traduzem a estratégia trimestral em foco executável para os próximos 30 dias.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -984,7 +984,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
 
 **Triagem de ideias** garante que boas ideias não se percam, mas também não dispersem o foco.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|

@@ -23,7 +23,7 @@ O **Ritual Semanal** é a ponte entre planejamento e execução diária. É quan
 
 ---
 
-## 🎁 Benefícios do Ritual Semanal
+<div class="benefits-header">🎁 Benefícios do Ritual Semanal</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -81,7 +81,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Fechamento semanal** garante visibilidade do que foi feito e do que ficou pendente.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -203,7 +203,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Prioridades semanais** traduzem o plano mensal em foco executável para os próximos 7 dias.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -328,7 +328,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Identificar bloqueios** cedo evita que pequenos impedimentos virem grandes atrasos.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -451,7 +451,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Indicadores operacionais** dão sinais rápidos de como está a execução.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -581,7 +581,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Decisões rápidas** mantêm a execução fluindo sem esperar rituais maiores.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|
@@ -697,7 +697,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
 
 **Capturar ideias** da operação garante que melhorias não se percam.
 
-### Benefícios
+<div class="benefits-header">🎁 Benefícios</div>
 
 | Benefício | Impacto |
 |-----------|---------|

@@ -26,7 +26,7 @@ O **Painel** é sua página inicial autenticada — o lugar onde você vê **tud
 
 A **razão de existir** da sua empresa. Uma frase clara que responde: **"Por que fazemos o que fazemos?"**
 
-### Benefícios de Ter um Objetivo Claro
+<div class="benefits-header">🎁 Benefícios de Ter um Objetivo Claro</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -73,7 +73,7 @@ A **razão de existir** da sua empresa. Uma frase clara que responde: **"Por que
 
 Os **3 a 5 fundamentos** que sustentam tudo que você faz. São os valores e princípios não-negociáveis.
 
-### Benefícios de Ter Pilares Definidos
+<div class="benefits-header">🎁 Benefícios de Ter Pilares Definidos</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -122,7 +122,7 @@ graph TB
 
 A **organização da empresa** em setores, com papéis e responsabilidades claras.
 
-### Benefícios de Ter Estrutura Definida
+<div class="benefits-header">🎁 Benefícios de Ter Estrutura Definida</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -193,7 +193,7 @@ graph TB
 
 **Métricas** que mostram se a empresa está saudável e evoluindo.
 
-### Benefícios de Acompanhar Indicadores
+<div class="benefits-header">🎁 Benefícios de Acompanhar Indicadores</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -271,7 +271,7 @@ graph LR
 
 **Gatilhos visuais** que mostram quais rituais precisam ser realizados.
 
-### Benefícios de Acompanhar Rituais
+<div class="benefits-header">🎁 Benefícios de Acompanhar Rituais</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
@@ -306,7 +306,7 @@ graph LR
 
 **Itens concluídos** nos últimos 7 dias — decisões tomadas, problemas resolvidos, prioridades finalizadas.
 
-### Benefícios de Visualizar Conquistas
+<div class="benefits-header">🎁 Benefícios de Visualizar Conquistas</div>
 
 | Benefício | Como Funciona |
 |-----------|---------------|
