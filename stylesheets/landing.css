@@ -325,7 +325,8 @@
 
 .landing-cta .landing-btn-primary {
   background: white;
-  color: var(--md-primary-fg-color) !important;
+  color: var(--md-accent-fg-color) !important;
+  border: 2px solid white;
 }
 
 .landing-cta .landing-btn-primary:hover {
@@ -335,12 +336,13 @@
 
 .landing-cta .landing-btn-secondary {
   background: transparent;
-  border-color: white;
-  color: white;
+  border: 2px solid white;
+  color: white !important;
 }
 
 .landing-cta .landing-btn-secondary:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: white;
+  color: var(--md-accent-fg-color) !important;
   transform: translateY(-2px);
 }
 

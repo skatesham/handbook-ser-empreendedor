@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../stylesheets/landing.css">
     
+      <link rel="stylesheet" href="../stylesheets/painel-demo.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -263,17 +265,18 @@
   
   
   
-    <li class="md-tabs__item">
-      <a href="../painel/" class="md-tabs__link">
-        
-  
-  
     
+    
+      <li class="md-tabs__item">
+        <a href="../painel/" class="md-tabs__link">
+          
+  
   
   📊 Painel
 
-      </a>
-    </li>
+        </a>
+      </li>
+    
   
 
       
@@ -443,9 +446,25 @@
   
   
   
-    <li class="md-nav__item">
-      <a href="../painel/" class="md-nav__link">
+    
+    
+    
+    
+      
+      
         
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
   
   
   <span class="md-ellipsis">
@@ -459,7 +478,79 @@
   
   
 
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    📊 Painel
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../painel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📊 Visão Geral
+  
+
+    
+  </span>
+  
+  
+
       </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../painel-demo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🖥️ Demo do Painel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -2335,19 +2426,59 @@ Estruturar organização e crescer de 15k → 20k/mês</p>
 Descrição:
 <span class="gs">**Atualizado em:**</span> [Data]
 
-| Indicador | Meta | Atual | Tendência | Status |
-|-----------|------|-------|-----------|--------|
-| [Nome do indicador 1] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 2] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 3] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 4] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
-| [Nome do indicador 5] | [Valor meta] | [Valor atual] | ↗️↘️→ | 🟢🟡🔴 |
+Indicador 1: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
 
-<span class="gs">**Legenda:**</span>
-<span class="k">-</span><span class="w"> </span>🟢 Saudável (meta atingida)
-<span class="k">-</span><span class="w"> </span>🟡 Atenção (próximo da meta)
-<span class="k">-</span><span class="w"> </span>🔴 Crítico (abaixo da meta)
-<span class="k">-</span><span class="w"> </span>↗️ Subindo | → Estável | ↘️ Caindo
+Indicador 2: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 3: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 4: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+Indicador 5: [Nome do indicador]
+Meta: [Valor meta]
+Atual: [Valor atual]
+Tendência: ↗️ / → / ↘️
+Status: 🟢 / 🟡 / 🔴
+
+---
+Legenda:
+
+🟢 Saudável (meta atingida ou superada)
+🟡 Atenção (próximo da meta, precisa acompanhar)
+🔴 Crítico (abaixo da meta, exige ação)
+
+Tendência:
+↗️ Subindo = melhorando com o tempo
+→ Estável = sem variação significativa
+↘️ Caindo = piorando, investigar causa
+
+Como preencher:
+<span class="k">-</span><span class="w"> </span>Meta = onde você quer chegar
+<span class="k">-</span><span class="w"> </span>Atual = onde está agora
+<span class="k">-</span><span class="w"> </span>Se Atual ≥ Meta → 🟢
+<span class="k">-</span><span class="w"> </span>Se Atual está perto da Meta (80-99%) → 🟡
+<span class="k">-</span><span class="w"> </span>Se Atual está longe da Meta (&lt;80%) → 🔴
+
+Indicadores que mudaram de status este mês:
+[Liste aqui se houver mudança de 🟢→🟡, 🟡→🔴, etc.]
+
+Próxima atualização: [Data do próximo Ritual Mensal]
 </code></pre></div></p>
 <p><strong>Atualizado em:</strong> Ritual Mensal<br />
 <strong>Exemplo real:</strong></p>
@@ -2434,24 +2565,65 @@ Descrição:
 Descrição:
 <span class="gs">**Atualizado em:**</span> [Data]
 
-| Risco | Probabilidade | Impacto | Status | Plano |
-|-------|---------------|---------|--------|-------|
-| [Risco 1] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 2] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 3] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 4] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
-| [Risco 5] | Alta/Média/Baixa | Alto/Médio/Baixo | 🔴🟡🟢 | [Ação preventiva] |
+Risco 1: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-<span class="gs">**Legenda:**</span>
-<span class="k">-</span><span class="w"> </span>🔴 Crítico (alta prioridade)
-<span class="k">-</span><span class="w"> </span>🟡 Monitorar (atenção)
-<span class="k">-</span><span class="w"> </span>🟢 Controlado (baixo risco)
+Risco 2: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-<span class="gs">**Riscos que se concretizaram este mês:**</span>
-<span class="k">-</span><span class="w"> </span>[Se houver, liste aqui]
+Risco 3: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
 
-<span class="gs">**Novos riscos identificados:**</span>
-<span class="k">-</span><span class="w"> </span>[Se houver, liste aqui]
+Risco 4: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
+
+Risco 5: [Descreva o risco]
+Probabilidade: Alta / Média / Baixa
+Impacto: Alto / Médio / Baixo
+Status: 🔴 / 🟡 / 🟢
+Plano: [Ação preventiva ou de contenção]
+
+---
+Legenda:
+
+🔴 Crítico (alta prioridade, exige ação imediata)
+🟡 Monitorar (atenção, acompanhar de perto)
+🟢 Controlado (baixo risco, sem ação urgente)
+
+Probabilidade:
+Alta = muito provável de acontecer
+Média = pode acontecer, depende de fatores
+Baixa = improvável, mas possível
+
+Impacto:
+Alto = atrasa ou trava algo importante
+Médio = incomoda, mas dá para contornar
+Baixo = efeito pequeno, sem grande dano
+
+Como definir o Status:
+<span class="k">-</span><span class="w"> </span>Probabilidade Alta + Impacto Alto → 🔴
+<span class="k">-</span><span class="w"> </span>Probabilidade ou Impacto Médio → 🟡
+<span class="k">-</span><span class="w"> </span>Ambos Baixos → 🟢
+
+Riscos que se concretizaram este mês:
+[Se houver, liste aqui com o que foi feito]
+
+Novos riscos identificados:
+[Se houver, liste aqui]
+
+Próxima revisão: [Data do próximo Ritual Mensal]
 </code></pre></div></p>
 <p><strong>Atualizado em:</strong> Ritual Mensal (revisão) + Ritual Trimestral (definição inicial)<br />
 <strong>Exemplo real:</strong></p>
