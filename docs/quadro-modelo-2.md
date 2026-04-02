@@ -446,6 +446,9 @@ Execute ritual mensal completo para:
     **Quadros ficarão desalinhados!**
     
     Sinais de desalinhamento:
+
+
+
     - Operação não entende prioridades
     - Estratégia não reflete realidade
     - Problemas recorrentes não sobem

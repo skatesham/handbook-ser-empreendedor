@@ -9,7 +9,6 @@
 **Indicadores** são métricas que mostram se sua empresa está saudável e evoluindo. São os **sinais vitais** do negócio.
 
 !!! tip "Por que indicadores importam?"
-    
     - **Visibilidade real**: Sai do "achismo" e vai para dados concretos
     - **Alerta precoce**: Detecta problemas antes de virarem crises
     - **Foco no que importa**: Prioriza o que realmente move a empresa
@@ -197,7 +196,7 @@ Quadro branco com:
 
 **O que fazer:**
 
-1. Investiga causa raiz
+    1. Investiga causa raiz
 2. Cria plano de ação imediato
 3. Acompanha diariamente
 4. Escala para ritual mensal
@@ -212,7 +211,7 @@ Quadro branco com:
 
 **O que fazer:**
 
-1. Monitora de perto
+    1. Monitora de perto
 2. Identifica possíveis causas
 3. Prepara plano preventivo
 4. Acompanha semanalmente
@@ -227,7 +226,7 @@ Quadro branco com:
 
 **O que fazer:**
 
-1. Mantém acompanhamento normal
+    1. Mantém acompanhamento normal
 2. Celebra conquista
 3. Documenta o que está funcionando
 
@@ -305,6 +304,8 @@ Quadro branco com:
     
     Revise indicadores trimestralmente:
     
+
+
     - Remove o que não gera ação
     - Adiciona o que ficou importante
     - Ajusta metas conforme realidade

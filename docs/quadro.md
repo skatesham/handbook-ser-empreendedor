@@ -15,7 +15,6 @@ O **Quadro Kanban** é o coração operacional do sistema. É onde você:
 - ✅ **Celebra** conquistas
 
 !!! tip "Por que Kanban?"
-    
     - **Visual**: Vê tudo de uma vez
     - **Simples**: Fácil de entender e usar
     - **Flexível**: Adapta ao seu contexto
@@ -360,6 +359,9 @@ Etiqueta: 1 cor
     **Não recomendado.**
     
     Mesmo empresas grandes devem começar pelo Modelo 1 para:
+
+
+
     - Entender a lógica dos cartões fixos
     - Criar o hábito de atualização
     - Validar que o sistema funciona
@@ -386,6 +388,9 @@ Etiqueta: 1 cor
     **Sim! E não há problema nisso.**
     
     Se migrou para Modelo 2 ou 3 e não funcionou:
+
+
+
     - Volte para o modelo anterior
     - Consolide os quadros
     - Mantenha os cartões fixos

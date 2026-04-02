@@ -16,7 +16,6 @@ O **Ritual Mensal** é a ponte entre estratégia e execução. É quando você:
 - 📋 Define **prioridades do próximo mês**
 
 !!! tip "Por que mensalmente?"
-    
     - **Frequente o suficiente** para corrigir rota antes de virar crise
     - **Espaçado o suficiente** para ver resultados reais
     - **Ritmo ideal** para ajustes táticos sem microgerenciamento
@@ -154,7 +153,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
-    
+
     1. Localizar cartão "🏆 Conquistas do Mês [MÊS/ANO]"
     2. Atualizar com entregas concluídas do mês
     3. Adicionar principais vitórias e aprendizados
@@ -167,7 +166,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico
     2. Localizar cartão "🏆 Conquistas do Mês"
     3. Atualizar com principais entregas e vitórias
@@ -181,7 +180,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico (nível CEO)
     2. Localizar cartão "🏆 Conquistas do Mês"
     3. Atualizar com conquistas estratégicas do mês
@@ -274,7 +273,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
-    
+
     1. Localizar cartão "📈 Status do Trimestre Q[X]/[ANO]"
     2. Atualizar progresso (%) de cada prioridade trimestral
     3. Atualizar status: 🟢 No prazo | 🟡 Atenção | 🔴 Atrasado
@@ -288,9 +287,12 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - coluna "Frentes Trimestrais"
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico
     2. Para cada cartão de "Frente Trimestral":
+
+
+
        - Atualizar progresso (%)
        - Atualizar status visual (🟢🟡🔴)
        - Adicionar comentário com destaques do mês
@@ -302,9 +304,12 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico (nível CEO)
     2. Para cada "Frente Trimestral":
+
+
+
        - Atualizar progresso e status
        - Adicionar comentário mensal
        - Marcar riscos identificados
@@ -399,7 +404,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer:**
-    
+
     1. Localizar cartão "📊 Indicadores Principais"
     2. Atualizar valores de cada indicador com dados do mês
     3. Adicionar comparação: anterior vs atual
@@ -412,7 +417,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico
     2. Localizar cartão "📊 Indicadores Principais"
     3. Atualizar valores mensais de cada indicador
@@ -425,7 +430,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Estratégico (nível CEO)
     2. Atualizar indicadores estratégicos
     3. Adicionar valores e tendências
@@ -529,8 +534,11 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "🚨 Problemas"
     
     **O que fazer:**
-    
+
     1. Para cada desvio significativo ou gargalo:
+
+
+
        - Criar cartão com título: "🚨 Problema: [Nome]"
        - Adicionar descrição do problema
        - Adicionar impacto e urgência
@@ -543,10 +551,13 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional (ou Quadro Estratégico se problema grave)
     
     **O que fazer:**
-    
+
     1. Problemas táticos/operacionais: criar no Quadro Tático
     2. Problemas que afetam estratégia trimestral: criar no Quadro Estratégico
     3. Para cada problema:
+
+
+
        - Criar cartão "🚨 Problema: [Nome]"
        - Adicionar descrição e impacto
        - Definir responsável
@@ -557,7 +568,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Operacional, Tático ou Estratégico (conforme gravidade)
     
     **O que fazer:**
-    
+
     1. **Problema operacional**: criar no Quadro Operacional
     2. **Problema tático**: criar no Quadro Tático
     3. **Problema estratégico**: criar no Quadro Estratégico
@@ -651,12 +662,18 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "🚨 Problemas" → Coluna "📋 Prioridades" (se virar ação)
     
     **O que fazer:**
-    
+
     1. Para problemas já no quadro (da Etapa 4):
+
+
+
        - Adicionar solução definida no corpo do cartão
        - Adicionar causa raiz identificada
        - Definir responsável e prazo
     2. Se a solução exige ação imediata:
+
+
+
        - Criar cartão "📋 Prioridade: [Solução]" na coluna Prioridades
        - Manter problema original para rastreabilidade
 
@@ -666,12 +683,18 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional (ou Estratégico se problema estratégico)
     
     **O que fazer:**
-    
+
     1. Atualizar cartões de "Problema" com:
+
+
+
        - Causa raiz
        - Solução definida
        - Responsável e prazo
     2. Se solução exige implementação:
+
+
+
        - Criar cartão de "Prioridade" derivado
        - Vincular ao problema original
 
@@ -681,10 +704,13 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Operacional, Tático ou Estratégico (onde está o problema)
     
     **O que fazer:**
-    
+
     1. Localizar cartões de "Problema" criados na Etapa 4
     2. Atualizar cada um com solução e responsável
     3. Se solução exige ação:
+
+
+
        - Criar prioridade no mesmo quadro
        - Ou desdobrar para quadro de nível inferior
 
@@ -910,9 +936,12 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Tático/Operacional
     2. Para cada prioridade mensal:
+
+
+
        - Criar cartão "📋 Prioridade: [Nome]"
        - Vincular à Frente Trimestral correspondente
        - Definir responsável e prazo
@@ -925,9 +954,12 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático - Gerentes/Coordenadores
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Tático (nível gerentes)
     2. Para cada prioridade mensal:
+
+
+
        - Criar cartão "📋 Prioridade: [Nome]"
        - Vincular à Frente Trimestral do Quadro Estratégico
        - Definir responsável (gerente/coordenador)
@@ -1045,7 +1077,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional - coluna "Ideias"
     
     **O que fazer:**
-    
+
     1. **Ideias aprovadas**: manter no Quadro Tático com plano de teste
     2. **Ideias de backlog**: manter com etiqueta apropriada
     3. **Ideias rejeitadas**: arquivar com justificativa
@@ -1057,7 +1089,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático ou Operacional (conforme escopo)
     
     **O que fazer:**
-    
+
     1. **Ideias operacionais**: gerenciar no Quadro Operacional
     2. **Ideias táticas**: gerenciar no Quadro Tático
     3. **Ideias estratégicas**: escalar para Quadro Estratégico (raro)
@@ -1258,6 +1290,8 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 
     Após concluir o Ritual Mensal, faça:
 
+
+
     - [ ] Atualizar cartão fixo "📈 Status do Trimestre" com progresso
     - [ ] Atualizar cartão fixo "📊 Indicadores Principais" com valores do mês
     - [ ] Atualizar cartão fixo "🏆 Conquistas do Mês" com vitórias recentes
@@ -1309,6 +1343,9 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
     **Faça o ritual trimestral primeiro!**
     
     O ritual mensal depende de ter:
+
+
+
     - Objetivos trimestrais claros
     - Frentes estratégicas definidas
     - Indicadores estabelecidos
@@ -1318,6 +1355,8 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 ??? question "Preciso fazer todas as 8 etapas?"
     **Sim, todas são importantes.** Mas você pode:
     
+
+
     - Fazer versão mais rápida (30-60 min)
     - Focar nas etapas mais críticas
     - Aprofundar conforme maturidade
@@ -1327,6 +1366,10 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 ??? question "E se a empresa for muito pequena?"
     **Funciona perfeitamente!** Adapte:
     
+
+
+
+
     - Frentes: Podem ser 2-3 apenas
     - Indicadores: Comece com 5-7
     - Duração: 30-60 minutos

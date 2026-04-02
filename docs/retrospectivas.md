@@ -9,7 +9,6 @@
 **Retrospectivas** são momentos estruturados para refletir sobre o que aconteceu, extrair aprendizados e definir melhorias.
 
 !!! tip "Por que fazer retrospectivas?"
-    
     - **Aprendizado**: Entende o que funcionou e o que não funcionou
     - **Melhoria contínua**: Cada ciclo fica melhor que o anterior
     - **Cultura de transparência**: Equipe se sente segura para falar
@@ -194,21 +193,18 @@
 ## 🚨 Regras da Retrospectiva
 
 !!! warning "Ambiente Seguro"
-    
     - **Sem culpa**: Foco em aprender, não punir
     - **Sem julgamento**: Todas as opiniões são válidas
     - **Confidencialidade**: O que é dito aqui, fica aqui
     - **Respeito**: Escute antes de falar
 
 !!! warning "Foco em Ação"
-    
     - Toda retrospectiva deve gerar **ações concretas**
     - Ações devem ter **responsável** e **prazo**
     - Acompanhe ações na próxima retrospectiva
     - Não deixe virar só "desabafo"
 
 !!! warning "Honestidade"
-    
     - Seja honesto sobre problemas
     - Celebre sucessos genuinamente
     - Não esconda falhas

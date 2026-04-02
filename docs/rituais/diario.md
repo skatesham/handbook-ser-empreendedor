@@ -15,7 +15,6 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 - 📊 **Mantém** fluxo de trabalho
 
 !!! tip "Por que fazer diariamente?"
-    
     - **Visibilidade**: Todos sabem o que está acontecendo
     - **Agilidade**: Problemas são detectados cedo
     - **Coordenação**: Evita trabalho duplicado ou conflitante
@@ -69,7 +68,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Revisar coluna "🔄 Em Andamento" e identificar foco do dia
     
     **O que fazer:**
-    
+
     1. Abrir quadro visível para todos
     2. Revisar cartões em "🔄 Em Andamento"
     3. Identificar 1-3 prioridades críticas do dia
@@ -79,7 +78,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Revisar Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Tático/Operacional (onde estão as ações do dia)
     2. Revisar cartões em andamento
     3. Identificar prioridades do dia
@@ -88,7 +87,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Revisar Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Operacional (nível equipe)
     2. Revisar cartões em andamento
     3. Identificar foco diário
@@ -125,7 +124,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Mover cartões conforme progresso
     
     **O que fazer:**
-    
+
     1. **Concluídos ontem:** Mover para coluna "✅ Concluído (7 dias)"
     2. **Em andamento hoje:** Manter/mover para "🔄 Em Andamento"
     3. **Travados:** Marcar com tag "🔴 Bloqueado"
@@ -136,7 +135,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Atualizar status no Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Mover concluídos para "✅ Concluído"
     2. Atualizar status dos em andamento
     3. Marcar bloqueados
@@ -146,7 +145,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Atualizar Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Mover cartões conforme progresso no Quadro Operacional
     2. Atualizar status em tempo real
     3. Marcar bloqueios
@@ -182,7 +181,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Marcar cartões bloqueados e criar ações de desbloqueio
     
     **O que fazer:**
-    
+
     1. **Bloqueios identificados:**
        - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
        - Adicionar comentário breve descrevendo o bloqueio
@@ -197,7 +196,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Marcar bloqueios no Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Marcar cartões bloqueados com tag
     2. Adicionar comentário descrevendo bloqueio
     3. Se bloqueio não resolve hoje: escalar para ritual semanal
@@ -206,7 +205,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Marcar bloqueios no Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Marcar cartões bloqueados no Quadro Operacional
     2. Adicionar descrição do bloqueio
     3. Se bloqueio persiste: escalar para nível superior
@@ -241,7 +240,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Reorganizar prioridades e responsáveis se necessário
     
     **O que fazer:**
-    
+
     1. **Se houver sobrecarga:**
        - Redistribuir cartões entre pessoas
        - Atualizar responsáveis nos cartões
@@ -256,7 +255,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Ajustar Quadro Tático/Operacional conforme necessidade do dia
     
     **O que fazer:**
-    
+
     1. Redistribuir responsáveis se necessário
     2. Reordenar prioridades
     3. Adicionar comentários sobre ajudas combinadas
@@ -265,7 +264,7 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ação:** Ajustar Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Reorganizar cartões no Quadro Operacional
     2. Redistribuir responsáveis
     3. Marcar colaborações no cartão
@@ -275,7 +274,6 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 ## 🚨 Regras Importantes
 
 !!! warning "Mantenha Curto"
-    
     - **Máximo 15 minutos**
     - Não resolva problemas complexos aqui
     - Não faça brainstorming
@@ -285,6 +283,8 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 !!! warning "Escale o Que Não Cabe"
     Se algo precisa de mais de 5 minutos de discussão:
     
+
+
     1. Anote o problema
     2. Marque para resolver depois
     3. Escale para ritual semanal se necessário
@@ -503,6 +503,9 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ótimo!** O ritual fica ainda mais rápido (5-10 min).
     
     Ainda assim, faça para:
+
+
+
     - Manter visibilidade
     - Criar hábito
     - Detectar problemas cedo
@@ -513,6 +516,9 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     Consistência é fundamental. Se pular, perde visibilidade e coordenação.
     
     Pode adaptar:
+
+
+
     - Segunda a Sexta: Daily completo
     - Fim de semana: Não faz (descanso!)
 

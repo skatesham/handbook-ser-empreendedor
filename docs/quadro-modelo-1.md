@@ -57,6 +57,8 @@ Esta coluna é **especial**. Os cartões aqui são **permanentes** e representam
 !!! warning "Regra de Ouro"
     Cartões da coluna **🎯 Decisões Estratégicas**:
     
+
+
     - ❌ Nunca são movidos
     - ❌ Nunca são arquivados
     - ✅ São atualizados nos rituais
@@ -842,6 +844,9 @@ Use **apenas 1 etiqueta colorida** por cartão operacional:
     **Mínimo 6 essenciais. Máximo 10-12.**
     
     Comece com os 6 essenciais:
+
+
+
     1. Meta Trimestral
     2. Indicadores
     3. Pilares
@@ -860,6 +865,9 @@ Use **apenas 1 etiqueta colorida** por cartão operacional:
     **Sim! Mas siga o padrão.**
     
     Use o formato:
+
+
+
     - Emoji prefixo (ex: 🎯)
     - Nome descritivo
     - Template estruturado

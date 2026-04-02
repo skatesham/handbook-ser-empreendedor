@@ -400,6 +400,9 @@ Agora que você entende o Painel, siga esta sequência:
 
 ??? question "O Painel substitui outras ferramentas?"
     Não. O Painel é a **visão consolidada**. Você ainda pode usar:
+
+
+
     - Planilhas para detalhes financeiros
     - Kanban para tarefas operacionais
     - Calendário para compromissos
@@ -408,6 +411,9 @@ Agora que você entende o Painel, siga esta sequência:
 
 ??? question "E se minha empresa for muito pequena?"
     Mesmo empresas de 1 pessoa se beneficiam! Adapte:
+
+
+
     - Estrutura: Você pode ocupar todos os papéis (mas liste-os)
     - Indicadores: Comece com 3-5 métricas básicas
     - Rituais: Mantenha pelo menos semanal e mensal

@@ -16,7 +16,6 @@ O **Ritual Semanal** é a ponte entre planejamento e execução diária. É quan
 - 🔼 Escala **problemas relevantes**
 
 !!! tip "Por que semanalmente?"
-    
     - **Curto o suficiente** para manter ritmo e urgência
     - **Longo o suficiente** para ver entregas completas
     - **Ritmo ideal** para coordenar execução sem microgerenciar
@@ -152,7 +151,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Colunas "🔄 Em Andamento", "📋 Prioridades" e "✅ Concluído"
     
     **O que fazer:**
-    
+
     1. **Ações concluídas:**
        - Mover cartões finalizados → coluna "✅ Concluído (7 dias)"
        - Adicionar comentário com resultado/entrega
@@ -181,7 +180,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Operacional (execução semanal)
     
     **O que fazer:**
-    
+
     1. Mover concluídos para "Concluído" no Quadro Operacional
     2. Revisar pendentes e atualizar
     3. Se houver impacto em prioridades mensais, atualizar Quadro Tático também
@@ -274,7 +273,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Coluna "📋 Prioridades"
     
     **O que fazer:**
-    
+
     1. **Criar prioridades semanais:**
        - Para cada ação prioritária (5-10), criar cartão "📋 Prioridade: [Nome]"
        - Adicionar descrição e entrega esperada
@@ -291,7 +290,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Tático/Operacional
     2. Criar cartões de "Prioridade" para a semana
     3. Vincular cada prioridade à prioridade mensal correspondente
@@ -304,7 +303,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Abrir Quadro Operacional (execução semanal)
     2. Criar cartões de "Prioridade" para cada ação da semana
     3. Vincular às prioridades mensais do Quadro Tático
@@ -399,7 +398,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Coluna "🚨 Problemas" ou marcar em "🔄 Em Andamento"
     
     **O que fazer:**
-    
+
     1. **Para bloqueios em ações existentes:**
        - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
        - Adicionar comentário descrevendo o bloqueio
@@ -416,7 +415,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Tático/Operacional (onde está o bloqueio)
     
     **O que fazer:**
-    
+
     1. Criar cartões de "Problema" no quadro apropriado
     2. Marcar cartões bloqueados com tag
     3. Problemas que afetam plano mensal: escalar para Quadro Tático
@@ -428,7 +427,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Operacional (execução semanal)
     
     **O que fazer:**
-    
+
     1. Criar cartões de "Problema" no Quadro Operacional
     2. Marcar cartões bloqueados
     3. Definir responsável e prazo
@@ -537,7 +536,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
       ```
     
     **O que fazer:**
-    
+
     1. Criar ou localizar cartão fixo
     2. Atualizar valores semanalmente (apenas resumo verbal)
     3. Marcar alertas se houver
@@ -550,7 +549,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Opcional: criar cartão fixo com indicadores semanais
     2. Acompanhamento geralmente é verbal no ritual semanal
     3. **Atualização formal:** Ritual Mensal
@@ -559,7 +558,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Ação:** Indicadores ficam no Painel (verbal no semanal)
     
     **O que fazer:**
-    
+
     1. Acompanhamento semanal é geralmente verbal
     2. **Exceção:** Se indicador revelar problema grave → criar cartão "🚨 Problema"
     3. **Atualização formal:** Ritual Mensal atualiza cartões fixos
@@ -651,7 +650,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Coluna "Decisões" (se houver) ou na coluna apropriada
     
     **O que fazer:**
-    
+
     1. **Apenas decisões relevantes** que precisam ser rastreadas
     2. Criar cartão "Decisão: [Nome]"
     3. Adicionar contexto breve e responsável
@@ -664,7 +663,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer:**
-    
+
     1. Decisões operacionais: criar no Quadro Operacional
     2. Apenas registrar as que precisam rastreamento
     3. Decisões que afetam plano mensal: escalar para ritual mensal
@@ -675,7 +674,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Criar cartões para decisões operacionais relevantes
     2. Decisões muito pequenas: apenas verbal, não criar cartão
     3. Decisões que afetam nível tático: escalar para Quadro Tático
@@ -767,7 +766,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Coluna "💡 Ideias"
     
     **O que fazer:**
-    
+
     1. **Melhorias para implementar agora:**
        - Criar cartão "💡 Ideia: [Nome]" ou transformar em prioridade
        - Se simples, pode virar ação direta
@@ -785,7 +784,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Tático/Operacional - coluna "Ideias"
     
     **O que fazer:**
-    
+
     1. Ideias operacionais: criar no Quadro Operacional
     2. Ideias que precisam avaliação: marcar para ritual mensal
     3. Ideias aprovadas para teste: transformar em ação/prioridade
@@ -797,7 +796,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Quadro Operacional
     
     **O que fazer:**
-    
+
     1. Criar cartões de "Ideia" no Quadro Operacional
     2. Ideias para implementar: transformar em prioridade
     3. Ideias para subir: marcar para ritual mensal (avaliação no Quadro Tático)
@@ -992,6 +991,8 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 
     Após concluir o Ritual Semanal, faça:
 
+
+
     - [ ] Mover cartões concluídos para coluna "✅ Concluído"
     - [ ] Criar cartões de Prioridade para foco da próxima semana
     - [ ] Mover prioridades em execução para "🔄 Em Andamento"
@@ -1044,6 +1045,8 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 ??? question "Preciso fazer todas as 6 etapas?"
     **Sim, todas são importantes.** Mas você pode:
     
+
+
     - Fazer versão mais rápida (15-30 min)
     - Focar nas etapas mais críticas
     - Aprofundar conforme necessidade
@@ -1053,6 +1056,10 @@ Antes de encerrar o ritual, confirme que tudo foi feito:
 ??? question "E se a empresa for muito pequena?"
     **Funciona perfeitamente!** Adapte:
     
+
+
+
+
     - Prioridades: 3-5 ações apenas
     - Duração: 15-30 minutos
     - Participantes: Só você ou você + equipe pequena
