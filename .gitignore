@@ -28,3 +28,7 @@ Thumbs.db
 
 ## pagina build
 site/*
+
+## Confidential
+mvp/
+mvp/*
