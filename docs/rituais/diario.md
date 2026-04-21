@@ -185,9 +185,11 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     1. **Bloqueios identificados:**
        - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
        - Adicionar comentário breve descrevendo o bloqueio
+    
     2. **Bloqueios resolvidos rapidamente:**
        - Remover tag de bloqueio
        - Adicionar comentário com a solução
+    
     3. **Bloqueios que precisam ser escalados:**
        - Manter tag "🔴 Bloqueado"
        - Marcar para discussão no ritual semanal
@@ -244,11 +246,14 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     1. **Se houver sobrecarga:**
        - Redistribuir cartões entre pessoas
        - Atualizar responsáveis nos cartões
+    
     2. **Se houver mudança de prioridade:**
        - Reordenar cartões na coluna
        - Mover cartões entre colunas se necessário
+    
     3. **Se houver ajudas rápidas:**
        - Adicionar comentário no cartão indicando quem vai ajudar
+    
     4. **IMPORTANTE:** Mudanças mínimas - foco é coordenação, não replanejamento
 
 ??? abstract "Quadro Modelo 2: Separação Tática"
@@ -296,17 +301,20 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
 
 ??? tip "Checklist Diário"
     **Antes do Ritual:**
+    
     - [ ] Quadro aberto e visível
     - [ ] Todos presentes (ou representados)
     - [ ] Timer de 15 min configurado
     
     **Durante o Ritual:**
+    
     - [ ] Cada pessoa respondeu as 3 perguntas
     - [ ] Bloqueios identificados
     - [ ] Cartões atualizados no quadro
     - [ ] Foco do dia está claro
     
     **Depois do Ritual:**
+    
     - [ ] Bloqueios sendo resolvidos
     - [ ] Todos sabem suas prioridades
     - [ ] Quadro reflete realidade atual
@@ -471,22 +479,29 @@ O **Ritual Diário** é o momento mais curto e frequente do sistema. É onde voc
     **Ritual Diário de Terça 08/04/2026:**
 
     **Pessoa 1 (João):**
+    
     - ✅ Ontem: Finalizou "Organizar bancada"
       - ➡️ Moveu cartão → "✅ Concluído"
+    
     - 🔄 Hoje: Vai trabalhar em "Testar goma laca 5 peças"
       - ➡️ Moveu cartão "Prioridades" → "🔄 Em Andamento"
+    
     - ⏸️ Bloqueio: Verniz não chegou ainda
       - ➡️ Adicionou tag "🔴 Bloqueado" no cartão
 
     **Pessoa 2 (Maria):**
+    
     - ✅ Ontem: Postou 1 foto no Instagram
       - ➡️ Não move cartão (ainda falta postar 2)
+    
     - 🔄 Hoje: Vai postar mais 1 foto
       - ➡️ Cartão já está em "Em Andamento", continua lá
+    
     - ⏸️ Sem bloqueios
       - ➡️ Nada a fazer
 
     **Ajuste:**
+    
     - João vai ajudar Maria com edição de foto
       - ➡️ Adicionou comentário no cartão "Maria + João"
 

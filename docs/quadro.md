@@ -373,12 +373,14 @@ Etiqueta: 1 cor
     **Sinais claros:**
     
     **Modelo 1 → 2:**
+
     - Quadro tem >30 cartões operacionais
     - Difícil encontrar informações
     - Equipe reclama de poluição
     - Estratégia se perde no operacional
     
     **Modelo 2 → 3:**
+
     - Empresa >15 pessoas
     - Áreas querem autonomia
     - Difícil sincronizar tático com operacional

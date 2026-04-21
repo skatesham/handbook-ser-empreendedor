@@ -296,6 +296,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Atualizar progresso (%)
        - Atualizar status visual (🟢🟡🔴)
        - Adicionar comentário com destaques do mês
+    
     3. Também atualizar cartão fixo "📈 Status do Trimestre"
 
 ??? abstract "Quadro Modelo 3: Multi-Quadros"
@@ -313,6 +314,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Atualizar progresso e status
        - Adicionar comentário mensal
        - Marcar riscos identificados
+    
     3. Atualizar cartão fixo "📈 Status do Trimestre"
     4. **Nota:** Se houver problemas graves, escalar para discussão
 
@@ -490,6 +492,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - Há problemas que afetam múltiplas áreas?
     
     **Exemplo real:**
+    
     - Limitação de tempo para inovação e experimentação
     - Planejamento ineficiente para grandes desempenhos
     - Etsy precisa constantemente de novos produtos e reposição
@@ -503,6 +506,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     - Alguma tendência favorável?
     
     **Exemplo real:**
+    
     - Lixamento poderia ser terceirizado (libera tempo)
     - Goma laca pode melhorar acabamento e velocidade
     - Contratar auxiliar de marcenaria (escalar produção)
@@ -543,6 +547,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Adicionar descrição do problema
        - Adicionar impacto e urgência
        - Adicionar responsável para análise
+    
     2. Oportunidades podem virar cartões de "Ideia" na coluna "💡 Ideias"
 
 ??? abstract "Quadro Modelo 2: Separação Tática"
@@ -670,6 +675,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Adicionar solução definida no corpo do cartão
        - Adicionar causa raiz identificada
        - Definir responsável e prazo
+    
     2. Se a solução exige ação imediata:
 
 
@@ -691,6 +697,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Causa raiz
        - Solução definida
        - Responsável e prazo
+    
     2. Se solução exige implementação:
 
 
@@ -804,6 +811,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "Decisões" (se houver) ou coluna fixa "🎯 Decisões Estratégicas"
     
     **O que fazer para cada decisão:**
+    
     1. Criar cartão com título: "Decisão: [Nome da decisão tática]"
     2. Adicionar contexto e justificativa no corpo
     3. Adicionar opções avaliadas e escolha feita
@@ -817,6 +825,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático/Operacional
     
     **O que fazer para cada decisão:**
+    
     1. Abrir Quadro Tático/Operacional
     2. Criar cartão com título: "Decisão: [Nome]"
     3. Adicionar contexto, justificativa e critério de sucesso
@@ -829,6 +838,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Quadro Tático - Gerentes/Coordenadores
     
     **O que fazer para cada decisão:**
+    
     1. Abrir Quadro Tático (nível gerentes)
     2. Criar cartão com título: "Decisão: [Nome]"
     3. Adicionar todo o contexto da decisão
@@ -923,6 +933,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **Onde:** Coluna "📋 Prioridades"
     
     **O que fazer para cada prioridade:**
+    
     1. Criar cartão com título: "📋 Prioridade: [Nome da ação]"
     2. Adicionar descrição e entrega esperada
     3. Adicionar justificativa (qual frente trimestral avança)
@@ -945,6 +956,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Criar cartão "📋 Prioridade: [Nome]"
        - Vincular à Frente Trimestral correspondente
        - Definir responsável e prazo
+    
     3. **Importante:** Prioridades mensais ficam no Quadro Tático/Operacional
     4. Serão desdobradas em ações semanais posteriormente
 
@@ -963,6 +975,7 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
        - Criar cartão "📋 Prioridade: [Nome]"
        - Vincular à Frente Trimestral do Quadro Estratégico
        - Definir responsável (gerente/coordenador)
+    
     3. Durante o mês, gerentes desdobram prioridades em ações operacionais
     4. Ações operacionais vão para Quadro Operacional
 
@@ -1057,17 +1070,20 @@ O ritual tem **8 etapas sequenciais**. Cada uma gera materiais importantes para 
     **O que fazer para cada ideia:**
     
     **1. Ideias aprovadas para teste:**
+    
     - Manter/criar na coluna "💡 Ideias"
     - Adicionar classificação: "Testar este mês"
     - Adicionar plano de experimento
     - Definir responsável e prazo
     
     **2. Ideias para backlog:**
+    
     - Manter na coluna "💡 Ideias"
     - Adicionar etiqueta "Backlog"
     - Adicionar motivo de adiamento
     
     **3. Ideias rejeitadas:**
+    
     - Arquivar cartão
     - Adicionar motivo da rejeição antes de arquivar
 

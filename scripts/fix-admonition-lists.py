@@ -8,92 +8,63 @@ antes da lista para renderizar corretamente.
 Este script identifica e corrige automaticamente esses problemas.
 """
 
-import re
 import os
+import re
 import sys
 from pathlib import Path
 
+ADMONITION_START_RE = re.compile(r"^(?:\?\?\?|!!!)\s+")
+INDENTED_CONTENT_RE = re.compile(r"^(?: {4}|\t)")
+BLOCK_START_RE = re.compile(r"^ {4}(?:[-*+]\s+|\d+\.\s+|>\s*)")
+CURRENT_BLOCK_RE = re.compile(r"^ {4}(?:[-*+]\s+|\d+\.\s+|>\s*|```|~~~)")
+
+
+def is_admonition_content(line):
+    return line.strip() == "" or INDENTED_CONTENT_RE.match(line) is not None
+
+
+def needs_blank_line_before_block(current_line, next_line):
+    if current_line.strip() == "":
+        return False
+
+    if not INDENTED_CONTENT_RE.match(current_line):
+        return False
+
+    if CURRENT_BLOCK_RE.match(current_line):
+        return False
+
+    return BLOCK_START_RE.match(next_line) is not None
+
+
 def fix_lists_in_admonitions(content):
     """
-    Corrige formatação de listas em admonitions.
-    
-    Padrões corrigidos:
-    1. Listas numeradas sem linha em branco antes
-    2. Listas com marcadores sem linha em branco antes
-    """
-    
-    # Padrão para encontrar admonitions com listas sem linha em branco
-    # Captura: ???/!!! + espaços + "título" + conteúdo
-    admonition_pattern = r'(\?\?\?|!!!)\s+(\w+)\s+"([^"]+)"\s*\n((?:    .*\n)*)'
-    
-    def fix_admonition(match):
-        prefix = match.group(1)
-        admon_type = match.group(2)
-        title = match.group(3)
-        content = match.group(4)
-        
-        # Divide o conteúdo em linhas
-        lines = content.split('\n')
-        fixed_lines = []
-        
-        i = 0
-        while i < len(lines):
-            line = lines[i]
-            
-            # Verifica se a linha atual é um texto seguido por lista na próxima
-            if i + 1 < len(lines):
-                next_line = lines[i + 1]
-                
-                # Padrão para lista numerada ou com marcadores
-                is_list_item = re.match(r'^\s*(\d+\.|[-*+])\s+', next_line)
-                
-                # Se a linha atual termina com dois pontos e a próxima é lista
-                if (line.strip().endswith(':') or line.strip().endswith('**O que fazer:**')) and is_list_item:
-                    fixed_lines.append(line)  # Mantém a linha atual
-                    fixed_lines.append('')   # Adiciona linha em branco
-                    i += 1
-                    continue
-                
-                # Padrão específico para "**O que fazer:**"
-                if '**O que fazer:**' in line and not line.strip().endswith('**O que fazer:**'):
-                    # Se contém "O que fazer" mas não termina com isso, pode precisar de linha em branco
-                    if is_list_item:
-                        fixed_lines.append(line)
-                        fixed_lines.append('')
-                        i += 1
-                        continue
-            
-            fixed_lines.append(line)
-            i += 1
-        
-        # Reconstrói o conteúdo
-        fixed_content = '\n'.join(fixed_lines)
-        
-        return f"{prefix} {admon_type} \"{title}\"\n{fixed_content}"
-    
-    # Aplica a correção
-    fixed_content = re.sub(admonition_pattern, fix_admonition, content, flags=re.MULTILINE)
-    
-    return fixed_content
+    Corrige blocos Markdown dentro de admonitions.
 
-def fix_specific_patterns(content):
+    O MkDocs Material precisa de uma linha em branco entre um parágrafo e uma
+    lista/citação dentro de ???/!!!. Sem isso, os itens ficam colados no texto.
     """
-    Corrige padrões específicos conhecidos que causam problemas.
-    """
-    
-    # Padrão 1: "**O que fazer:**" seguido diretamente por lista
-    pattern1 = r'(\*\*O que fazer:\*\*)\s*\n\s*(\d+\.)'
-    content = re.sub(pattern1, r'\1\n\n    \2', content)
-    
-    # Padrão 2: Texto terminando em ":" seguido por lista
-    pattern2 = r'([^:\n]+:\s*)\n(\s{4,}[-*+]|\s{4,}\d+\.)'
-    content = re.sub(pattern2, r'\1\n\n\2', content)
-    
-    # Padrão 3: "Adapte:" seguido por lista
-    pattern3 = r'(Adapte:\s*)\n(\s{4,}[-*+]|\s{4,}\d+\.)'
-    content = re.sub(pattern3, r'\1\n\n\2', content)
-    
-    return content
+
+    lines = content.splitlines()
+    fixed_lines = []
+    in_admonition = False
+
+    for index, line in enumerate(lines):
+        if ADMONITION_START_RE.match(line):
+            in_admonition = True
+        elif in_admonition and not is_admonition_content(line):
+            in_admonition = False
+
+        fixed_lines.append(line)
+
+        if not in_admonition or index + 1 >= len(lines):
+            continue
+
+        next_line = lines[index + 1]
+        if needs_blank_line_before_block(line, next_line):
+            fixed_lines.append("    ")
+
+    trailing_newline = "\n" if content.endswith("\n") else ""
+    return "\n".join(fixed_lines) + trailing_newline
 
 def validate_file(file_path):
     """
@@ -145,9 +116,8 @@ def process_file(file_path, dry_run=False):
         with open(file_path, 'r', encoding='utf-8') as f:
             original_content = f.read()
         
-        # Aplica as correções
+        # Aplica as correções somente dentro de admonitions.
         fixed_content = fix_lists_in_admonitions(original_content)
-        fixed_content = fix_specific_patterns(fixed_content)
         
         # Verifica se houve mudanças
         if original_content != fixed_content:

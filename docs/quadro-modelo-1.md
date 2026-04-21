@@ -824,6 +824,7 @@ Use **apenas 1 etiqueta colorida** por cartão operacional:
     **Título:** Implementar controle de estoque
     
     **Descrição:**
+
     - **Por que:** Perdendo 15% dos materiais por falta de controle
     - **O que:** Sistema simples de entrada/saída para reduzir perdas <5%
     - **Critério:**

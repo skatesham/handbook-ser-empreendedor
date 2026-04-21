@@ -152,14 +152,19 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     
     **O que fazer:**
 
-    1. **Ações concluídas:**
+    1. **Ações concluídas:**  
+
        - Mover cartões finalizados → coluna "✅ Concluído (7 dias)"
        - Adicionar comentário com resultado/entrega
-    2. **Ações atrasadas:**
+    
+    2. **Ações atrasadas:**  
+ 
        - Manter em "🔄 Em Andamento" ou "📋 Prioridades"
        - Adicionar comentário com causa do atraso
        - Atualizar prazo se necessário
-    3. **Ações para cancelar:**
+    
+    3. **Ações para cancelar:**  
+
        - Arquivar com justificativa
 
 ??? abstract "Quadro Modelo 2: Separação Tática"
@@ -279,9 +284,11 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
        - Adicionar descrição e entrega esperada
        - Definir responsável e prazo (dia específico da semana)
        - Adicionar etiqueta de área
+    
     2. **Reorganizar:**
        - Reordenar prioridades por urgência/importância
        - Limitar WIP (Work In Progress) a 3-5 por pessoa
+    
     3. **NÃO mexer em cartões fixos:** Não move, não arquiva, não atualiza valores (atualização só no mensal). Apenas consulta.
 
 ??? abstract "Quadro Modelo 2: Separação Tática"
@@ -402,10 +409,12 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     1. **Para bloqueios em ações existentes:**
        - Marcar cartão com tag/etiqueta "🔴 Bloqueado"
        - Adicionar comentário descrevendo o bloqueio
+    
     2. **Para problemas novos:**
        - Criar cartão "🚨 Problema: [Nome]" na coluna Problemas
        - Adicionar descrição e responsável
        - Definir prazo para resolver
+    
     3. **Problemas que não resolvem na semana:**
        - Marcar para escalar no ritual mensal
 
@@ -521,6 +530,7 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **Template do Cartão:**
+    
     - **Título:** "📊 Indicadores da Semana"
     - **Descrição:**
       ```
@@ -770,11 +780,14 @@ O ritual tem **6 etapas sequenciais**. Cada uma mantém a execução alinhada e 
     1. **Melhorias para implementar agora:**
        - Criar cartão "💡 Ideia: [Nome]" ou transformar em prioridade
        - Se simples, pode virar ação direta
+    
     2. **Ideias para subir ao ritual mensal:**
        - Criar/manter na coluna "💡 Ideias"
        - Adicionar tag "Avaliar no Mensal"
+    
     3. **Ideias para registrar:**
        - Criar na coluna "💡 Ideias" com tag "Backlog"
+    
     4. **Ideias descartadas:**
        - Não criar cartão ou arquivar se já existe
 

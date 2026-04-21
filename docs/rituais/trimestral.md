@@ -104,6 +104,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - O que te motiva a fazer isso?
     
     **Exemplo:**
+    
     > "Criar objetos artesanais que unem natureza, propósito e estética — valorizando o trabalho manual, a sustentabilidade e o impacto positivo."
 
 ??? question "2. Para quem você existe?"
@@ -114,9 +115,11 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - Como você melhora a vida deles?
     
     **Exemplo:**
+    
     > "Para pessoas que valorizam produtos únicos, sustentáveis e com história."
     
     **Caso real:**
+    
     > "Para xamânicos, espiritualistas, turistas conscientes e pessoas classe média-alta que buscam peças artesanais autênticas, de alta qualidade e com propósito."
 
 ??? question "3. O que te diferencia?"
@@ -127,13 +130,16 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - Por que alguém escolheria você?
     
     **Exemplo:**
+    
     > "Cada peça é única, feita à mão com materiais naturais certificados."
     
     **Caso real:**
+    
     > "Inovação constante, combinação de técnicas ancestrais e modernas, materiais sustentáveis, qualidade superior no acabamento, durabilidade e encaixe perfeito — diferente de concorrentes com qualidade inferior."
 
 ??? question "4. Este objetivo ainda faz sentido?"
     **Se for revisão (não primeira vez):**
+    
     - O objetivo ainda inspira a equipe?
     - Ele reflete o que a empresa se tornou?
     - Precisa de ajustes ou está bom?
@@ -249,6 +255,7 @@ O **objetivo principal** é a razão de existir da empresa. Sem ele, você não 
     - Que comportamentos ele exige?
     
     **Exemplo:**
+    
     > **Sustentabilidade** = Materiais certificados, longevidade dos produtos, impacto mínimo
 
 ??? question "3. Quantos pilares são necessários?"
@@ -533,6 +540,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **Template do Cartão:**
+    
     - **Título:** "👥 Participantes e Papéis"
     - **Descrição:** 
       ```
@@ -559,6 +567,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
     **Onde:** Quadro Estratégico
     
     **Template do Cartão:**
+    
     - **Título:** "👥 Participantes e Papéis"
     - **Descrição:** Mesma estrutura do Modelo 1
     
@@ -575,6 +584,7 @@ Além da estrutura formal, é importante documentar **quem participa** de cada r
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **Template do Cartão:**
+    
     - **Título:** "👥 Estrutura de Pessoas"
     - **Descrição:**
       ```
@@ -718,6 +728,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **Template do Cartão:**
+    
     - **Título:** "🎨 Canvas do Negócio"
     - **Descrição:**
       ```
@@ -753,6 +764,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico
     
     **Template do Cartão:**
+    
     - **Título:** "🎨 Canvas do Negócio"
     - **Descrição:** Mesma estrutura do Modelo 1
     
@@ -770,6 +782,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **Template do Cartão:**
+    
     - **Título:** "🎨 Modelo de Negócio"
     - **Descrição:** Mesma estrutura do Modelo 1
     
@@ -817,6 +830,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     - Onde o valor é criado?
     
     **Exemplo:**
+    
     > Pedido → Produção → Qualidade → Embalagem → Envio
 
 ??? question "2. Quais são os processos críticos?"
@@ -866,6 +880,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Coluna fixa "🎯 Decisões Estratégicas"
     
     **Template do Cartão:**
+    
     - **Título:** "🏛️ Fluxo Operacional"
     - **Descrição:**
       ```
@@ -898,6 +913,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico ou Quadro Tático
     
     **Template do Cartão:**
+    
     - **Título:** "🏛️ Fluxo Operacional"
     - **Descrição:** Mesma estrutura do Modelo 1
     
@@ -914,6 +930,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Tático/Operacional (mais adequado que Estratégico)
     
     **Template do Cartão:**
+    
     - **Título:** "🏛️ Fluxo de Processos"
     - **Descrição:**
       ```
@@ -1102,6 +1119,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "1. O que funcionou bem no último trimestre?"
     **Celebre sucessos:**
+    
     - Que decisões deram certo?
     - Que processos funcionaram?
     - Que conquistas tivemos?
@@ -1109,6 +1127,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "2. O que não funcionou?"
     **Seja honesto:**
+    
     - Que decisões foram ruins?
     - Que processos travaram?
     - Que problemas surgiram?
@@ -1116,6 +1135,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "3. Que surpresas aconteceram?"
     **Inesperados:**
+    
     - O que não previmos?
     - Que oportunidades apareceram?
     - Que crises enfrentamos?
@@ -1123,12 +1143,14 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "4. O que aprendemos?"
     **Lições extraídas:**
+    
     - Se pudéssemos voltar, o que faríamos diferente?
     - Que insights tivemos?
     - Que padrões identificamos?
 
 ??? question "5. O que mudar no próximo trimestre?"
     **Ações concretas:**
+    
     - Que processos ajustar?
     - Que comportamentos mudar?
     - Que decisões tomar diferente?
@@ -1224,6 +1246,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "1. Que decisões importantes precisam ser tomadas?"
     **Identifique:**
+    
     - Mudanças de direção?
     - Novos produtos/serviços?
     - Parcerias estratégicas?
@@ -1232,18 +1255,21 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "2. Para cada decisão: Qual o contexto?"
     **Documente:**
+    
     - Por que essa decisão é necessária?
     - Que problema ela resolve?
     - Que oportunidade ela aproveita?
 
 ??? question "3. Quais são as opções?"
     **Alternativas:**
+    
     - Que caminhos diferentes existem?
     - Prós e contras de cada um?
     - Qual o custo/risco de cada?
 
 ??? question "4. Qual a decisão final?"
     **Escolha:**
+    
     - Qual opção foi escolhida?
     - Por que essa e não as outras?
     - Quem aprovou?
@@ -1251,6 +1277,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 
 ??? question "5. Como medir se foi boa?"
     **Critério de sucesso:**
+    
     - Como saberemos se deu certo?
     - Que indicador acompanhar?
     - Quando revisar?
@@ -1283,6 +1310,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Pode ir em coluna própria "Decisões" ou na coluna fixa (se não houver coluna de Decisões)
     
     **O que fazer para cada decisão:**
+    
     1. Criar cartão com título: "Decisão: [Nome da decisão]"
     2. No corpo: contexto, justificativa, opções avaliadas
     3. Adicionar responsável e prazo
@@ -1296,6 +1324,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico (coluna de decisões ou área apropriada)
     
     **O que fazer para cada decisão:**
+    
     1. Abrir Quadro Estratégico
     2. Criar cartão com título: "Decisão: [Nome]"
     3. Adicionar contexto, justificativa e critério de sucesso
@@ -1309,6 +1338,7 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **Onde:** Quadro Estratégico - CEO/Fundadores
     
     **O que fazer para cada decisão:**
+    
     1. Abrir Quadro Estratégico (nível CEO)
     2. Criar cartão com título: "Decisão: [Nome]"
     3. Adicionar todo o contexto da decisão
@@ -1346,37 +1376,42 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
 ### Perguntas Guiadas
 
 ??? question "1. Quais são as 3-5 coisas MAIS importantes para os próximos 90 dias?"
-    **Critério:**
-    - Se só pudesse fazer 3 coisas, quais seriam?
-    - O que mais move a empresa para frente?
-    - O que tem maior impacto?
+    **Critério:**  
+    
+    - Se só pudesse fazer 3 coisas, quais seriam?  
+    - O que mais move a empresa para frente?  
+    - O que tem maior impacto?  
     
     **Importante:** Não mais que 5 prioridades!
 
 ??? question "2. Para cada prioridade: Por que ela é importante?"
-    **Justifique:**
-    - Que objetivo ela serve?
-    - Que pilar ela fortalece?
-    - Que problema ela resolve?
-    - Que oportunidade ela captura?
+    **Justifique:**  
+    
+    - Que objetivo ela serve?  
+    - Que pilar ela fortalece?  
+    - Que problema ela resolve?  
+    - Que oportunidade ela captura?  
 
 ??? question "3. Como saber se foi concluída?"
-    **Critério de conclusão:**
-    - O que precisa acontecer?
-    - Que entrega precisa existir?
-    - Que métrica precisa mudar?
+    **Critério de conclusão:**  
+    
+    - O que precisa acontecer?  
+    - Que entrega precisa existir?  
+    - Que métrica precisa mudar?  
 
 ??? question "4. Quem é responsável?"
-    **Atribuição:**
-    - Quem lidera essa prioridade?
-    - Quem responde pelos resultados?
-    - Quem executa?
+    **Atribuição:**  
+    
+    - Quem lidera essa prioridade?  
+    - Quem responde pelos resultados?  
+    - Quem executa?  
 
 ??? question "5. Qual o prazo?"
-    **Timeline:**
-    - Quando deve estar pronto?
-    - Há marcos intermediários?
-    - Há dependências?
+    **Timeline:**  
+    
+    - Quando deve estar pronto?  
+    - Há marcos intermediários?  
+    - Há dependências?  
 
 ### Como Fazer
 
@@ -1408,12 +1443,14 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **O que fazer:**
     
     **1. Criar cartão fixo da Meta:**
+    
     - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
     - Adicionar objetivo principal do trimestre
     - Listar as 3-5 prioridades estratégicas
     - Marcar como fixo na coluna "🎯 Decisões Estratégicas"
     
     **2. Criar cartões de Prioridade (para cada uma):**
+    
     - Criar cartão com título: "📋 Prioridade: [Nome]"
     - Adicionar justificativa e critério de conclusão
     - Definir responsável e prazo (fim do trimestre)
@@ -1428,12 +1465,14 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **O que fazer:**
     
     **1. Criar cartão fixo da Meta:**
+    
     - Abrir Quadro Estratégico
     - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
     - Adicionar objetivo e listar prioridades
     - Marcar como fixo
     
     **2. Criar Frentes Trimestrais:**
+    
     - Criar coluna "Frentes Trimestrais" no Quadro Estratégico (se não houver)
     - Para cada prioridade, criar cartão de "Frente"
     - Adicionar justificativa, critério e responsável
@@ -1447,17 +1486,20 @@ O **Canvas** é uma visão consolidada do modelo de negócio. Ajuda a ver como t
     **O que fazer:**
     
     **1. Criar cartão fixo da Meta (Estratégico):**
+    
     - Abrir Quadro Estratégico (nível CEO)
     - Criar cartão "🎯 Meta Trimestral Q[X]/[ANO]"
     - Adicionar objetivo e listar as 3-5 prioridades
     - Marcar como fixo
     
     **2. Criar Frentes Trimestrais (Estratégico):**
+    
     - Para cada prioridade, criar cartão de "Frente Trimestral"
     - Adicionar contexto estratégico completo
     - Definir responsável (geralmente nível tático)
     
     **3. Desdobrar para Quadro Tático:**
+    
     - Cada Frente Trimestral gera planos mensais no Quadro Tático
     - Gerentes/coordenadores criam ações derivadas
     - **Importante:** Estratégico define O QUÊ, Tático define COMO
